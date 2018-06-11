@@ -1,4 +1,4 @@
-# docQE-corp: Resources for document-level Quality Estimation
+# Resources for document-level Quality Estimation
 
 This repository contains the resources used for our [COLING'18 paper][1], and released as part of our [framework for neural-based Quality Estimation (DeepQuest)][2].
 If you use this data, please cite:
