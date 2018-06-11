@@ -1,0 +1,25 @@
+Red Bull triomphe en F1 avec une arme secrète de Siemens
+Un logiciel crée des améliorations sur les voitures à temps réel.
+Dès que Red Bull es entré dans le monde de la Formule 1 en 2004, son histoire dans ce sélecte univers de la vitesse a été marquée par la surprise et par le succès.
+Dans un premier moment, personne n'a tenu en compte les options d'une nouvelle écurie qui venait d'arriver, malgré la trajectoire ascendante des derniers saisons, le passé novembre, dans la dernière phase du championnat ils ont tous parié sur le triomphe de Ferrari de Fernando Alonso.
+Sans baisser l'habileté comme pilote du champion, l'allemand Sebastien Vette, non plus la capacité du moteur Renault qui propulse sa voiture, dans le monde de la Formule 1 on parle de la légende de l'"arme secret" que la compagnie multinationale Siemens a mis aux mains de Red Bull pour le transformer dans un équipe gagnant.
+Il s'agit en réalité d'un puissant logiciel de simulation de processus que la compagnie allemande a lancé sur le marché en 2007 avec des objectifs très éloignés de la haute compétition automobilistique.
+Nommé PLM, ce puissant instrument informatique a été utilisé pour créer des chaines de montage des usines fabricantes de tout le monde, des stations d'énergie, des instruments de haute précision.
+L'objectif est reproduire, simuler fidèlement le produit ou le processus avant de le construire d'une manière réelle, en évitant ainsi les défauts et coûts évitables.
+PLM a facilité le développement des appareils photo de Canon, des avions de Sukhoi ou des plus célèbre véhicules utilitaires de Nissan.
+Siegfried Russwurm, responsable de la division industrielle de Siemens, explique le fait que l'utilisation de cet instrument informatique dans son usine de Formule 1 a permis Red Bull de créer et exécuter "dans peu d'heures, presque en temps réel", les modifications, changements et améliorations détectées pendant les courses et essais.
+Russwurm explique que les écuries de l'an 1992 avait une moyenne de 10 techniciens dans leurs équipes qui était capables d'introduire un maximum de trois ou quatre améliorations sur les véhicules chaque saison.
+Dans l'équipe de Red Bull travaillent aujourd'hui 180 jeunes professionnels de haute qualification qui, équipés de puissants équipements informatiques analysent et projettent tout sorte de modifications sur les bolides.
+Le dirigeant de Siemens a expliqué que le logiciel PLM est capable d'analyser et améliorer tous les éléments des bolides de Red Bull excepté le moteur, qui est responsabilité exclusive de Renault.
+On modifie les matériaux, le combustible, l'aérodynamique et les éléments de sécurité.
+Les changements peuvent passer de la réalité virtuelle du simulateur à la réalité dans moins de 24 heures, grâce à des systèmes avancés de production par laser et autoclaves de haute technologie.
+Comme unique limitation de cette folie du perfectionnement technologique il y a le montant de 40 millions de dollars que chaque équipe de Formule 1 peut dépenser comme limite chaque saison pour faciliter la concurrence.
+Red Bull a implanté l'usine de haute technologie pour créer et produire ses bolides dans une localité à 50 kilomètres de Londres.
+Ce sont deux bâtiments où les visites, spécialement pour les journalistes, sont restreintes.
+Tout ce qui se passe là-bas est considéré "top secret".
+Le personnel pour ce devoir compte 580 personnes, ci-inclus deux pilotes, le champion Vettel et Mark Webber.
+Le héro de la Formule 1 de Red Bull, sans doute, est le récent champion Sebastian Vetell.
+Entre les immenses ressources technologiques que la marque de boissons énergétiques a met au service de sa participation dans les circuits, il y a d'autres protagonistes cachés, dont l'activité est inestimable et la notoriété nulle.
+Le directeur de technologie de l'usine, Steve Nevey, affirme qu'il y a cinq ans on pourrait affirmer que les progrès de R+D dans le cas de voitures de courses apportaient le 50% des victoires et les pilotes étaient responsable du reste.
+Aujourd'hui ces pourcentages ont changé et la technologie représente le 85% du succès, pendant que les pilotes apportent le 15% de la valeur ajoutée.
+Nevey avoue que les Vettel ou Webber ne seront jamais remplacés par l'informatique, car "ils sont des gladiateurs imprévisibles".

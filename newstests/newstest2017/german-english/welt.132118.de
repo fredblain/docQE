@@ -1,0 +1,45 @@
+Datenklau: So perfide erpressen Hacker ihr Lösegeld
+Programmierer von Erpressungs-Malware greifen aktuell gezielt Unternehmen an - und sind dabei erfolgreich.
+Laut einer aktuellen Umfrage der Malware-Abwehr-Spezialisten Malwarebytes unter 540 Unternehmen in Nordamerika, Großbritannien und Deutschland wurden 40 Prozent der befragten Firmen in den vergangenen zwölf Monaten mindestens einmal, teilweise mehrfach Opfer einer Attacke mit Erpresser-Software.
+In Deutschland waren knapp 20 Prozent der Firmen bereits einmal Ziel einer Ransomware-Erpressung.
+40 Prozent der Opfer zahlten bereitwillig die von den Tätern geforderten Lösegelder, um die angegriffenen Systeme und Daten wieder nutzen zu können.
+Die Täter spezialisieren ihre Erpresser-Software laut der Beobachtungen von Malwarebytes zusehends auf Attacken in Firmennetzwerke.
+Sind sie dort erfolgreich, fällt das potenziell zu erpressende Lösegeld deutlich höher aus als bei Privatnutzern.
+"Wir beobachten aktuell eine erschreckend schnelle Evolution der Schadsoftware", erklärt Malwarebytes-Chef Marcin Kleczynski im Gespräch mit der "Welt".
+2008 waren die meisten Malwareprogramme noch darauf ausgelegt, Werbung zu verschicken.
+Dann entdeckten die Täter Erpressungs-Software für sich.
+Erst waren Privatnutzer das Ziel, doch der Wechsel hin zu Firmenattacken erfolgte in den vergangenen Monaten erschreckend schnell.
+Ransomware arbeitet nach einem einfachen Muster: Einmal auf dem Computer eines Opfers aktiv, sucht sie gezielt nach unlängst veränderten Dateien wie etwa Word-, Excel- oder Datenbank-Dateien sowie nach Archiven von Bildern und Videos.
+Diese Dateien verschlüsselt die Ransomware und löscht die Originale nachhaltig.
+Anschließend präsentiert die Software die Forderungen der Erpresser.
+Um den Endschlüsselungs-Code zu den Dateien zu bekommen, müssen die Opfer Geld - meist in Form der Cryptowährung Bitcoin - überweisen.
+Doch wo bei Privatnutzern die persönliche Foto-Datenbank auf dem Spiel steht, geht es bei Firmen um sensible Kundendaten oder Projekt-Datenbanken, ohne die die Produktion stillsteht.
+Dementsprechend höher fällt der Schaden aus, wenn eine Ransomware zuschlägt.
+22 Prozent der betroffenen deutschen Firmen meldeten Umsatzverluste durch Ransomware, 13 Prozent mussten sogar die Geschäftstätigkeit komplett unterbrechen, bei einem Fall waren Menschen in Lebensgefahr.
+In Deutschland waren bereits mehrfach Krankenhäuser Opfer von Attacken, deren Patienten durch den Verlust von Krankenakten akut bedroht sein können.
+"Wir sagen den Opfern immer: Zahlt nicht, ihr fördert damit nur das Problem", erklärt Kleczynski.
+Doch 80 bis 90 Prozent der Firmen, die zahlen, bekommen ihre Daten wieder.
+Für Manager ist es schwierig, angesichts von Stillstand im Betrieb die Forderung der Täter abzulehnen.
+Die Hacker wiederum wissen das und versuchen alles, um eine gute Reputation aufzubauen.
+In einer aktuellen Studie haben die Sicherheitsforscher von F-Secure die Nutzeroberflächen und den Kontakt mit den Erpressern untersucht und kommen zu dem Ergebnis: Die Täter versuchen tatsächlich, eine Art Kundenservice aufzubauen, um mehr Geld einzunehmen.
+Sie erklären ihren Opfern per Chat, wie sie per Bitcoin zahlen können, richten frei zugängliche Support-Websites ein oder entschlüsseln umsonst Beispiel-Dateien.
+Und werden Privatleute nach Zahlungen von wenigen Hundert Euro erlöst, müssen Unternehmen teils hart verhandeln und fünfstellige Summen zahlen, um ihre Daten unverschlüsselt zurückzubekommen.
+Angesichts der potenziell hohen und relativ risikolosen Gewinne aus der Ransomware-Erpressung werden die Hacker immer professioneller und teilen sich die Arbeit, erklärt Sicherheitsexperte Chester Wisniewski vom Antivirus-Anbieter Sophos: "Eine einzelne Person kann eine Ransomware circa innerhalb einer Woche schreiben."
+Wahrscheinlicher ist es jedoch, dass es sich um drei oder vier Personen handelt.
+Die Programmierer verkaufen ihre Schadsoftware dann in Form eines Software-Baukastens an die eigentlichen Erpresser.
+Die bisherigen Malware-Kits entstanden, indem die Malware selbst, Beratung und zusätzliche Tools für einen einmaligen, festen Preis zwischen 1000 und 10.000 Dollar gekauft wurden.
+"Im Lieferumfang enthalten ist ein Anpassungstool, sodass kleinere Konfigurationen, Aussehen und Branding verändert werden können", sagt Wisniewski.
+Die Erpresser suchen sich dann weitere Hacker, um die frisch eingekaufte Software unter den Opfern zu verbreiten.
+Wir leben in einer Dienstleistungswirtschaft.
+Man loggt sich also in eines der Foren im Untergrund, kauft das Set von einem Kriminellen und beauftragt einen weiteren damit, die Software auf möglichst vielen PCs zu installieren.
+Die Bezahlung erfolgt pro infiziertem Rechner.
+"Üblicherweise beauftragen die Kriminellen dann Spammer mit der Verbreitung", erklärt Wisniewski.
+Das Risiko von Ransomware ist mittlerweile bei vielen Unternehmen bekannt, die ihre Daten besser sichern.
+Über 50 Prozent der Firmen-IT-Verantwortlichen in der Malwarebytes-Umfrage vertrauen darauf, Ransomware mittels Datei-Back-ups und Scannersoftware abwehren zu können.
+Dementsprechend verfolgen die Täter bereits neue Strategien.
+"Wenn die Verschlüsselung von Daten allein keine ausreichende Bedrohung für erfolgreiche Erpessung mehr ist, drohen die Täter stattdessen mit der Veröffentlichung von sensiblen Daten wie etwa Kundenlisten oder Preiskalkulationen", erklärt Malwarebytes-Chef Marcin Kleczynski.
+Damit ist das Schadenspotential je nach Art der Daten noch um ein vielfaches höher als zuvor.
+Auch könnten die Täter künftig völlig neue Ziele im Internet der Dinge aufs Korn nehmen.
+Auf der Hackerkonferenz Defcon demonstrierten Sicherheitsforscher, wie sie ein mit dem Internet verbundenes Thermostat unter ihre Kontrolle bekommen konnten.
+Mitten im Winter könnte die Freischaltung einer derart blockierten Heizung so manchem Opfer durchaus ein Lösegeld wert sein.
+Wenn die Täter dann anstatt der Heizung in Zukunft eine ganze Fertigungsstraße in einer Fabrik blockieren, könnte Ransomware auch in der Industrie 4.0 ein Thema werden.

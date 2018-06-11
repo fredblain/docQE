@@ -1,0 +1,9 @@
+Austria
+Inscripción de una "regla dorada" presupuestaria en la constitución
+El gobierno del gran social democrático /cristiano que la coalición democrática en el poder en Austria decidía por martes para escribir una "regla dorada" presupuestaria en la constitución, para reducir déficits públicos y para así evitar una posible degradación por agencias de valoración del rsting de crédito garantizado por el estado de Austria (A triple).
+Era el Canciller social democrático su duende, Werner Faymann, que anunciaba esta decisión al extremo de una reunión del consejo de ministros, con la deuda pública austríaca en 74, 6 por ciento, mucho más alto que la norma de un máximo de 60% situados por el tratado de Maastricht, pero por debajo de la deuda pública de países como Italia, Grecia o España.
+"Si la solvencia de Austria no hubiera bajado por un individuo notch,from AAA a AA+, tendríamos que pagar tres mil un millón Euros de interés más todos los años", discutidos el vice-canciller y el ministro de Asuntos Exteriores democrático cristiano, Michael Spindelegger.
+Austria de esta forma obedece una petición de la cumbre de Bruselas de Estados Unidos de miembro de Eurozone en el 26 de octubre; las cabezas de Estado y gobierno pedían una reducción hacia el final de 2102 a déficits públicos y un regreso a cuentas públicas equilibradas en la constitución o en una ley al mismo efecto.
+Las disposiciones adoptadas por el gobierno austríaco se acercan el "modelo Alemán", siendo el primer país europeo para adoptar esta "regla."
+Por 2017, el déficit estructural público debe bajar por 0,75% del PIB) y de 2017, el déficit público estructural del Estado Federal Austríaco no debe superar 0, 35 por ciento de PIB en cualquier año, mientras el Länder, así como las comunidades, debe presentar presupuestos equilibrados.
+El objetivo es eso de caída de deuda pública que hace por debajo del 60% del criterio fijado por el tratado de Maastricht por 2020/2021.

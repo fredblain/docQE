@@ -1,0 +1,5 @@
+La CNMV autoriza la opa de exclusión de Paternina que presentó Inversora Mer
+La Comisión Nacional del Mercado de Valores (CNMV) autorizó ayer la opa de exclusión presentada por Inversora Mer sobre Federico Paternina el pasado 9 de octubre.
+El organismo supervisor ha explicado que autoriza esta operación al entender que sus términos se ajustan a las normas vigentes y considerar "suficiente" el contenido del folleto explicativo presentado tras las modificaciones introducidas el pasado 2 de diciembre.
+La CNMV ha precisado que la oferta se dirige a la adquisición de 550.008 acciones de Federico Paternina a un precio de 7,65 euros por acción, lo que representa un 8,95% de su capital social, que está compuesto por 6.142.786 acciones admitidas a negociación en las Bolsas de Madrid y Bilbao.
+Asimismo, ha explicado que se han inmovilizado 5.592.778 millones de acciones, que no podrán ser transmitidas de ninguna forma hasta la finalización de la oferta, de la que ha especificado que el precio ha sido fijado por Federico Paternina, de acuerdo con lo dispuesto en la normativa vigente.

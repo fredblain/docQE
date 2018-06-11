@@ -1,0 +1,14 @@
+Detained Totana alcalde y el jefe de la policía local sobre una conspiración presunta de la corrupción city-planning 
+La Guardia Civil ha detenido el alcalde actual del municipio Murcian Totana, José popular "Andreo Martinez, el jefe de la policía local, el secretario del consejo City y un empresario hostal city-planning posibles crímenes, fuentes nos han informado hoy. 
+El edil fue arrestado en su casa abordar y se ha transferido al Consistory, en cuyo dependencias en el momento con varios agentes, que también han ido al Consejo URBAN y la empresa municipal gestión del suelo Industrial y vivienda. 
+Estas tres detenciones se añaden a seis pasado lunes en Galicia, Murcia y Madrid, en una operación vinculada al recalificar de más de 2 millones de hectáreas de terreno rústico urbanizeable Nuaria para que la empresa gallega construye 4.000 casas, tras el pago de las comisiones ilegales durante la legislatura anterior. 
+Además, las otras dos personas fueron detenidas, pero no acusa al resumen, que ordena la Totana número 1 Tribunal. 
+Los primeros seis arrestos han ido ante el tribunal hoy. 
+Según fuentes de información, la anterior alderman Totana y real autonomic parlamentaria del PP, Juan Morales, está siendo investigados. 
+Además, el antiguo esposa, propietario de una agencia inmobiliario registrado en Totana, ha sido tramitando, como lo es la novia actual del ex alderman reside en capital Murcia. 
+El director y propietario del Grupo Nuaria, el abogado y industralist N.A. Vigo Manuel, fue detenido en Nigrán (Pontevedra), como M.G. Pablo José, director de terreno Inmonuar, una agencia integrada con el grupo mencionado, y que habría sido mediante los sobornos. 
+La investigación es la responsabilidad del Grupo de Operar Crímenes City-planning Oficina Central (UCO) de la Guardia Civil, cuyos agentes, además de los arrestos, realizado once registros, la mayoría a las empresas relacionadas con los detenidos y situados en Madrid, Vigo, Murcia, Pontevedra, Madrid y Totana. 
+Una persona fue detenido en Totana, en particular, el propietario de aves empresa producto conocido en la región, que podría haber actuado como intermediario. 
+El Grupo Nuaria fue responsable de desarrollar lo que se convirtió en el mayor residenciales complejo del municipio Murcian Totana, que participan la construcción de más de 5.000 casas, un curso golf y dos hoteles con termal ". 
+La empresa adquirido en Totana 2,2 millones de metros cuadrados de tierras recalificados y su proyecto presupone la duplicación de la población del municipio, que ha 25.000 habitantes. 
+El Grupo Nuaria integra empresas como Autesa y Inomonuar, dedicada al desarrollo inmobiliario; Conycase, que gestiona el estacionamiento sedes de las calles de Coruña, Venezuela y Fernando la plaza católica; Hogartel, dedicada al sector de la comercialización directa; Preconiza defendido centrarse en la promoción, la venta y la instalación de los elementos de la construcción. 

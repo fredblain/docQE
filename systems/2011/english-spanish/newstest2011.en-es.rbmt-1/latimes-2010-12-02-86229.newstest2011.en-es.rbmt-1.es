@@ -1,0 +1,19 @@
+Nombramientos del Grammy Awards: Michael Daugherty, categorías clásicas de la ventaja de Steve Mackey 
+Los nombramientos clásicos para la 53.a característica anual del Grammy Awards una mezcla de extensión de músicos y de compositores de todo el mundo. 
+Llevando los nombramientos son Deus ex machina de Michael Daugherty "", para el piano y la orquesta, con cinco cabeceos, y Dreamhouse de Steve Mackey "", un trabajo de orquesta ecléctico, con tres cabeceos. 
+Entre los candidatos con los lazos a California meridional es el compositor estonio Arvo Pärt para su no. 4 de la sinfonía, "Los Ángeles", un pedazo que fue encargado por el Los Ángeles filarmónico y debuted en la sala de conciertos de Walt Disney en 2009. 
+La - el concierto de la mandolina de Avner Dorman basado del compositor está también para arriba para un premio. 
+Los nombramientos clásicos son 13 recubrimientos extendido por de las categorías de orquesta, operísticos, coral y grabaciones a solas. 
+Una categoría para el productor clásico del año ofrece a cinco candidatos - Blanton Alspaugh, David Frost, Tim Handley, puerto deportivo y vencedor Ledin y James Mallinson. 
+Los nombramientos para el álbum clásico son no. 3 y 4 de las sinfonías de Bruckner de la orquesta real de Concertgebouw\; La "Deus ex machina" de Daugherty y "sinfonía de la metrópoli" de la orquesta sinfónica de Nashville\; "Dreamhouse" de Steven Mackey de la pieza vocal moderna del proyecto y de la sinergia de la orquesta de Boston\; "Sacrificium - el arte del Castrati" que ofrece a diversos artistas\; y los "réquiemes" de Verdi de la orquesta sinfónica y del estribillo de Chicago. 
+En la categoría de la ópera, los candidatos son "Lulu" del iceberg de la orquesta del teatro de la ópera real\; "Marc Antonio e Cleopatra" de Adolfo Hasse de ARS Lyrica Houston\; "L'Amour de Loin" de Kaija Saariaho de Deutsches Symphonie-Orchester Berlín\; "El vagabundo encantado" de Rodion Shchedrin de la orquesta y del estribillo del teatro de Mariinsky\; y "Ivanhoe" de Arthur Sullivan de la orquesta nacional de la BBC de País de Gales. 
+Los compositores que están para arriba para Grammys para la composición contemporánea incluyen Pärt para no. 4 de la sinfonía, Daugherty para la "Deus ex machina", a Hans Werner Henze para "Appassionatamente más", Magnus Lindberg para la "pintada" y Shchedrin para "el vagabundo encantado". 
+No. 4 de la sinfonía de Pärt tenía su premier en Disney pasillo en enero de 2009 en un funcionamiento que fue registrado por el L.A. Philharmonic, conducido por Esa-Pekka Salonen. 
+Los aproximadamente 30 pedazos minuciosos son "Los Ángeles doblado" y se dedican al magnate del petróleo anterior Mijail Jodorkovski, que se encarcela en Rusia. 
+El "concierto de la mandolina" de Dorman fue nombrado para el funcionamiento instrumental del solista con la orquesta. 
+El compositor de L.A. dijo que él escribió los 15 pedazos minuciosos específicamente para el ejecutante Avi Avital de la mandolina, que realizó el concierto con el nuevo conjunto York-basado de la metrópoli. 
+"Lo escribí usando sonidos medio-orientales y muchas escalas y ritmos del norte del africano", dijo a Dorman en una entrevista por teléfono. 
+El conductor Pierre Boulez, 85, recibió un nombramiento en la categoría de funcionamiento de orquesta, para llevar la sinfonía de Chicago en una grabación de trabajos por Stravinsky. 
+Los solistas instrumentales que recibieron nombramientos incluyen a los pianistas Nelson Freire y Marc-André Hamelin\; organista Paul Jacobs\; violinista Julia Fischer\; y arpista Sarah Schuster Ericsson. 
+los candidatos eran todos del Vocal-solista femeninos este año y Anne incluido Sofie Von Otter, Cecilia Bartoli, Lucía Duchonová, Vivica Genaux y Measha Brueggergosman. 
+En la categoría clásica de la cruce, el normando de Jessye del soprano recibió un nombramiento para su grabación "raíces - mi vida, mi canción". 

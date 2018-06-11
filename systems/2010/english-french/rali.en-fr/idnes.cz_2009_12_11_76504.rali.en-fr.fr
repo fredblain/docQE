@@ -1,0 +1,15 @@
+Votre prochain téléphone intelligent durera deux systèmes d'exploitation
+Les Américains disent que, dans l'avenir, les utilisateurs pourront passer entre les différents systèmes d'exploitation sur leur téléphone mobile à le toucher d'un bouton.
+Les plans, à ce jour, révélé prometteur.
+Juste une clef de presse et en quelques secondes, vous pouvez passer de Windows Mobile pour Android.
+C'est l'objectif de la société américaine Vmware, qui développe des logiciels de virtualisation informatique principalement.
+Ainsi, vous avez deux profils d'utilisateurs, à la fois sur le même téléphone.
+Vous pouvez passer entre eux ou ont un pour le travail et l'autre pour la maison.
+Deux d'entre eux se dérouleront dans le même temps, dit Srinivas Krishnamurti de VMware dans une interview au magazine Computer World.
+Il a été présenté en novembre dernier et première a montré il y a quelques jours.
+Il sera mis en vente en 2012.
+La virtualisation des téléphones intelligents n'est pas de la science-fiction.
+VMware a déjà donné aux journalistes une démonstration d'un téléphone intelligent avec deux systèmes d'exploitation.
+Il a été modifié de N800 avec 128 Mo de RAM, Windows Mobile et Android au même moment.
+Le développement de nouvelles technologies de téléphonie mobile est en plein essor.
+VMware travaille maintenant avec les opérateurs européens et américains pour tester la virtualisation téléphone intelligents et ensembles devrait atteindre les clients au cours de 2012.

@@ -1,0 +1,5 @@
+UMP y NC deniegan a las propuestas de examin PS en elpoder de purchaising
+UMP y los grupos de Nouveau Centre se negaban el jueves a discutir algunas secciones de la factura socialista sobre el poder de purchaising, ese medio que denegaban al texto.
+Concebido en una puesta socialista (sesión a iniciativa de un grupo parlamentario), el texto declinaba una docena de medidas llevadas el martes por la oficina nacional del PS, incluyendo el 50% del aumento en la prima para el empleo, el re introduction de TIPP, un transporte de cheque o el control de cargos de renta.
+Desde que UMP y NC votaban en contra de esas secciones de la factura (180 en contra de 115 votos), la reunión cerraba en el extremo de un argumento a menudo calentado entre mayoría y oposición, unas cuantas horas después del discurso de televisión de Nicolas Sarkozy en el poder de purchaising.
+El líder de PS, Jean-Marc Ayrault, anunciaba que su grupo transmitirá el integrality de sus propuestas moviendo una modificación a la factura financiera que será examinada por la Comisión la próxima semana.

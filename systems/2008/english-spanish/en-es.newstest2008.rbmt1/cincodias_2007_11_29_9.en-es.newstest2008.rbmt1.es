@@ -1,0 +1,6 @@
+Planes de virgen de hacer millón con la piedra del norte 42,000 euros en tres años 
+Los depósitos de piedra del norte han caído más que el% 50 a 12,000 millones libras (16,800 millón euros) ya que fueron en crisis a mediados de septiembre y tuvieron que acudir al crédito de emergencia del banco de Inglaterra. 
+Al tiempo del que necesitó depósitos libras sobre 25,000 millón, una figura que está cayendo progresivamente en los dos últimos meses debido al recelo de sus clientes y a pesar de la garantía del único cien por ciento de que el dinero ofreció por el gobierno y que lo mantendrá hasta el final de la crisis. 
+La virgen, que renombraría la organización a su dinero de virgen de marca registrada financiero, necesita llegar alrededor de un cuarto de rentas en bancos británicos que se depositan los tres años en próximo para obtener aquel 18,000 millón libras restantes hasta que alcanzando el objetivo de 30,000 millón. 
+El grupo del tycoon Richard Branson, sabido para su anuncio showy hace campaña en el Reino Unido, intenta gastarse libras (sobre 70 millón euros) anualmente de 50 millón en la publicidad y la investigación de mercado para lograr sus propósitos. 
+La piedra del norte eligió la sociedad de la virgen esta semana, que incluye a tres otras compañías, como su favourite rescatarlo de bancarrota. 

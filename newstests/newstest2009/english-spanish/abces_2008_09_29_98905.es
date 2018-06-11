@@ -1,0 +1,5 @@
+Llamazares insta a la federación andaluza de IU a asumir sus competencias en el caso Silva 
+El coordinador general de IU y diputado de Izquierda Unida, Gaspar Llamazares, aseguró hoy que será la federación regional de la formación la que deberá tomar una decisión sobre el caso del ex concejal de Juventud y Deportes del Ayuntamiento de Sevilla, Francisco Manuel Silva, que dimitió la semana pasada después de que fuera acusado de realizar tratos de favor a familiares. 
+"Yo para estas cosas soy muy federalista, y será la organización andaluza la que tenga que asumir sus competencias", indicó Llamazares sobre la actuación que el partido deberá adoptar con el que hasta ahora concejal en el consistorio sevillano. 
+No obstante, el líder de IU defendió que la necesidad de que la "transparencia" esté presente en las posibles investigaciones sobre las irregularidades que Silva pudiera haber cometido: "IU siempre ha defendido que este tipo de asuntos tengan el máximo grado de transparencia". 
+En la misma línea subrayó que la formación tiene "códigos éticos estrictos para todos los cargos públicos". 

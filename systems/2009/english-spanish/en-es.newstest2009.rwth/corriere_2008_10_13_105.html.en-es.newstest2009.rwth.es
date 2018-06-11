@@ -1,0 +1,10 @@
+Las drogas: Nunca con zumos de frutas. 
+Cuidado de grapefruit zumo, zumo de naranja, y manzana. 
+Estas bebidas, especialmente consumido en verano porque son sed quenching y ricos en vitaminas, si junto con algunos medicamentos de vital importancia puede alterar su absorción, amplificando o disminuir, según el caso, su eficiencia con consecuencias que también puede ser graves para la salud. 
+Confirmando los riesgos asociados a la asunción de zumos de frutas si son ya envasados o con determinados medicamentos se David Bailey, profesor en la universidad de occidentales Ontario en Londres, que a partir de la 236th reunión nacionales de la química Society en Filadelfia lanza una advertencia: un vaso de grapefruit zumo, zumo de naranja, o manzana es suficiente para reducir la absorción de determinadas drogas a vida o muerte, anular sus efectos positivos y poniendo en riesgo la salud de los pacientes. 
+Grapefruit zumo ya ha sido acusado porque se creía que era responsable de concienciar, hasta llegar a niveles pensamiento tóxico, los efectos de algunos antirhythmic, los antibióticos, tranquilising, antihistaminic, y medicamentos neurológico. 
+Las drogas AT RISK – La Drug mismo italiano Agencia había dado el consejo mismo en una información factura hace dos años, para médicos y pacientes a no subestimar los riesgos derivados de esta mezcla y prestar atención a lo que se consume en casos cuando se consume como por ejemplo Diazepam o Methadone. 
+No ONLY GRAPEFRUIT JUICE – Según los expertos zumo incluso naranja y manzana contienen sustancias que inhiben la droga. 
+La lista de principios activos inhibidos por grapefruit y otras frutas zumos es muy largo. 
+De ahí la apelación de Michele Carruba, director del Departamento de Pharmacology de la Universidad de Milán: "Usually, descubrimientos son de inmediato la atención de la droga internacionales y nacionales que cambiar la información acerca de los medicamentos. 
+Por tanto, siempre leer el texto explicativo de los medicamentos y si hay algo que no está claro, no tengáis miedo a preguntar al médico o químico por aclaraciones ", recalcó la experta de la Ansa Agencia. 

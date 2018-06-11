@@ -1,0 +1,14 @@
+YouTube como herramienta de reclutamiento militar usos del Reino Unido  
+unidades militares británicos han estado compartir sus acciones a través de iraquíes y afganas videos sobre Usted Tube en un esfuerzo para ganar popularidad dentro de sus misiones.  
+Las Fuerzas Aéreas (RAF) fue el primero en desarrollar un sabor para YouTube : sus fuerzas especiales en Afganistán han sido carga videos mostrar cómo han sido la lucha contra los talibanes desde marzo de 2006, la BBC informes.  
+Las imágenes, tomada con miniatura apegados a las cámaras cascos de tropas, son supervisadas por un centro de mando en Kandahar y posteriormente transferidos a Londres desde donde se encuentran uploaded en Internet.  
+No hay confundiendo el mensaje político  
+Teniendo 139 RAF imágenes han sido uploaded en Internet y en la medida en que han recibido durante 75.000 golpes.  
+El Ministerio de Defensa del Reino Unido se ha registrado desde la primavera de 2007 como "el cuartel general de defensa", con regularidad carga videos sobre las acciones, mientras que los iraquíes y afganas Commomwealth y la Fuerza Multinacional - Iraq (MNF-I ) tienen sus propios Usted Tube canales.  
+Introducción a Afganistán  
+La RAF originalmente como una herramienta de contratación uploaded los videos. El Ministerio de Defensa dice que han sido también una buena forma de hacer saber al público el verdadero propósito de mantener a las fuerzas en el extranjero.  
+La publicidad difunde a través de este camino cuesta casi nada comparado con la contratación anuncios tradicionales en la televisión, experto en materia de defensa de la BBC dijo Gordon Mackenzie . Al mismo tiempo, de forma llevar a un poco de un mensaje político para, de una manera especial, ofrecen perspectiva sobre las razones por las que el gobierno ordenado la constante de las acciones militares.  
+Los estadounidenses se han convertido en un juego  
+Un problema tiene que enfrentarse a los militares implica los aficionados junto con los videos compartidos cuidadosamente reformuladas y censurada clips oficial, que a veces incluso muestran muriendo soldados. En el ligeramente hipócrita "" oficial en la mayoría de los agentes clips , pero la sangrienta pérdidas hablar de su lado de la lucha está nunca ha mostrado.  
+Más bien una serie de videos de los campos de batalla afganas iraquí y mostrando vivir acciones han desplazado en Internet, pero las fuerzas británicas sólo han unido recientemente en los nombramientos.  
+contratación estadounidense es algo diferente. Los Estados Unidos ha estado utilizando el Ejército de los Estados Unidos, un juego de tiro de tácticas disponible gratuitamente descargan, como una herramienta de contratar a los jugadores. En él se convierta en soldados en una more-or-less simulación realista de fuerzas de combate.  

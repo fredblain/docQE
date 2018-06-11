@@ -1,0 +1,15 @@
+Es urgente que el turismo están en marcha de los lugares 
+El turismo industriales siento por el accidente del turismo extranjero causados por malas condiciones de la Glorieta Sánchez Taboada en Mazatlán. 
+Tras la caída de de las Naciones Unidas turismo en el exterior en -caída de Glorieta Sánchez Taboada, el del sector del turismo de Mazatlán pedido a las autoridades prestar atención a las zonas y sitios que están en mal estado y que ofrezcamos una mala imagen de la portuarios. 
+Salvador Barraza Rubio, presidente de la Asociación de Minoristas de la del del euro Dorada, recordar que en diferentes ocasiones han criticado que la imagen del destino debe tenerse cuidado de cambio y a la mala percepciones que los turistas podría encontrar con nuevas actividades o rutas. 
+Dijo que las malas condiciones de la calle y el lado -walks han afectado porque los turistas vienen a emprender una acción y ver el desorden y que evitar las empresas complementarios. 
+Los políticos no saben lo que significa que cerca de de las Naciones Unidas día y no tienen alguna idea sobre la cantidad de dinero que está perdido, o de lo contrario no lo quisieron hacer el trabajo de este modo en ese largo período de tiempo y sin precedentes de planificación. 
+La hotelero Jose Ramón Manguart Sánchez dicho que la caída del turismo en evidencia la falta de prevención y el mantenimiento de la parte de la ciudad consejo. 
+"La municipalidad tendrá que asumir su responsabilidad y evitar así una vez más, concediendo preventiva mantenimiento y haciendo no sólo la corrección", dijo. 
+Esperamos con interés que disfrutando de una ciudad limpia, porque no sólo debe darse la esfera del mantenimiento, pero como habitantes que merecen una contaminación sitio para vivir en; la Ciudad Consejo debe cambiar su estrategia para mantener buena vida y visitando las condiciones. 
+Hay otros sitios que también son olvidadas y incompleta, dijo, como por ejemplo El Escudo y la Venadito de Mazatlán. 
+"Actualmente, para el turismo venir no depende únicamente de la promoción, debemos tener de las Naciones Unidas buen producto, una ciudad que ha playas limpia y procedimientos, permanente de mantenimiento de la atracción zonas", dijo. 
+"No hubo suficiente atención y esto pan de maíz de relieve algo que es Bien- conocidas por todos, que se debe mantener de las Naciones Unidas. " 
+Raul Llera Martínez, secretario auxiliar de Turismo Fomento, expresó que el restablecimiento del turismo lugares de Mazatlán es urgente, porque no han disfrutado de una manera correcta y su proyecto de una mala imagen. 
+El orador habló de una serie de lugares que ha de hacer suya totalmente con el municipio y a ser una prioridad de la ciudad siempre, limpia, ordenada y atractivo porque es de las Naciones Unidas turístico ciudad. 
+Afortunadamente Mazatlán ofrece muchos sitios históricos y culturales y lugares que tendremos que poner en orden primero, limpiar y fórmula atractivo para poder añadir ellos en el inventario cuando la promoción de la ciudad. 

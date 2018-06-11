@@ -1,0 +1,16 @@
+Costa de Marfil está esperando nerviosamente que el anuncio de los comicios resulta. 
+El General de Secretario de UNO, luna de Ki de Prohibición, ha solicitado la publicación "sin demora" de los resultados de la Costa de Marfil comicios presidenciales, sobre el vencimiento del periodo de conjunto. 
+"El estrés General de Secretario la necesidad de la comisión electoral independiente para completar su trabajo y anunciar los resultados provisionales sin demora más lejana" enfatizaba un portavoz para la cabeza de UNO". 
+"Pide a todas las fiestas de Costa de Marfil y las instituciones que enseñen responsabilidad y se abstengan de algunas iniciativas a la espera del annoucement de los resultados provisionales". 
+A pesar de presiones ejercidas por ciertos gobiernos extranjeros, la comisión electoral ha admitido que th apuntan a fecha de medianoche de miércoles para pasar, sin publicar los resultados tres días después de la votación de domingo. 
+Aproximadamente cuarenta minutos antes del vencimiento del periodo de conjunto el presidente de la comisión electoral independiente "continuaba trabajando" en el announbcement de los resultados. 
+Por todo el mundo, las llamadas se volvían más frecuentes el miércoles para que la comisión electoral finalmente declarara el nombre del ganador de la segunda ronda, Laurent Gbagbo o su opponenent Alassane Ouattara. 
+Pero el campo de Gbagbo está considerando ont él cancelación por el Consejo Constitucional de votos "fraudulentos" en el norte, recibido por los ex-rebeldes de las Nuevas Fuerzas (FN) desde el golpe al cual se falla d'état en septiembre de 2002. 
+El pascal Affi N'Buessan, director de campaña del presidente de Costa de Marfil, afirmaba que los manoeeuvres de intimidación de electores por el FN en el norte del país habían disuadido a los partidarios del presidente que se marcha de votar. 
+Cualesquiera comicios se podrían anular, si las quejas por Ghagbo son aceptadas por el Consejo Constitucional. 
+Los enemigos de Gbagbo alegan que el Tribunal más alto del coutry no es imparcial, desde que es presidido por Paul Yao N'Dré, un aliado político cercano de Gbagbo. 
+Alassane Ouattara, el hombre del norte, que niega algunos enlaces con los ex-rebeldes, ha descrito como "inaceptable" la demora al hacer el anuncio de los resultados y ha pedido a Gbagbo que los respete, pero no ha ido hasta donde a victoria de reclamación. 
+Sus aliados afirman que Gbagbo está bloqueando la publicación de los resultados, porque sabe que perdía y que eso se queje al Consejo Constitucional después de haber impedido a la comisión electoral que publique los resultados, sería ilegal. 
+Se creía que la segunda ronda de votación en los comicios presidenciales sobre domingo había coronado el proceso de reunificación y de reconciliación de una abertura de país en dos durante años. 
+En Wednesday UNO advertido la Costa de Marfil clase política para la cual se podría considerar respoonsible cualquier violencia. 
+Laurent Gbagbo terminaba en la parte superior en la primera ronda sobre el 11 de octubre, con 38% de votos en contra de 32% para Alassane Ouattara, quien recibía el apoyo público del presdient Henri Konan Bedié anterior (25% en los firts alrededor de). 

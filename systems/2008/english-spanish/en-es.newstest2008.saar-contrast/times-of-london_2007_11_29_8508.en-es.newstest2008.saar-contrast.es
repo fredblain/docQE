@@ -1,0 +1,14 @@
+Las esperanzas que alimentadas tarifas conducen a la oleada de mercado de valores del mundo
+Las partes se lanzaron en ambos lados del Atlántico ayer después de que el mercado de las esperanzas que la Reserva Federal intentar calmar las condiciones de crédito con más de los tipos de interés se aumentaran calmando observaciones del Vicepresidente del Banco Central estadounidense.
+Los mercados de valores agitado en Londres, Nueva York y a través de Europa después de Donald kohn, 2 a Ben bernanke, el Presidente del FED, dijo que debe ser "flexibles y pragmático" respondiendo a la tensión en los mercados financieros.
+En un claro esfuerzo para tranquilizar a los mercados entre señales de crédito, el Sr. kohn dijo que los recientes turbulencias "había invertido en parte algunas de las mejoras en el funcionamiento de mercado sobre la última parte de septiembre y octubre".
+Si la elevada turbulencia persiste, aumentaría la posibilidad de más lejana en condiciones financieras para los hogares y las empresas, dijo.
+Los comentarios fueron tomadas por los inversores como una señal de que el FED se preparan para entrar con nuevos inyecciones de capital en los mercados estadounidense y mayor de los tipos de interés, para estabilizar las condiciones de crédito.
+Los comentarios también contribuyó a calmar Wall Street entre más malas noticias sobre la economía estadounidense, como las ventas de casas de EE.UU. dieron un registro bajo en octubre.
+Las consecuencias de las turbulencias financieras se destacó por un anuncio de tener stearns, el Banco de Inversiones que se corte 650 puestos de trabajo, o 4 por ciento de su fuerza de trabajo, en una serie de la reducción de los costes para compensar pérdidas cuantiosas de su apuestas que pierden en el sector de hipotecas.
+Sólo el 20 de esos puestos se espera para ir a Londres, donde el Banco emplea a las personas.
+En Nueva York, el Dow Jones saltado por 331 -, o el por ciento, a cerrar en, mientras que el índice de S & P 500 se elevó por ciento.
+En Londres, el índice FTSE 100 se puntos o el por ciento, a cerrar en añadiendo más de 39 millones de libras esterlinas al valor de las compañías.
+El índice DAX rosa por ciento, y Francia estaba encima de 2,3 por ciento.
+Antes, el de la tensión de crédito en los mercados después de la fuerte demanda en una subasta de fondos por el Banco Central Europeo vio esos prestado a los bancos comerciales de Europa en un gran 4,7 por ciento, la tasa más alta desde abril de 2001.
+La presión en el Banco de Inglaterra a seguir el FED y el BCE y inyectar fondos adicionales en los mercados de dinero en Londres montado como de crédito vi de tres meses "de" para los tipos entre los bancos británicos empujados a su alto desde finales de septiembre, en 6.59 por ciento, después de una subida constante desde el 12 de noviembre.

@@ -1,0 +1,15 @@
+Alerta sobre plaguicidas requiere por niños. 
+Según de las Naciones Unidas estudio publicado o miércoles por la Futuro Generaciones asociación (formelry Movimiento de los Derechos Humanos y Respeto de Futuro Generaciones), de las Naciones Unidas niño de 10 consume en de las Naciones Unidas día 81 diferentes sustancias químicas. 
+La asociación que señala que sus resultados no poseen, en vista del reducido número de muestras analizadas, ninguna estadística de gran valor, pero ilustrar el problema se aborde, ha compra en spermarkets de la Oise y de París entre julio y septiembre, la cesta de los alimentos en generales requiere en cuatro las comidas por de las Naciones Unidas niño de diez. 
+Estas las comidas oficial inclduing recomendaciones, cinco jurídicos nuevos frutas y hortalizas, tres productos lácteos y 1,5 litros de agua así como delicias, fueron examinados por clínica laboratorios de investigación encargados de los productos químicos, plaguicidas, metales pesados y otros contaminantes. 
+El equilibrio es asombroso: 81 sustancias químicas incluidos 215 229 44 clasificadas como potencialmente o probablemente carcinógeno y cinco clasificadas como carcinógeno notablemente, así como 37 sustancias capaces que pueda alentar endocrino trastornos, según los estudios por varias instituciones como el Centro de Investigación Internacional Cáncer. 
+Según la Associaiton, incluso si, en casi todos los casos, los límites legales de cada sustancia química no son superado, nuestra investigación demuestra que la realidad de exposición de los consumidores que potencialmente carcinógeno contaminante es preocupante. 
+Para desayuno, té con mantequilla y leche solitario contener en diez posible y tres demostrado carcinógeno residuos y casi veinte residuos potencialmente poder alteran el hormona sistema. 
+Una manzana de Brasil contiene huellas de seis sustancias químicas incluing de las Naciones Unidas fungicida, prohibida en Francia. 
+El mismo se aplica a frijoles de Kenya incluye en de las Naciones Unidas almuerzo, en que el estudio concluyó huellas de de las Naciones Unidas poderoso insecticida prohibido en la Unión Europea. 
+En addiiton, picado filete, en conserva atún y siquiera una baguette y masticación goma que figuran los plaguicidas y otros productos químicos. 
+Agua del grifo contenidas nitratos y cloroformo. 
+Para cena, salmón filete fue el "más ricos", con 34 residuos químicas e incluso las de plástico placa utilizado por el calentamiento comida en de las Naciones Unidas microondas, no época libre. 
+Según el estudio, la última riesgo para el consumidor en este "contaminante cóctel" probablemente subestimar. 
+Por su parte, la Unión Ecología Alianza -los Verdes propuesto, en vista de la urgencia de la situación, la introducción de una moratoria del uso de plaguicidas, para detener el crecimiento de civilización de enfermedades. 
+En julio, de las Naciones Unidas estudio por la Agencia Europea de Seguridad Alimentaria indicaron la presencia de residuos de 365 diferentes plaguicidas identificado en frutas y hortalizas requiere en Europa incluido 76 en los cereales. 

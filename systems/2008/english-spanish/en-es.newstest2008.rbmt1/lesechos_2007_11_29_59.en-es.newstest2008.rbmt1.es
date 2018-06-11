@@ -1,0 +1,5 @@
+UMP y NC se niegan a propuestas del PS's examin en el poder purchaising 
+UMP y Nouveau centralizan a grupos rehusados el jueves para hablar de algunas secciones de la factura socialista en el poder purchaising, que significa que rehusaron el texto. 
+Concebido en una posición socialista (sesión por la iniciativa de un grupo parlamentario), el texto rechazó unas medidas de docena tomadas junto a la oficina nacional del PS el martes, incluso el porcentaje de incremento 50 en la prima para el empleo, la re-introducción TIPP, un transporte de cheque o el control de cargas de alquiler. 
+Ya que UMP y NC votaron en contra de aquellas secciones de la factura (180 contra 115 vota), la reunión cerrada entre la mayoría y la oposición al final de una discusión a menudo calentada, pocas horas después del discurso de televisión de Nicolas Sarkozy en el poder purchaising. 
+El líder PS, Jean Marc Ayrault, anunció que su grupo representará el integrality de sus propuestas proponiendo una enmienda a la factura financiera que se examinará la próxima semana por la comisión. 

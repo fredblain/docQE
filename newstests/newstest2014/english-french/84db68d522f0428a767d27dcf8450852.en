@@ -1,0 +1,50 @@
+How Biometrics Will Invade Our Lives
+Is it the end of passwords to access a smartphone or pay for purchases?
+US, French and Japanese researchers are predicting a future where we will be recognised by biometric sensors on telephones and computers.
+Bernard Didier, vice-president of Morpho, believes this will be the "century of biometrics".
+Biometrics will be the only way of guaranteeing the identity of an individual carrying out transactions in a world as transverse and transnational as the Internet.
+Organisations devoted to privacy protection note this fascination for biometrics, but are concerned.
+In France alone in 2011, the National Commission for Information Technology and Civil Liberties authorised 774 imprint recognition systems, for recognising fingerprints, the shape of the hand or networks of veins in the hand, for businesses, institutions, cafeterias, etc.
+"Everyone will soon be identifiable, anywhere and any time," says a concerned Justin Brookman, consumer privacy director for the CDT (Center for Democracy and Technology) in Washington.
+But why such optimism for some and pessimism for others?
+Biometrics will rely on new technologies that will enable new services to be provided to citizens and consumers.
+In France today, the most commonly used biometric data are fingerprints, hand geometry and the network of veins in the palm or fingers.
+But each of these techniques has its limitations.
+"For example, people who work with cement have damage to their fingers that renders their fingerprints unreadable," notes Philippe Robin, technical director for identification at Thales Communications & Security.
+Furthermore, the detection and verification of a network of veins or of hand geometry require a voluntary and specific gesture on the part of individuals.
+It is both a security mechanism - this data cannot be captured without people knowing - and an inconvenience - the procedure sometimes has to be repeated and so takes time.
+As a consequence, research has been conducted over the past twenty years into other methods, such as face or iris recognition (the coloured part of the eye).
+Thanks to the improved precision of the sensors and the calculating capacity of the computers used to analyse this data, these techniques are becoming practical.
+The accuracy of face recognition has improved tenfold over the past five years, considers Cyrille Bataller, R&D laboratory director at Accenture in Europe.
+With our help, the United Kingdom and the Netherlands have deployed automated passport gates that use face recognition.
+It is now possible to identify a moving face or iris.
+"Today we are carrying out research into voice and gait recognition using sonic sensors, but it requires a silent environment," says Sridhar Lyengar, director of security research at Intel Labs.
+DNA, a unique and unfalsifiable marker, also arouses hope and concern.
+"With the current state of knowledge, it could be considered the ultimate in biometric data," confirms Sophie Vulliet-Tavernier, director of research, innovation and forecasting at the CNIL.
+But DNA analysis still takes a long time and is expensive.
+NEC is offering the judicial police a portable pack costing 90,000 euros that can analyse DNA samples on a crime scene within an hour.
+The uses of biometrics fall into two groups: identification (recognition of one person amongst others) and authentication (confirmation that a person is who they say they are).
+Until now, identification has consisted of the provision of identity papers: biometric systems (fingerprints, photos, iris, etc.) will have to be given access to information that the state holds on every citizen already on file.
+This will provide assurance that someone is not trying to usurp the identity of another.
+This principle of comparison can be used for other purposes.
+NEC is therefore proposing VIP recognition at the entrance of a hotel or store.
+"We are gathering images from surveillance cameras and comparing them with photos of celebrities that are freely available on the Internet," explains Dany Nassif, business development director for biometric identification solutions at NEC France.
+Another use is to take a photo of someone queuing in a shop, follow his progress using face recognition and work out the waiting time.
+Authentication initially concerned physical (at borders, in protected locations, in a cafeteria etc.) or digital presence (logging on to a computer).
+Added to this, more recently, are presence checks.
+"A biometric timekeeper prevents the situation where one colleague clocks in on behalf of another," asserts Cyrille Bataller from Accenture.
+But, more and more, authentication will also involve transactions, in particular those carried out using devices connected to the Internet.
+In Japan, it is already possible to withdraw money from some cash machines by inserting your card and placing your hand on a biometric reader: this gesture replaces the use of a PIN.
+A similar technique is being tested at Villeneuve-d'Ascq and in Angoulême by the company Natural Security, in partnership with banks and major retailers: at the point of paying with a card in a shop, the customer does not enter a code - they place a finger in a reader, which scans the veins.
+The experiment is expected to last six months.
+If it is conclusive, biometric readers could soon be seen in shops in France.
+Ways to reassure users
+There are three ways to make biometrics appealing to the general public.
+The first is to explain how it can save time.
+"If a customer spends thirty seconds less at a till thanks to biometrics, it would be nice," says the manager of a major store.
+The second is to offer personalised services: in a few years a voice server will be able to recognise your voice and offer you customised options.
+Finally, the public can be reassured by highlighting the measures implemented to protect databases.
+"Digital fingerprints are stored in a primary server; the identities of individuals are in a second database. The correlation between the two sets of information is encrypted and stored in a highly secure box, which locks up if anyone tries to move it," specifies Philippe Robin from Thales.
+However, given the lack of in-depth studies, it is impossible to know if this line will really convince users.
+Privacy protection specialists continue to be concerned.
+"The advances in face recognition, the increase in the number of surveillance cameras and the huge number of photos available on Facebook, Flickr or Picasa make me fear the worst: widespread surveillance," predicts Andrew Patrick from the Office of the Privacy Commissioner in Canada.

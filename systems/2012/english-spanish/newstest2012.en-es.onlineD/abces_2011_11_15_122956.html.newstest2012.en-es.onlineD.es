@@ -1,0 +1,12 @@
+Las comidas de Atenas apoyan las dudas
+Papademos dijo que los ajustes serán aprobados, pero los conservadores no firmarán ningún compromiso escrito
+Con subvenciones de riesgo periféricas lanzadas e incertidumbre rehabilitada en los parques, Grecia todavía es enredada en el laberinto que lleva a la salida de la gran crisis de deudas europea.
+El sentimiento que el "consentimiento" del nuevo gobierno de transición de Hellene viene impuso más por las demandas de Bruselas que por una convicción genuina de fuerzas políticas comenzó a ser confirmado por hechos.
+Mientras el nuevo primer ministro, Lukas Papademos advirtió ayer que no hay ninguna alternativa a reformas estructurales y que el período de cien días concordados en su cita puede ser subestimado para aplicarlos, el líder del Nuevo partido de Democracia conservador, Antonis Samaras, aseguró que no apoyará nuevas medidas de austeridad en cualquier caso y reiteró su demanda de nuevas elecciones programadas el 19 de febrero.
+"La tarea principal de este Gobierno pone en práctica las decisiones de la cumbre del 26 de octubre," dijo Papademos ayer abriendo un debate parlamentario que esto culminará mañana con un voto de confianza al nuevo Ejecutivo.
+Un paquete de 24 programas para incrementar el empleo, la reforma del código disciplinario de funcionarios y nuevas medidas contra la evasión fiscal será las primeras iniciativas.
+Sin embargo, el mensaje de Samaras no limpia las dudas sobre su posición: "Estamos dedicados a la ayuda del gobierno de transición, pero no estamos dedicados a nada."
+El líder Conservador era un paso adelante en su pulso a la Unión Europea y el Fondo Monetario Internacional, las entidades que deben descongelar los 8 000 millones que Atenas urgentemente necesaria, y aclaró ​ que él no dará a su aprobación a ninguna carta del compromiso de cumplir con los ajustes.
+Pero la Comisión Europea, todavía teniendo una erupción de pañal por el impacto causado por todo o nada la declaración del referéndum de Papandreou, reiteró ayer que su demanda está clara: esto no abrirá la ayuda si el nuevo Gobierno y los líderes de Hellene partidos principales no firman "un compromiso escrito sin la ambigüedad y esto cuanto antes."
+El portavoz de Asuntos Económico, Amadeu Altafaj, dijo que los inspectores de triunvirato volverían "muy pronto" a Atenas para hablar con el nuevo gobierno "lo que tiene que ser hecho para pagar la sexta parte" de 8 000 millones, aunque no haya ninguna fecha definida.
+La madeja griega todavía tiene un hilo para el momento.

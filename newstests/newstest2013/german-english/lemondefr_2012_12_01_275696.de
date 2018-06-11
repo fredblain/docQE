@@ -1,0 +1,50 @@
+Mit Bitcoin ist Bezahlen und Verkaufen ohne Bank möglich
+Das Gegenteil des aktuellen monetären Austauschs auf der Grundlage von Zentralbanken, identifizierten Transaktionen und Bearbeitungsgebühren zwischen den Beteiligten.
+Darüber hinaus ist wie so oft in diesen Technologien eine politische Vision greifbar: die Überzeugung, dass das aktuelle, von Bankmonopolen gestaltete Währungssystem, zu Finanzkrisen führt.
+In der Tat ist das von Satoshi Nakamoto (ein Pseudonym) erfundene Bitcoin sowohl eine virtuelle Währung (aber in Dollar, Euro usw. konvertierbar) als auch ein Protokoll für den sicheren Austausch wie BitTorrent, das den direkten Austausch von Dateien ermöglicht.
+Mit 15.000 Computern im Netzwerk wurden bereits etwa 200.000 Transaktionen erfasst.
+Einige tausend Webseiten akzeptieren Bitcoin als Spende oder als Zahlungsmittel.
+Nachdem der Kurs von Bitcoin im Juni 2011 einen Höchststand von 30 Dollar (23 Euro) erreicht hatte, fiel er fünf Monate später auf 2 Dollar, bevor er sich heute auf rund zehn Dollar erholt hat (die Kurse sind auf der Webseite bitcoincharts.com aufgeführt).
+Nichts besonders Beeindruckendes im Vergleich zum Welthandel von realen Währungen oder Finanzprodukten.
+Dennoch hat die Europäische Zentralbank (EZB) in einem im Oktober veröffentlichten Bericht über virtuelle Währungen Interesse hierfür gezeigt.
+Sie beschreibt Bitcoin als "die virtuelle Währung mit dem größten Erfolg", "im Wettbewerb mit dem Dollar oder Euro" und "ähnlich den herkömmlichen Währungen".
+Bitcoin unterscheidet sich von anderen Arten virtueller Währungen wie den "Credits", die verwendet werden, um in einem Videospiel voranzukommen, die man durch Spielen gewinnen oder kaufen (und manchmal auch zurücktauschen) kann.
+Das soziale Netzwerk Facebook hat ebenfalls ein derartiges System entwickelt.
+Allerdings wird der Handel jedes Mal von einer zentralen Behörde kontrolliert und bearbeitet.
+Mit Bitcoin sind alle Netzknoten gleichzeitig Verwahrer des Rechnungsbuchs, Prüfer, Geld-Emittenten sowie Käufer und Verkäufer.
+Wie funktioniert dieses Netzwerk?
+Jede Transaktion zwischen zwei Benutzern findet in Wirklichkeit zwischen zwei E-Mail-Adressen in Form einer E-Mail statt.
+Mit dem Unterschied, dass der Benutzer für jede Bezahlung eine andere Adresse wählen kann, was die Anonymität sicherstellt.
+Eine Reihe der mit dieser Transaktion in Zusammenhang stehenden Daten wird elektronisch durch ein doppeltes Verschlüsselungssystem signiert.
+Auf diese Weise kann das Netzwerk die Authentizität der Transaktion prüfen.
+Mithilfe des Inhalts der Datei ist es ebenfalls möglich sicherzustellen, dass die gehandelten Bitcoins in dem im gesamten Netzwerk verbreiteten Rechnungsbuch der öffentlichen Konten vorhanden sind.
+Der entscheidende Schritt besteht darin, diese neue Transaktion in dieses Buch einzutragen.
+Dies geschieht über eine mathematische Aufgabe, die auf den Computern gestartet wird, wobei der Gewinner, der eine Art vorläufiger Zentralbankier ist, das Privileg besitzt, diese zusätzliche Zeile hinzuzufügen.
+Es handelt sich um ein Zerstückeln der Datei, d.h. die Umwandlung einer großen Datei in einen kürzeren und eindeutigen elektronischen Fingerabdruck.
+Die Computer "nehmen" die neue Transaktion und fügen ihr eine Zahl hinzu, bevor das Ganze "zerhackt" wird.
+Das Ziel ist es, diejenige Zahl zu finden, die einen besonderen Fingerabdruck (viele Nullen am Anfang) ergibt.
+Wenn diese Zahl gefunden wurde, können die anderen Knoten mühelos prüfen, ob es die richtige ist.
+Die Transaktion ist somit dauerhaft mit der Kette aller anderen Transaktionen verknüpft, und jegliche Modifikation würde den Fingerabdruck ändern.
+Wenn ein Benutzer zum Betrügen zwei Mal sehr schnell (weniger als 10 Minuten) mit demselben Geld bezahlen will, würde nur eine der beiden Transaktionen vom Netzwerk validiert werden und die andere bleibt ohne Verknüpfung, da beide unterschiedliche Fingerabdrücke besitzen.
+Der Computer, der die Aufgabe gelöst hat, erhält 50 Bitcoins.
+Zur Verhinderung einer Inflation wird diese Belohnung regelmäßig halbiert, wahrscheinlich vor Ende 2012.
+Die im Umlauf befindlichen Bitcoins sind somit auf 21 Millionen begrenzt, aber bis auf ein Hundertmillionstel teilbar, was einen gewissen Spielraum lässt...
+Darüber hinaus wird die Schwierigkeit der Aufgabe mit jeder Verbesserung der Rechenleistung erhöht.
+Das Leben des Netzwerks hat bereits Höhen und Tiefen gehabt.
+Die Webseiten, die Dienste für Bitcoin bereitstellen, wurden angegriffen und die Bitcoin-Einlagen gestohlen.
+"Die genutzte Schwachstelle betrifft nicht das eigentliche Protokoll", versichert Pierre Noizat, der gerade Paymium eingeführt hat, das ein Unternehmen für die Bezahlung mit echtem Geld ist und das Netzwerk Bitcoin nutzt.
+Die EZB berichtet auch über die Möglichkeiten der Geldwäsche mithilfe dieses anonymen Dienstes.
+Allerdings weist Bargeld ebenfalls diesen Mängel auf.
+Wichtige Akteure wie Wikipedia verweigern Spenden dieser Art.
+Von Anderen wie der Blog-Plattform WordPress werden sie akzeptiert.
+Kürzlich haben Adi Shamir und Dorit Ron vom Weizmann-Institut in Israel das Rechnungsbuch analysiert und gezeigt, dass fast 80% der Bitcoins nicht im Umlauf sind.
+Im November wurde ein "Mega-Schlussverkauf" gestartet.
+"Dreißigtausend Dollar wurden eingetauscht", freut sich Jon Holmquist, der für das Unternehmen Coinabul arbeitet, das Bitcoins in Gold konvertiert.
+Pierre Noizat, der ebenfalls Autor eines Buchs über diese Währung ist, glaubt fest an das Potenzial dieser Technologie als Transaktionsnetzwerk.
+Sein System Paytunia entspricht einer Kreditkarte (mit echtem Geld) oder einer kontaktlosen Zahlung mit einem Mobiltelefon, nutzt aber Bitcoin zur Validierung der Transaktionen, die dadurch billiger sind.
+Darüber hinaus verwaltet der Inhaber seine Identität und kann somit anonym bleiben.
+Das System kann bei den Händlern leicht implementiert werden, und Letztere müssen keine neuen Terminals oder Computerprogramme installieren.
+Sie müssen einfach nur eine Adresse angeben, die von einem Telefon "fotografiert und erkannt" werden kann, gibt Pierre Noizat an, der versichert, dass er tausende Benutzer hat.
+Es ist ein allgemeiner Trend zu verzeichnen, bei dem hierarchische Systeme zugunsten stärker horizontal ausgerichteter Systeme überdacht werden.
+"Es wird einige Zeit dauern, bis sich Bitcoin durchsetzt, aber 2013 könnte ein Wendepunkt sein", prognostiziert er.
+Die EZB sieht in ihrem Bericht übrigens vor, die verschiedenen, heute als hoch angesehenen Risiken im Falle eines Erfolgs dieser Währung neu zu bewerten.

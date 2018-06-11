@@ -1,0 +1,14 @@
+Las corbatas entre la política y 'ndrangheta detuvo al alcalde de Gioia Tauro 
+"El alcalde de Gioia Tauro fue dispuesto hacia intereses municipales conformes con ésos de la pandilla de Piromalli". 
+Las acusaciones que los magistrados del dirigir Anti Mafia calabrés de la Oficina contra el alcalde y el alcalde de diputado de Gioia Tauro Giorgio Dal Torrione y Rosario Schiavone, y del alcalde de Rosarno Carlo Martelli, que ha sido detenido esta mañana para el concurso externo con la asociación de mafia, es muy grave. 
+También detenido es Gioacchino Piromalli, el mediador mayor entre el clan y las oficinas públicas de la administración, y su sobrino - un abogado, el tocayo del jefe, ya condenó para el mafia-estilo la asociación criminal, condenó a devolver 10 millones de euro. 
+"En el desprecio de todas reglas, y del sentido común judiciales y morales", escribe a los fiscales, las dos administraciones locales habían expresado el hace para pagar derechos de asesoría al abogado Piromalli. 
+"De esta manera, fue tenido en cuenta la pandilla – los jueces escriben – penetrar oficialmente dentro del municipio que alivia las posibilidades ya vastas de controlar y dirigir la administración pública". 
+El presidente del ayuntamiento calabrés Agazio Loiero no oculta eso "colusiones entre instituciones locales y crimen organizado son numerosas" dentro de su región: "Hay áreas donde presencia de mafia es más fuerte y más intenso que en otros, donde colusión es casi inevitable. 
+Sin embargo, hay muchos políticos locales que resisten la presión ponen por el 'ndrangheta, los héroes que se quedan limpian ". 
+Los arrestos de esta mañana siguen ésos en julio con que la policía anunciada para haber decapitado la pandilla de Piromalli. 
+A fines del mes de abril pasado, el concilio municipal de Gioia Tauro fue disuelto pero ya en 1991, y siempre para condicionar presumido entre crimen organizado y administración local, políticos locales habían sido aliviados de deberes de la administración del municipio. 
+Giorgio Dal Torrione, el alcalde de UDC en aquel momento de la disolución, había sido elegido cabeza de una coalición central-correcto, después de que el mayo 2006 voten. 
+El hizo un escándalo fuera de ello cuando la Prefectura ordenó la disolución del concilio municipal. 
+El introdujo causa el entonces vicio-ministro del Marco Minniti Interior que acusa él de habiendo tramado todo para motivos políticos, sin embargo los jueces, en la autorización de arresto firmaron esta mañana, ha explicado que la pandilla de Piromalli había llegado aún en pedir la variación del proyecto A3. 
+De las intercepciones ordenadas en Dal Torrione, escribe la prosecución pública, ha surgido "un consentimiento para casarse las necesidades de un empresario, el representante de un grupo más grande notoriamente cercano al Piromalli, alineando las elecciones de la administración pública con los intereses de la pandilla". 

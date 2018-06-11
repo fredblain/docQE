@@ -1,0 +1,42 @@
+Le boson de Higgs a révélé
+L'annonce de la découverte probable du boson de Higgs créé tout un émoi l'été dernier et avec raison.
+En effet, on croit que ce boson fait partie du mécanisme responsable de la masse du tout dans l'univers, pas moins.
+C'est également la dernière particule dont l'existence est prédite par le modèle Standard - nos meilleures ou « moins pire » explication de la nature - et le comportement de la matière, mais qui n'a pas encore été observé empiriquement.
+Mais pour les physiciens, il n'est toujours pas complètement sûr que c'est vraiment le Higgs.
+Nous savons sans l'ombre d'un doute que c'est une nouvelle particule authentique et ressemble grandement le boson de Higgs, prévu par le modèle Standard.
+En outre, nouvelles données a dévoilé cette semaine à un physique de grand congrès à Kyoto semblent le confirmer, mais il y a toujours pas suffisamment de données pour être parfaitement sûr.
+Mais nous allons suppose que c'est vraiment le Higgs, puisque les chances de se tromper semblent minces et voir ce que c'est.
+Dans notre monde, il y a une loi mortellement inévitable qui stipule que les deux choses ne peuvent satisfaire au même endroit en même temps.
+Il n'y a aucun moyen de briser cette règle - et n'essayez pas trop dur, tu iras folle.
+Cependant, même si la physique des particules est un monde très étrange, il s'avère qu'il a aussi une loi du même genre : le principe d'exclusion de Pauli, qui stipule que deux particules ne peuvent occuper le même espace en même temps s'ils sont dans le même « état quantique » - cet « État » consistant à peu près certaines de leurs caractéristiques.
+Sur cette base, physiciens classent les particules en deux catégories.
+Dans un coin, nous avons bons citoyens appelées fermions, qui sagement obéissent au principe de Pauli.
+Tandis que TAPI dans l'autre est les bosons, une méchante bande d'anarchistes qui ne respectent rien - dans tous les cas, pas ce principe, ce qui signifie qu'ils peuvent en effet être trouvés au même endroit en même temps.
+Ces bosons sont ensuite divisés en deux groupes, selon le site de Berkeley Labs particule aventure (absolument extraordinaire, soit dit en passant): mésons, dont nous ne discuterons pas ici et "particules de force", par lequel les grandes forces de la nature sont propagées et à qui le boson de Higgs peut être en quelque sorte lié.
+Ces bosons, il convient de souligner ici, ne sont pas tous ces bugs exotiques que vous pourriez le penser.
+En fait, si vous pouvez lire cet article, c'est grâce à un boson extraordinairement banal : le photon, ou les "particules de lumière" qui est le "messager" de la force électromagnétique.
+Quand, en fait, une particule ayant une charge électrique accélère ou change de direction, cela « perturbe » le champ électromagnétique dans cet endroit spécifique, plutôt comme un caillou jeté dans un étang.
+Ce « tapage » produit une onde électromagnétique (de la lumière, infrarouge, ultraviolet etc.), et cette vague n'est autre qu'un photon - et donc l'un les bosons "transporteur de force".
+Champ plus stable
+Il en va de même pour le boson de Higgs, à la différence que c'est un autre champ, le champ de Higgs, qui doit être « dérangé » pour le boson de comparaître.
+Maintenant, ce champ de Higgs est beaucoup, beaucoup plus stable que le champ électromagnétique ; pour exciter l'il, il est nécessaire d'atteindre de très, très haut niveau d'énergie, un peu comme un étang gelé qui aurait besoin d'un très gros rocher à la surface des rides.
+C'est pourquoi un accélérateur de particules énorme comme celui du CERN - le grand collisionneur de hadrons est un anneau avec une circonférence de 27km ! -est nécessaire pour atteindre ces niveaux d'énergie.
+L'analogie avec le champ électromagnétique est encore très utile pour expliquer la relation entre le Higgs et la masse.
+En fait, pas toutes les particules, ou tous les matériaux, interagissent avec le champ électromagnétique.
+Certains, comme les aimants, le faire, mais d'autres pas - un morceau de papier, par exemple, ne sera jamais s'en tenir à un réfrigérateur.
+Et même, pas de toutes les particules interagissent avec le champ de Higgs : ceux qui le font ont une masse, alors que les autres (par exemple, le photon) ne le font pas.
+Maintenant, qu'est-ce que toutes ces recherches « peut apporter » ? demande Mme Plamondon.
+Pour la science, il sert à vérifier la validité du modèle Standard (SM) et permet également aux médecins d'examiner les éventuels décalages entre les observations et les prévisions de la SM.
+En outre, un certain nombre de personnes, espérons ardemment que certains trouveront, parce que la moindre différence pourrait ouvrir la voie à une « nouvelle physique » et boucher certains trous dans le modèle.
+Cela, il faut bien le dire, a encore des lacunes énormes, n'offrant aucune explication de la gravité (oups!) ou la matière noire, qui constitue environ 80 % de la matière dans l'univers (re-oups!).
+Mais à ce jour, aucun écart n'ont été découverts au CERN.
+Répercussions
+Les répercussions de cette recherche sur la vie quotidienne de l'homme de la rue sont plus difficiles à prédire, mais il serait faux de croire qu'il n'y aura aucun.
+N'oubliez pas : dans les années 60 très tôt, les pionniers du laser dans les laboratoires Bell ne soupçonnaient pas la révolution qui serait rendu nécessaire par leur travail.
+Ils avaient une petite idée de l'applications scientifiques, mais rien pour le reste.
+En fait, le feu Willard Boyle - un physicien qui a travaillé chez Bell Labs, où l'invention du laser en 1960, et qui lui-même mis au point le premier laser continu (les premiers étaient pulsé) en 1962 - nous a dit que le laser était considéré au départ plutôt comme un « gadget de laboratoire ».
+Imaginez...
+Et puis, les applications peuvent également provenir de tous les instruments qui entoure la recherche.
+Par exemple, le même Willard Boyle a développé un petit capteur de lumière en 1969, au cours de ses travaux en optique.
+Ce capteur, même si cela n'était pas du tout l'intention initiale, sert maintenant un « œil » à tous les appareils photo numériques dans le monde entier, et lui a valu le prix Nobel de physique prix en 2009.
+Cela ne signifie évidemment pas que les activités du LHC vont nécessairement transformer nos vies, mais cela ne signifie pas que, en fait, on ne sait jamais...

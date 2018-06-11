@@ -1,0 +1,5 @@
+UMP y NC se niegan a propuestas de PS de examin en el poder de purchaising
+UMP y los grupos Centrales Nuevos se negaron el jueves para discutir algunas secciones de la cuenta de socialista en el poder de purchaising, eso significa que ellos se negaron el texto. 
+Concebido en un socialista que pone (la sesión en la iniciativa de un grupo parlamentario), el texto disminuyó una docena de medidas tomaron el martes por la oficina nacional de las P, inclusive el 50% de aumento en la prima para el empleo, la reintroducción de TIPP, un cheque-transporte o la renta cargan el control. 
+Desde que UMP y NC votaron contra esas secciones de la cuenta (180 contra 115 votos), la reunión cerró a fines de un argumento a menudo calentado entre la mayoría y la oposición, unas pocas horas después del discurso de la televisión de Nicolas Sarkozy en el poder de purchaising. 
+El líder P, Jean-Marc Ayrault, anunció que su grupo representará el integrality de sus propuestas moviendo una enmienda a la cuenta financiera que será examinada por la Comisión la semana próxima. 

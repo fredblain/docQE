@@ -1,0 +1,24 @@
+L'automobile intelligente imite le vol du bourdon 
+Quelle méthode serait meilleure pour développer des technologies aptes à éviter un obstacle, si ce n'est l'imitation d'un détecteur d'obstacles existant déjà dans la nature ? 
+Comme par exemple, celui des abeilles. 
+Dans le projet étonnant présenté lors du CEATEC, ayant lieu au Japon, les abeilles bourdonnantes ont donné l'idée stratégique de départ aux ingénieurs de chez Nissan, pour les inspirer sur la façon dont ils doivent concevoir la prochaine génération de détecteurs d'obstacles. 
+En collaboration avec l'université de Tokyo, Nissan a construit une mini voiture robot, un système à commande auto-robotisé bio-inspiré, de type BR23C, qu'il a équipé des qualités des abeilles, l'objectif final étant d'encourager la mise au point d'un système capable d'éviter tous les obstacles. 
+Lors de ses vols, chaque abeille constitue son propre espace, de forme ovale, qui en réalité, ressemble beaucoup à notre coque de protection sécurisée - a expliqué, lors de l'exposition, Kazuhhiro Doi, le directeur du département recherche et développement et relations publiques technologiques de la marque. 
+L'œil à facettes de l'abeille joue un rôle primordial, puisqu'il est capable de voir dans toutes les directions, dans un angle de 300 degrés. 
+Pour imiter les fonctions de l'œil à facettes, les ingénieurs ont abordé l'idée du télémètre à laser. 
+Celui-ci identifie les obstacles dans un angle de 180 degrés et à une distance de 2 mètres devant le BR23C, il évalue les distances et envoie un signal au microprocesseur de bord, qui le transforme en manœuvre d'évitement tout de suite. 
+La perception de l'obstacle a lieu en une fraction de seconde. Ensuite, la mini auto robot, imitant les mouvements de l'abeille, change immédiatement la direction de ses roues en le tournant d'un angle suffisant pour éviter la collision. 
+Contrairement à tout système existant actuellement, cette manœuvre d'évitement se déroule entièrement de façon instinctive. 
+"S'il n'en était pas ainsi, la mini auto robot ne pourrait pas réagir assez rapidement pour éviter l'obstacle" - explique Toshiyuki Andoh, le directeur du Laboratoire Mobilité et du projet voiture robotisée. 
+Elle doit réagir de façon instinctive et instantanée, puisque cette technologie correspond à la couche la plus vulnérable et la plus interne de l'enveloppe de protection, une couche où pour l'instant la collision est considérée inévitable. 
+Tout ce processus doit refléter ce que l'abeille fait pour éviter les autres abeilles. 
+Le processus doit se dérouler en un clin d'œil. 
+A l'opposé des abeilles, la différence ne peut pas aller vers le haut, vers le bas ou en diagonal, elle ne peut être que de deux dimensions, et seulement dans la direction dans laquelle les roues peuvent tourner. 
+De cette manière, à la place des infinies combinaisons que possèdent les abeilles pour éviter les autres abeilles, dans notre cas, on n'a pu utiliser que le mouvement rotatif, l'accélération ainsi que le ralentissement comme manœuvres à la disposition de la mini auto robot 
+Le BR23C utilise des batteries Lithium polymère qui sont plus légères et dont le concentré d'énergie est plus grand, ce qui rend leur durée de vie plus longue que dans la version Lithium-ion. 
+D'après Andoh, c'est la réaction intelligente instinctive qui est primordiale, pas le traitement des données, et encore moins la capacité à stocker. 
+Ce mécanisme ne doit traiter que quelques signaux entrants par seconde, et réagir à ceux-ci. 
+Il n'est pas nécessaire de les stocker et de réagir avec la logique intuitive se basant sur les données des manœuvres antérieures. De cette façon, il n'utilise que quelques douzaines de kilo-octets de mémoire en continue. 
+On n'a pas besoin de mémoire d'une capacité de giga-octets, ni même de méga-octets. 
+C'est le premier pas vers la conception d'une technologie servant à l'évitement instantanée. D'après les estimations de Nissan, ce système fera son entrée dans les voitures fabriquées en série dans les dix prochaines années. 
+Une autre application pourrait être son incorporation dans le système de navigation par satellite GPS, pour qu'il puisse guider le conducteur vers sa destination en évitant les obstacles se trouvant sur son chemin. 

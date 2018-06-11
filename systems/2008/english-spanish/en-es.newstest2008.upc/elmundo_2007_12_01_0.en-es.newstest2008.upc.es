@@ -1,0 +1,9 @@
+La celta buscando en Milán vale la pena octava 
+Milán y celta están jugando San Siro martes en busca del punto necesario para lograr sus objetivos respectivos en el cierre de la liga "Campeones", como los italianos están acostumbrados a la primera y la clasificación de los escoceses por su condena. 
+Los italianos añadido diez puntos y certificadas ya en el quinto día pasar con una atadura en Portugal, mientras celta tiene nueve puntos, pero todavía debe asegurar que otro Shakhtar, con seis, y que Benfica, que tiene cuatro, no superará. 
+Estos dos partidos del Grupo de D desempeñado en una semana antes del final del día sexto, pues Milán tiene que desempeñar en la Clubes Mundial De en Japón, donde su estreno en el 13 semi-finals en busca de un lugar para el final de 16. 
+Así, este grupo cerrado ante el resto y Meazza Giuseppe parece esperar un vínculo como el resultado, pero los dos equipos intenten ir para ganar, y los italianos no quieren especular en casa y celta sabe que ganarse primero y garantizar un mejor cruce al cuarto finales. 
+Para el equipo Strachan Gordon podría servir una derrota incluso si no Shakhtar clasificada gana, pero no puede confiar porque la igualdad de nueve puntos significa que el Ukranians pasar, quienes perdieron la semana pasada en Glasgow (2-1), pero ganó (2-0) vivir en otro duelo. 
+Así, Milanists amenazan con una amarga noche para los escoceses, que dependen de conseguir en los círculos para la segunda vez en una disputa en la Liga de Campeones reestructurado, después de que fueron derrotados precisamente en esta última ronda por un objetivo de Kaka en el tiempo ampliado (0) después 0-0 en la ronda. 
+Esperar para la victoria del "rossoneri" Shakhtar ganar sólo en el caso de que celta perdieron tanto entrar trimestres a seguir en la UEFA. 
+Y como Benfica, pese a ser el último y sin esperanza de permanecer en la cima competencia europea, podría alcanzar el tercer lugar con una victoria, que desempeñan UEFA. 

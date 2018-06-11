@@ -1,0 +1,16 @@
+Casino perdona Jonas Larrazábal y éste será gratuito
+Después de 72 días a partir de los acuerdos, el representante legal de la Red Casino perdonó el hermano del alcalde de Monterrey del proceso en su contra por presunta extorsión
+Después de pasar 72 días en la cárcel, Manuel Larrazábal Jonas será libre después de que el representante legal de la Red Casino le concedió el perdón antes de que el Tribunal de Distrito Segunda de lo Penal, que sigue un proceso de chantaje contra el hermano del alcalde de Monterrey.
+Después del bombardeo de Casino Royale, el propietario de Red Casino, Sergio Gil García, dio a conocer una serie de fotografías y videos donde supuestamente Manuel Jonas le obligaba a pagar una cuota económica para que el ayuntamiento de Monterrey permite la operación clandestina de la apuesta casa.
+Después de la condena pública, el Fiscal General del Estado abrió una causa penal contra el hermano del alcalde y el 2 de septiembre, fue detenido y encarcelado durante 30 días.
+Después de cuatro horas ante el Agente del Ministerio Público de Delitos del Patrimonio, fue trasladado a la Cárcel del temporal, ubicado en el Barrio Antiguo de la capital del estado.
+En este lugar permaneció durante 49 días después de la pronunciación de una segunda orden de restricción después de que el fiscal desestimó los delitos de cohecho y delincuencia organizada.
+El 19 de octubre fue trasladado a Cadereyta supuestamente para chantajear a medio millón de pesos a los propietarios de Red Casino, pero se quedó allí sólo unas pocas horas en la cárcel de mediana seguridad porque hubo amenazas de muerte contra él.
+Las autoridades le permitieron continuar el juicio en las celdas municipales de embarque San Nicolás de los Garza.
+El 25 de octubre, una orden de arresto fue emitida por el secretario del Juzgado Segundo de Distrito del Crimen, Jorge Yáñez, quien dijo que después de casi dos meses de consultas no había pruebas suficientes para establecer la culpabilidad de los Jonas, como por ejemplo la recolección de 1,5 millones de pesos los representantes de la casa de apuestas a cambio de permitir la operación de la misma.
+El lunes, el representante legal de la Red Casino, Víctor Aldo García Gómez, compareció ante el juez José Luis Pecina a pedir perdón por el hermano del alcalde regional, de modo que en las próximas horas podría recuperar su libertad.
+Durante la diligencia judicial, el fiscal adjunto de la Corte, Ramiro Arias, cuestionó García Gómez si había reparado el daño y cuál de los socios de la casa de apuestas el perdón otorgado, aunque el abogado trató de reservar el nombre.
+Con base en el expediente 197/2011 se otorga perdón legal a Jonas Larrazábal y, posteriormente, no se puede hacer ninguna afirmación sobre el proceso que se pretende en contra de él, tampoco la reparación del daño o el castigo será necesario.
+Después de la audiencia del representante legal de los marcadores de libros, casi a 15:50 se ordenó la liberación inmediata de Larrazabal Bretón.
+El secretario del tribunal, Jorge Yáñez, fue a la cárcel del municipio de San Nicolás de los Garza, para notificar a Jonás que él ha sido legalmente perdonado y su historial se archivará el expediente.
+También se le notificará acerca de la orden de excarcelación inmediata dictada por el juez.

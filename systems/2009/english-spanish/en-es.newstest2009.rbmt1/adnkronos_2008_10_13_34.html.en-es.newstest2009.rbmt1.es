@@ -1,0 +1,20 @@
+Los accidentes al trabajo, Napolitano: La " prevenci¢n es crucial " 
+Todos los d¡as, al trabajo 2500 accidentes ocurren en Italia, 3 personas se mueren y 27 permanecen permanentemente inv lidos. 
+Para 2007, los datos de INAIL confirman eso de hecho trabajo relacionado que las muertes han estado alrededor de 1200. 
+Figuras que dan testimonio de la gravedad de un fen¢meno que casi sigue siendo uno de las causas principales de muerte y causas doblan las muertes con respecto al homicidio. 
+Hoy Anmil est  celebrando en todas las provincias italianas el 58 D¡a Nacional para los Accidentes de Accidentes al Trabajo, institucionalizado hacia el segundo domingo de octubre, revocar la atenci¢n de instituciones, fuerzas sociales y medios de comunicaci¢n de informaci¢n a este problema dram tico. 
+" Los datos preocupando difundidos por Anmil y las muy mismas noticias de la corriente tr gicas confirman c¢mo crucial el problema de prevenci¢n en el lugar de trabajo es ", declara al Presidente de la Rep£blica Giorgio Napolitano, en su mensaje al presidente de Anmil, la Asociaci¢n Nacional de los Mutilamos e Inv lidos al Trabajo, Pietro Mercandelli. 
+La cabeza de los expresos Estatales su " apreciaci¢n profunda de los esfuerzos asociativos constantes para la prevenci¢n en el lugar de trabajo, queriendo a obreros del herido, la ayuda de las familias de los accidentes, y la sensibilizaci¢n de opini¢n " p£blica. 
+" Naturalmente, un âenough' indignado se ha levantado, atentamente compartido delante de las tragedias que, debido a su tama¤o, provoque un grito por los medios de comunicaci¢n y el envolvimiento de opini¢n p£blica pero la realidad cotidiana propone casos dram ticos cuya din mica incluso es repetitiva ". 
+Napolitano no oculta indudablemente eso " hay tambin un problema de los recursos: es importante invertir entrenando e informaci¢n. 
+Una importancia particular es supuesta por las numerosas iniciativas promovidas dentro de las escuelas levantando conocimiento de la generaci¢n m s joven que la cara el mercado de trabajo. 
+Es un deber para guardar vivo el conocimiento del fen¢meno, no se rinda a su alarma social seria, aplique y mejore los comestibleses del legislativo. 
+En su parte el presidente de la C mara que Gianfranco Fini ha subrayado " como el fen¢meno de muertes accidentales constituye una emergencia social absoluta que ofende la conciencia de todos y cada uno de nosotros e impone en todas las instituciones una obligaci¢n firme hacia acabar l " urgentemente. 
+Los " datos con respecto a las lesiones en el lugar de trabajo parecen se¤alar una tendencia positiva peque¤a, pero esto no se lleva el hecho que que el n£mero de muertes accidentales es en cualquier caso impresionante ", coment¢ al presidente de Anmil Pietro Mercandelli. 
+" Nosotros no queremos, de hecho, que este trend' de âdownturn se traduce en una vigilancia reducida, porque simplemente es cuando la atenci¢n est  reducida que la tragedia explota. 
+" Nosotros creemos que que a un nivel general poco est  hacindose para oponer el fen¢meno de lesi¢n industrial y la lucha podr¡a continuarse a travs de las acciones m£ltiples. 
+Es necesario, en nuestra opini¢n, - subray¢ Mercandelli â para tener m s mandos e inspecciones, pero tambin una intervenci¢n m s fuerte en el obrero entrenar, y esto debe empezar en la escuela ". 
+" Un esfuerzo mayor se requiere â que l agreg¢ â con la memorias a la comunicaci¢n y sensibilizaci¢n de opini¢n p£blica. 
+Pero, sobre todos, un sentido mayor de responsabilidad se requiere en nombre de los patrones en el respeto de un fen¢meno que representa una emergencia " social. 
+Mercandelli denunci¢ " el deterioraci¢n progresivo del nivel de beneficio del cuidado mantenido los accidentes al trabajo " y el " bienestar entonces flote que el sistema est  tomando en los £ltimos a¤os ". 
+" De, el objetivo es restaurar al obrero la garant¡a del seguro â que l agreg¢ â para que el destino de aqullos que son da¤ados no tenga que depender de acciones pol¡ticas espont neas o concesiones que de vez en cuando est n fuera fijo por legisladores ". 

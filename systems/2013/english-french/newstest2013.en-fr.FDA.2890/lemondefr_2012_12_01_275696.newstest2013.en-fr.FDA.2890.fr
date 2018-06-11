@@ -1,0 +1,50 @@
+Avec Bitcoin, payer et de vendre sans les banques
+Le contraire de échange monétaire actuel, basé sur les banques centrales, identifiées et frais de traitement entre les parties concernées.
+En outre, comme souvent dans ces technologies, une vision politique est palpable : La conviction que le système monétaire actuel, composée de monopoles bancaire, conduit à des crises financières.
+En fait, Bitcoin, inventé par Satoshi Nakamoto (pseudonyme), est à la fois une monnaie virtuelle (mais transformables en dollars, euros) et un échange sécurisé protocole comme BitTorrent, qui permet de peer-to-peer échange de fichier.
+Environ 200 000 transactions ont déjà été enregistrés par 15 000 ordinateurs sur le réseau.
+Près d ’ un millier de sites Web bitcoins accepter des dons ou comme moyen de paiement.
+Le taux de change bitcoin, après avoir atteint un sommet de 30 dollars (23 euros) en juin 2011, est tombée à 2 dollars cinq mois plus tard, revenant aujourd ’ hui pour une dizaine de dollars (taux sont énumérés sur le site bitcoincharts.com).
+Rien de très impressionnant, comparativement à des opérations mondiales dans une monnaie réelle ou produits financiers.
+Toutefois, la Banque centrale européenne (BCE) a eu un intérêt pour elle dans un rapport sur les monnaies virtuelles publié en octobre.
+Il décrit bitcoin comme "la plus réussie de monnaie virtuelle", "en concurrence avec le dollar ou l ’ euro" et "semblables à des monnaies conventionnelles."
+Bitcoin diffère des autres types de monnaie virtuelle comme '' credits, utilisé pour le progrès dans un jeu vidéo qui vous gagnez en jouant ou que vous pouvez acheter (et parfois en échange).
+Le réseau social Facebook a également développé ce type de système.
+Mais, à chaque fois, une autorité centrale de contrôle et gère les échanges.
+Avec Bitcoin, tous les noeuds du réseau sont les deux gardiens du livre de comptes, les vérificateurs, la monnaie, les émetteurs et les acheteurs et les vendeurs.
+Comment le réseau ?
+Chaque transaction entre deux utilisateurs est effectivement réalisé entre deux adresses électroniques comme avec un e-mail.
+Sauf qu ’ un utilisateur peut choisir une adresse différente pour chaque paiement, assurant ainsi l ’ anonymat.
+Un ensemble de renseignements associés à cette transaction est signé électroniquement par une double-système de cryptage à clé.
+Si le réseau peut vérifier l ’ authenticité de la transaction.
+En utilisant le contenu du fichier, il est également possible de veiller à ce que le échangés bitcoins existent dans le livre de comptes, diffusé dans tout le réseau.
+L ’ étape clé entre dans la nouvelle transaction dans le livre.
+Elle passe par la résolution d ’ un problème mathématique émis pour les ordinateurs, et la gagnante, une sorte de banquier central, aura le privilège d ’ ajouter cette ligne supplémentaire.
+C ’ est un dossier de hashage phase, à savoir la transformation d ’ un grand fichier dans un plus court et unique empreinte numérique.
+Les ordinateurs "prendre" la nouvelle transaction et ajouter un certain nombre d ’ elle, puis "empreinte".
+Le but étant de trouver le nombre qui donne une empreinte spéciale (beaucoup de zéros au début).
+Une fois ce nombre a été trouvé, les autres noeuds peuvent facilement vérifier qu ’ elle est la bonne.
+La transaction est ensuite indéfectiblement liée à la chaîne de tous les autres transactions ; toute modification modifierait l ’ empreinte.
+Si un utilisateur voulu escroquer par payer deux fois avec le même argent très rapidement (moins de dix minutes), un seul des deux opérations serait validé par le réseau - les autres resteraient un orphelin parce que les deux ont des empreintes.
+L ’ ordinateur qui résout le problème gagne 50 bitcoins.
+Pour éviter l ’ inflation, ce prix est régulièrement divisé par deux, probablement à la fin de 2012.
+Le nombre de bitcoins en circulation est donc limité à 21 millions, mais ils sont divisibles à la cent millionième, ce qui laisse une certaine marge...
+La difficulté du défi est également soulevée avec chaque augmentation de la puissance de calcul.
+La vie du réseau a eu ses hauts et ses bas.
+Sites Web offrant des services pour Bitcoin ont été agressés et volés bitcoins dans les dépôts.
+"Le subterfuge utilisé n ’ est pas le protocole" dit Pierre Noizat étonnante, qui vient de lancer un véritable monnaie Paymium, société de paiement qui utilise le réseau Bitcoin.
+La BCE souligne également les possibilités de blanchiment d ’ argent en utilisant ce service anonyme.
+Mais comptant a également cette faiblesse.
+Grands joueurs comme Wikipédia refuse les dons de cette nature.
+D ’ autres, comme la plateforme de blogs WordPress, les accepter.
+Récemment, Adi Shamir et Dorit Ron, du Weizmann Institute en Israël, a analysé les livres comptables et a montré que près de 80 % de bitcoins ne circulent pas.
+En novembre, "énorme vendre-PSAF" ont été lancés.
+"Trente mille dollars ont été échangés" se félicite de Jon Holmquist, qui travaille pour Coinabul, qui convertit bitcoins en or.
+Pierre Noizat, également auteur d ’ un ouvrage pédagogique sur cette monnaie, a beaucoup de la foi dans le potentiel de cette technologie comme un réseau de transaction.
+Son système, Paytunia, équivaut à une carte de crédit (en argent réel) ou d ’ un mode de paiement par mobile, mais il utilise Bitcoin pour valider les transactions, qui sont donc moins cher.
+Aussi l ’ utilisateur gère son identité et peuvent donc être anonymes.
+Le système est facile à mettre en œuvre par les commerçants, qui n ’ ont pas besoin d ’ installer de nouveaux terminaux ou de logiciels.
+Ils ont juste besoin de fournir une adresse qu ’ un téléphone peut "photographier et reconnaître" dit Pierre Noizat, qui confirme qu ’ il a des milliers d ’ utilisateurs.
+Il y a un mouvement général de réexaminer les systèmes hiérarchiques pour plus des systèmes horizontaux.
+"Il faudra du temps pour Bitcoin à s ’ établir solidement, mais 2013 pourrait être un tournant," il prédit.
+La BCE, dans son rapport, dit il réévaluera les différents risques, actuellement considérée comme élevé, dans le cas de la monnaie 's succès.

@@ -1,0 +1,14 @@
+Detenido el alcalde y el jefe de la policía local en un supuesto de planificación de la corrupción
+La guardia civil ha detenido el alcalde actual del municipio de a "," Popular Martinez andreo, el jefe de la policía local, el Secretario del Ayuntamiento y un hombre de negocios sobre posibles crímenes, fuentes nos ha informado hoy.
+Se detenido en su domicilio y se ha transferido a los, en que las dependencias es actualmente con varios agentes, que también ha ido al Consejo urbano y la compañía de administración municipal de suelo industrial y.
+Estos tres detenciones se añaden a seis hizo el lunes pasado en Galicia, Murcia y Madrid, en una operación relacionada con la calificación de más de 2 millones de hectáreas de tierra a urbanizeable para que la compañía galician haya construido casas, después del pago de comisiones ilegales durante la última legislatura.
+Además, las otras dos personas fueron detenidas, pero no en el resumen que manda el Tribunal número 1.
+Los seis primeros detenciones han ido antes de que el Tribunal hoy.
+Según fuentes de información, el Concejal anterior a cifras reales y parlamentario del PP, Juan morales, está siendo investigadas.
+Además, la antigua esposa, propietario de un certificado de bienes raíces en a la Agencia, ha sido procesado, como es el actual del anterior que reside en la capital de Murcia.
+El director y el propietario del Grupo nuaria, el abogado y De Vigo Manuel, en nigrán (Pontevedra), como Pablo jose, director de tierra de inmonuar, una agencia integrada con el mencionado Grupo, y a través de los cuales los sobornos habría hecho.
+La investigación es la responsabilidad de los crímenes del grupo de hacer funcionar la central (uco) de la guardia civil, cuyos agentes, además de las detenciones, llevó a cabo once expedientes, la mayoría de las empresas relacionadas con los presos y establecido en Madrid, Vigo, Murcia, Pontevedra, Madrid y a.
+Una persona entonces fue detenido en a, en particular, el propietario de la compañía de producto bien conocido en la región, que podría haber actuado como mediador.
+El Grupo fue responsable de desarrollar lo que se hizo en el complejo residencial más grande del municipio de a, que implica la construcción de más de 5.000 casas, un campo de golf y dos hoteles "con el balneario".
+La compañía adquirida en a 2,2 millones de metros cuadrados de tierra que fueron calificados de nuevo y su proyecto la duplicación de la población del municipio, que ha de 25.000 habitantes.
+El Grupo integra las compañías como autesa y inomonuar, dedicado al desarrollo de bienes raíces; conycase, que gestiona el estacionamiento de las calles de La Coruña, Venezuela y Fernando el cuadrado católico; hogartel, dedicado al sector de venta directa; se concentra en la promoción, la venta y la instalación de los elementos de la construcción.

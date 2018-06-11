@@ -1,0 +1,13 @@
+La NSA blâme "erreur interne," Not Hackers, For Website Crash
+L'Agence de sécurité nationale ténébreux a déclaré tard vendredi qu'il s'agissait d'un problème qui a fait tomber son site Web public pendant quelques heures, les pirates pas comme certains l'ont prétendu en ligne.
+"NSA.gov n'a pas été accessible pendant plusieurs heures cette nuit à cause d'une erreur interne survenue lors d'une mise à jour prévue", l'agence d'espionnage a déclaré dans une déclaration envoyée par courriel.
+La question sera réglée ce soir.
+Les allégations selon lesquelles la panne a été causée par un déni de service distribué (DDoS] attaque ne sont pas vraies.
+Plus tôt dans la soirée du serveur en ligne trackers a indiqué sur le site de la NSA avait été abattu pendant au moins six heures, et le site continue d'être inaccessible pour certains utilisateurs.
+Un peu plus tôt un porte-parole de la NSA a déclaré à ABC News à l'intérieur de l'agence, le réseau sensible n'était "pas du tout" compromis.
+Pas d'informations classifiées est en danger, a déclaré le porte-parole.
+Au moins un groupe hacktivist en ligne ont affirmé qu'ils étaient chargés de faire tomber le site de la NSA avec une attaque DDoS.
+Des attaques DDoS sont conçus pour inonder le trafic d'un site cible avec jusqu'à ce que les serveurs sont surchargés et le site s'effondre.
+La tactique cybernétique est relativement simple et les attaques ne visent pas à pénétrer le réseau interne du système cible.
+L'ancien super secrète NSA, autrefois surnommé No Such Agency, s'est retrouvée dans une lumière très publique, et malgré les critiques féroces, dans les derniers mois à la suite d'un flot de révélations sur de vastes programmes de surveillance extérieure et intérieure - collectivement le produit des dossiers secrets de la NSA volés à l'agence et divulgué par l'ancien sous-traitant de la NSA Edward Snowden désenchanté.
+Cette recrudescence de la controverse entourant l'agence a suscité des spéculations précoces que l'incident de ce soir était le résultat d'une opération cybernétique ciblées.

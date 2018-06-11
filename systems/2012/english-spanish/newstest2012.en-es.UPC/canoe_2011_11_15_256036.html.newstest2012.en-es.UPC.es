@@ -1,0 +1,9 @@
+Antimusulmana crímenes han aumentado un 50%
+Entre 2009 y 2010, crímenes antimusulmana crecerá casi en un 50%, mientras que en el mismo período de otras formas de violencia racial y religiosa ha disminuido ligeramente, o no ha cambiado, según las estadísticas del FBI, publicado el lunes.
+Según estas cifras, el número total de casos de violencia contra los musulmanes se trasladaron de 107 en 2009 a 160 en 2010, equivalente a un aumento del 49%, frente a un aumento del 13% de los casos de violencia contra los católicos, una caída del 4% de los ataques contra los judíos y un aumento del 14% de los crímenes antirreligiosa.
+El número total de delitos de odio aumentó ligeramente a 6 628 casos, de los cuales 47,3% estaban motivados por diferencias raciales y el 20% por las diferencias religiosas, según el FBI.
+"después de una disminución en 2009, es preocupante ver a estos crímenes un nuevo aumento de los derechos del hombre, destacó la organización Human Rights First," el aumento de los casos de violencia antimusulmana es especialmente significativo ", añadió la organización en un comunicado.
+"Human Rights First siempre ha subrayado que los actos de violencia contra los musulmanes, así como todas las formas del delito de odio, debe ser considerado como graves violaciones de los derechos humanos", añade uno de los administradores de la Organización, Pablo Legendre.
+"El Gobierno estadounidense puede y debe hacer más para tratar con su abuso, añade, a juzgar que esto podría deberse a la edición de los informes policiales sobre los delitos de odio."
+"los delitos de odio" en la legislación federal, es un legado del período de la lucha por los derechos civiles.
+Esta legislación fue aprobada tras la muerte de Martin Luther King para castigar los actos de violencia vinculados a la raza, el color de la piel, religión, origen y ahora la orientación sexual.

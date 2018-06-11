@@ -1,0 +1,11 @@
+Bono acepta para encabezar a la candidatura del PSOE para Toledo y presidir el Congreso de ser ganado.
+Ex - el ministro de Defensa José Bono ha aceptado la oferta del presidente del gobierno y el Secretario General de los Socialistas, Jose Luis Rodriguez Zapatero, encabezar la lista del PSOE por Toledo para las siguientes elecciones generales y ser el presidente del Congreso por si los Socialistas ganen las elecciones generales.
+Este fue anunciado con una rueda de prensa por el secretario de Organización del PSOE, Jose Blanco, y Bono él mismo, después de la reunión que fue sostenida esta tarde en el asiento federal del partido con Zapatero.
+El director ha justificado la oferta al ex - ministro porque "es importante tener el mejor" en la vida política y Bono "está entre el mejor".
+Además, también fue indicado que "parece" que el candidato de socialista de grupo Manchego presidirá el Congreso si los Socialistas ganan en las siguientes elecciones.
+Bono sustituiría al presidente de Congreso Manuel Marín, que el 15 de noviembre hizo público su decisión de no significar las siguientes elecciones generales y abandonar su carrera en la política para dedicarse para luchar contra el cambio climático del nivel de universidad.
+Ex - el ministro ha reconocido que el presidente del Gobierno no ha dejado de insistir que él vuelva a la vanguardia política ya que él se marchó hace dos años.
+Además, él ha indicado que, como los ciudadanos saben quién será el vicepresidente económico si el PSOE gana las elecciones, ellos han querido anunciar quién presidirá el Congreso, en "un acto de la transparencia".
+Si él gana la oficina, Bono espera convertir la Casa en "la casa de respeto y no insulto o grito". Y hágalo "cada vez más visible a los ciudadanos".
+"A veces lamentablemente parece que el único lugar en Madrid donde no es posible ser habla con la confianza y la tranquilidad es el Congreso, el presidente del Gobierno en una ocasión fue interrumpido en el Senado 26 veces".
+También, él ha elogiado al presidente corriente, Manuel Marín "y el trabajo bueno que él hace" y no ha querido ser visto como ya ocupación de su poste, no caerse a lo que, sus adversarios podrían ver como "la arrogancia".

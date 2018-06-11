@@ -1,0 +1,10 @@
+Fármacos: nunca con jugo de fruta 
+Atención al jugo de pomelo, al de naranja y al de manzana. 
+Estas bebidas, consumadas sobre todo en verano porque son refrescantes y ricas de vitaminas, si se toman contemporáneamente con algunos fármacos se altera su absorción amplificando o disminuyendo según el caso, la eficiencia con consecuencias graves para la salud. 
+A repetir el riesgo de los jugos de frutas sean envasados que frescos asociados a la asunción de algunos medicinales David Bailey, profesor de la Universidad de Western Ontario en Londres, que desde el  236esimo meeting nacional de American Chemical Society en curso a Filadelfia envía una nueva alarma: basta un vaso de jugo de pomelo, de naranja y de manzana para reducir el absorbimiento de algunos fármacos, anulando los efectos benéficos y poniendo a riesgo la salud de los pacientes. 
+El jugo de pomelo era ya estado bajo acusa porque se retenía responsable de aumentar  a niveles tóxicos algunos medicinales anti arrítmicos, antibióticos, ansiolíticos, antihistamínicos y neurológicos. 
+FARMACOS A RIESGOS – La misma agencia italiana del fármaco había dado la noticia en un boletín de informaciones dos años atrás alarmando médicos y pacientes a no subestimar el peligro que derivaba de este mezcla y a poner atención a cosa se bebe en el caso se esté asumiendo un fármaco como por ejemplo el a Diasepam o el Metadone. 
+NO SOLO EL POMELO – Según los expertos también el jugo de naranja y el de manzana contienen sustancias que inhiben los fármacos. 
+Una larga lista de los principios activos inhibidos por el pomelo y otros jugos. 
+De aquí la llamada de Michele Carruba, director del departamento de farmacología de la Universidad estatal de Milano:"Estos descubrimientos en general viene señalados a las varias agencias del fármaco internacional y nacionales que eventualmente proveen a cambiar las notas informativas del mismo. 
+Por eso hay que leer siempre los folletos ilustrativos de los medicinales que se asumen y si hay algo que no nos queda claro, no dejarnos impresionar, preguntar claramente al médico o al farmacéutico» subrayó el experto de la agencia Ansa. 

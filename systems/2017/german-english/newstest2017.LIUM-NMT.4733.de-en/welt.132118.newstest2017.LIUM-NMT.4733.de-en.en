@@ -1,0 +1,45 @@
+Data klau: So perfide hackers are exposing their ransom.
+Programmers are currently targeting companies - and are successful in doing so.
+According to a recent survey by the Malware-Defense Specialist Malwarebytes of 540 companies in North America, Great Britain and Germany, 40 percent of the companies surveyed were at least once, sometimes several times, victims of an attack with blackmail software.
+In Germany, almost 20% of firms were already the target of a ransomware blackmail.
+40% of the victims willingly paid the ransom required by the perpetrators in order to be able to use the systems and data that are under attack.
+According to the observations of Malwarebytes, the perpetrators specialize in attacks on company networks according to the observations of Malwarebytes.
+If they are successful there, the potentially blackmailing ransom field is significantly higher than for private users.
+"We are witnessing a frightening rapid evolution of the malware," explained Malwarebytes-boss Marcin Kleczynski in conversation with the "World."
+In 2008, most malware programs were designed to send advertising.
+Then the offenders discovered blackmail software for themselves.
+Only private users were the target, but the changeover to company attacks took place at a frightening pace over the past few months.
+Ransomware works on a simple pattern: Once on a victim's computer, it is looking for newly modified files such as Word, Excel or database files, as well as archives of images and videos.
+These files encrypt the ransomware and delete the original.
+Then the software presents the demands of the blackmailers.
+In order to get the final code to the files, the victims must transfer money - mostly in the form of the Cryptocurrency Bitcoin.
+However, where the personal photo database is at stake for private users, companies are involved in sensitive customer data or project databases, without which production is closed.
+As a result, the damage occurs when a ransomware is added.
+22 percent of the German companies affected reported loss of revenue through Ransomware, 13 percent even had to interrupt the business completely, in one case people were in danger of life.
+In Germany, several hospitals have already been victims of attacks, whose patients can be seriously threatened by the loss of health records.
+"We always say to the victims: Does not pay, it only promotes the problem," says Kleczynski.
+But 80 to 90% of the companies that pay will get their data again.
+For managers, it is difficult to reject the demand of the perpetrators in the face of a standstill.
+Hackers again know that and try to build a good reputation.
+In a recent study, the security researchers of F-Secure investigated the user interface and contacts with the blackmailers and come to the result: The perpetrators are actually trying to build a kind of customer service to take more money.
+They explain to their victims through chat, how they can pay by bitcoin, set freely accessible support sites or unlock example files for free.
+And if private individuals are redeemed after payment of a few hundred euros, companies will have to negotiate hard and pay five-digit sums in order to recover their data unencrypted.
+In view of the potentially high and relatively risky profits from the ransomware blackmail, hackers are increasingly professional and share the work, explains security expert Chester Wisniewski of the antivirus provider Sophos: "A single person can write a Ransomware about within a week."
+However, it is more likely that there are three or four people.
+The programmers then sell their malicious software in the form of a software building block to the actual blackmailers.
+The previous malware kits were created by buying the malware themselves, advice, and additional tools for a unique, fixed price between 1000 and 10,000 dollars.
+"The scope of delivery is an adjustment tool, so that smaller configurations, appearance and branding can be changed," says Wisniewski.
+The blackmailers are looking for more hackers to distribute the newly purchased software among the victims.
+We live in a service economy.
+So you can login in one of the subground forums, buy the set of a criminal and charge another to install the software to as many PCs as possible.
+Payment is per infected machine.
+"usually the criminals then recruit spammers with the spread," says Wisniewski.
+The risk of Ransomware is now known to many companies that better secure their data.
+More than 50 percent of the company's IT managers in the Malwarebytes-survey trust to be able to ward off Ransomware by means of file backups and scanner software.
+As a result, the perpetrators are already pursuing new strategies.
+"If the encryption of data is not a sufficient threat to successful testing alone, the perpetrators are threatening to publish sensitive data such as customer lists or price calculations," explains Malwarebytes-boss Marcin Kleczynski.
+Thus, the damage potential, depending on the type of data, is even higher than before.
+In the future, the perpetrators could also take completely new objectives on the Internet of things.
+At the hacker conference Defcon, security researchers demonstrated how they were able to control a thermostat connected to the Internet.
+In the middle of the winter, the opening of such a blocked heating could well be worth a ransom.
+If, instead of heating in the future, the perpetrators block a whole production line in a factory, Ransomware could also become a subject in industry 4.0.

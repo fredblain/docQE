@@ -1,0 +1,24 @@
+La voiture intelligente imite le vol d'un bourdon 
+Qu'y a -t-il de la meilleure manière de faire progresser le développement des technologies de prévention des accidents que d'imiter les détecteurs de l'obstacle de la nature ? 
+Examinons les abeilles, par exemple. 
+Dans un projet étonnant qui est en cours à CEATEC au Japon, le bourdon a donné aux ingénieurs de Nissan un conseil stratégique à la manière d'élaborer la nouvelle génération de systèmes d'accident-manière d'éviter. 
+Basé sur la recherche commune avec l'université de Tokyo, Nissan a établi le commandement de robot de voitures BR23C-type Biomimatic. C'est un micro-car robotique qui recrée des caractéristiques des abeilles dans le but d'établir un système qui empêche les collisions assez. 
+« En vol, chaque ruche crée sa propre espace personnel ovale, qui semble en effet près de le bouclier de sécurité », a déclaré le directeur de marque de Kazuhhiro Doi de la technologie, LA proportionnelle, la recherche et le développement. 
+La structure composée de l'oeil des abeilles joue un rôle significatif, ce qui rend les abeilles capables de voir dans toutes les directions, sous un angle de 300 degrés. 
+Pour recréer la fonction d'un oeil composé, les ingénieurs ont avancé l'idée d'un télémètre laser. 
+Cet appareil détecte des obstacles jusqu'à deux mètres de parti dans un rayon de 180 degrés devant le BR23C, calcule la distance à eux et envoie un signal à un microprocesseur intégré, qui est immédiatement traduit en évitement de collision. 
+Il faut qu'une fraction de seconde pour détecter un obstacle, et le robot automobiles change immédiatement la direction imitant les mouvements d'une ruche en faisant tourner ses roues à l'angle requis pour éviter une collision. 
+Une des grandes différences de tout système actuel n'est qu'une manoeuvre d'évitement est totalement instinctive. 
+« Si ce n'était pas aussi, puis le robot automobile pourrait ne pas réagir suffisamment vite pour éviter les obstacles, » dit Toshiyuki Andoh, directeur du laboratoire de mobilité de Nissan et ingénieur principal du projet de voiture de robot. 
+Il doit réagir instinctivement et immédiatement parce que cette technologie correspond à la couche la plus vulnérable et la plus les plus secrets du bouclier de sécurité, une couche dans laquelle un accident est actuellement jugé inévitable. 
+Le processus doit refléter l'abeille fait pour éviter d'autres abeilles. 
+Il doit arriver dans le clin d' il. 
+Mais à l'inverse d'une ruche, il ne peut pas dévier vers le haut ou le bas ou diagonalement, uniquement en deux dimensions et uniquement dans la direction que les roues peuvent tourner. 
+Ainsi, au lieu du nombre infini de manières un bourdon peut éviter d'autres abeilles, ici que la fonction de rotation, l'accélération et la décélération ont été appliquées en tant que moyens d'évitement de collision. 
+BR23C emploie des accumulateurs de lithium-polymère qui sont plus légers et ont une densité de l'énergie, qui - par rapport à la version de lithium-ion - assure une vie plus longue. 
+Selon Andoh, ce qui est important, c'est la réaction instinctive intelligente, pas la capacité d'informatique et de stockage. 
+Le système est censé gérer seuls certains lobbies par seconde et réagir sur eux en conséquence. 
+Il n'y a pas besoin de stocker les entrées et de réaction de la logique intuitive basée sur les données de manoeuvre précédentes, alors elle attribue sans discontinuer seulement quelques dizaines de kilo-octets de mémoire. 
+Il n'y a pas lieu de mémoire de taille de gigaoctet ou de méga-octet. 
+C'est la première étape de développer la technologie d'évitement de collision instantanée qui, sur la base de l'évaluation de Nissan, peut être établie dans les voitures série-produites dans un délai de 10 ans. 
+Si relie le trait au système de navigation par satellite GPS, on peut établir une option supplémentaire d'application qui peut aider à éviter les obstacles sur la route tout en volant. 

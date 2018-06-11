@@ -1,0 +1,14 @@
+Reino Unido utiliza YouTube como herramienta de reclutamiento militar 
+Las unidades militares británicas están compartiendo sus acciones de Afghanistani e iraquíes el tubo a través de sujetapapeles de video en usted en un esfuerzo para popularizar sus misiones. 
+El ejército del aire real (RAF) era el primero de desarrollar un gusto para YouTube: sus fuerzas especiales en Afganistán están telecargando sujetapapeles de video que se muestran cómo están combatiendo el Taliban ya que marzo 2006, BBC señala. 
+Se comprueban las imágenes, cogidas con se colocan las cámaras en miniatura a cascos de tropa, por un centro de orden en Kandahar y entonces se transfieren a Londres de dónde se telecargan sobre el internet. 
+No hay ninguna equivocación el mensaje político 
+Se han telecargado las imágenes RAF completamente 139 sobre el internet y los han recibido tan lejos encima sobre los golpes 75,000. 
+El ministerio de defensa Reino Unido está registrado desde la primavera 2007 como "sede central de defensa", telecargando regularmente sujetapapeles de video en acciones de Afghanistani e iraquíes, mientras la oficina de comunidad de naciones y la fuerza multinacional - Irak (MNF-I) le tiene el suyo canales de tubo. 
+Introducción a Afganistán 
+El RAF telecargó originalmente los videos como herramienta de reclutamiento. El ministerio de defensa dice que han sido también una buena manera de dejar que el público sepa el propósito real de mantener las fuerzas en el extranjero. 
+La publicidad diseminada a través de esta avenida no cuesta nada casi cuando está comparada con anuncios de reclutamiento tradicionales en televisión, Mackenzie Gordon de defensa experto dijo BBC. Al mismo tiempo, llevan inadvertidamente un poco de un mensaje político para, en una manera especial, ofrecen la penetración en las razones por qué el gobierno ordenó las acciones continuas militares. 
+Los americanos lo han transformado en un juego 
+Un problema con que el ejército tiene que contender implica los videos aficionados que se comparten junto a los sujetapapeles cuidadosamente editados y oficiales censurados, que nivelan a veces a soldados de exhibición murientes. En los sujetapapeles ligeramente hipócritas "oficiales", los oficiales hablarán como mucho de sus pérdidas pero está nunca mostrado realmente el lado sangriento del combate. 
+Completamente se han puesto varios videos de los campos de batalla de Afghanistani e iraquíes que muestran la acción viva en el internet, pero las fuerzas británicas se han reunido únicamente recientemente en los registros. 
+El reclutamiento americano es un pedacito diferente. Los EE.UU. están usando al ejército de América, un juego de disparo tactical carga por teleproceso disponible para gratis, como una herramienta de reclutamiento. En él, los jugadores se hacen soldados en un más o la simulación más menos realista de fuerzas de combate. 

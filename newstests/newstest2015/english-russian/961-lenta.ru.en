@@ -1,0 +1,23 @@
+The potential method for stealing photos of nude celebrities has been discovered
+It is possible that the massive hack of celebrities’ accounts was carried out using a vulnerability in the Find My Phone app.
+The Next Web resource described the potential scenario of events.
+A script written in Python language was published on the GitHub resource, which made it possible to collect passwords for the Find My Phone service from Apple.
+This service makes it possible to keep an eye on an iPhone’s location.
+To gain access to it one uses the same Apple ID login and password combination that is used to gain access to Apple iCloud, which is where the photographs of celebrities were stolen.
+The script made it possible to use a brute-force computing method to figure out the Find My Phone password.
+With this approach, every possible combination of symbols is sequentially entered, starting with the most commonly used passwords.
+The script’s creator confirmed that the Find My Phone service has an infinite number of password input variations.
+When it’s working properly, the security system should block an account after several unsuccessful login attempts and alert the user about the attempted attack.
+As a result of a vulnerability, the users didn’t receive any messages about the attempt to match the password to their account.
+The hackers figured out the password from Apple ID and then used it to gain access to iCloud.
+According to Hackapp’s message on Twitter, the vulnerability was found two days ago, on Saturday, and a script programme was then written for it in order to collect the passwords.
+At the present time, the vulnerability has been fixed: after the five failed login attempts, the service is blocked.
+The resource contacted the Hackapp user and he noted that the aforementioned vulnerability is common with many services; however, he also noted that he has no proof that this specific vulnerability was used to gain access to the “stars’” accounts.
+It’s not me, plz RT
+Once again unauthorized messages have shown up on the Prime Minister’s Twitter account
+Although there is no hard evidence that the vulnerability in Find My Phone was used to steal photographs, there has already been a wave of injurious acts committed using that service.
+Hackers intercepted control of a device and ordered owners to pay ransom.
+In that case, Apple told the media that the safety of the cloud was not compromised in this incidence, however, they had not conducted an investigation into how the users lost their accounts.
+In Russia, the Twitter account of the Prime Minister of the Russian Federation, Dmitry Medvedev, was also previously hacked.
+If the hackers gained access to iCloud using the above-described method, then the password to the account of the head of the government may also be stored in the microblog service.
+The Next Web resource was not able to get a comment from Apple regarding the Find My Phone vulnerability.

@@ -1,0 +1,5 @@
+El UMP y NC se niegan a las ofertas del PS examin contra el poder purchaising
+UMP y los grupos de Centro de Nouveau rechazaron el jueves hablar de algunas secciones de la cuenta socialista en el poder purchaising, que significa que ellos rechazaron el texto.
+Concebido en un ajuste de socialista (sesión en la iniciativa de un grupo parlamentario), el texto rehusó una docena de medidas tomada el martes por la oficina nacional del PS, incluso el aumento del 50 % del premio para el empleo, la reintroducción TIPP, un transporte de cheque o el control de gastos de alquiler.
+Ya que UMP y NC votaron contra aquellas secciones de la cuenta (180 contra 115 votos), la reunión cerrada al final de argumento a menudo acalorado entre mayoría y oposición, unas horas después del discurso de televisión de Nicolas Sarkozy en el poder purchaising.
+El líder PS, Jean-Marc Ayrault, anunció que su grupo representará la integralidad de sus ofertas moviendo una enmienda a la cuenta financiera que será examinada por la Comisión la próxima semana.

@@ -1,0 +1,13 @@
+Blâmes de NSA « erreur intérieure », pas pirates informatiques, pour l'accident de site Internet
+L'Agence de Sécurité nationale ombragée a dit tard vendredi que c'était un pépin qui a renversé son site Internet public depuis quelques heures, pas pirates informatiques comme certains ont prétendu en ligne.
+« NSA.gov n'était pas accessible depuis plusieurs heures ce soir à cause d'une erreur intérieure qui s'est produite pendant une mise à jour programmée », l'agence d'espion a dit dans une déclaration envoyée e-mail.
+La question sera resolue ce soir.
+Les revendications que l'arrêt du fonctionnement a été provoqué par une attaque de déni de service distribué [DDoS] ne sont pas vraies.
+Plus tôt ce soir les traqueurs de serveur en ligne ont noté que le site Internet du NSA avait été baissé depuis au moins six heures et le site continue à être inaccessible pour certains utilisateurs.
+Plus tôt un porte-parole NSA a dit aux Nouvelles d'ABC que le réseau intérieur, sensible de l'agence n'a été « pas du tout » compromis.
+Aucuns renseignements classifiés ne sont en danger, le porte-parole a dit.
+Au moins un groupe hacktivist a prétendu en ligne qu'ils étaient responsables de renverser le site NSA avec une attaque de DDoS.
+Les attaques de DDoS sont conçues pour inonder un site Internet prévu avec la circulation jusqu'à ce que les serveurs soient surchargés et les effondrements de site.
+La tactique cyber est une relativement simple et les attaques ne sont pas signifiées pour pénétrer le réseau intérieur du système prévu.
+NSA secret autrefois formidable, une fois surnommé Aucune Telle Agence, s'est trouvé dans la lumière très publique et parmi la critique malfaisante, dans les mois suivre partout passé un ruisseau de révélations est des programmes de surveillance étrangers et domestiques vastes - collectivement le produit de dossiers de NSA secrets volés de l'agence et a fui par l'ancien entrepreneur NSA désabusé Edward Snowden.
+Une telle controverse grandissante entourant l'agence a provoqué la première spéculation que l'incident de tonight était le résultat d'une opération cyber visée.

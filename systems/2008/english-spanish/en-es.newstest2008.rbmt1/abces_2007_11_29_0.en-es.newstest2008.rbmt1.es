@@ -1,0 +1,11 @@
+Bono acepta para encabezar la candidatura del PSOE para Toledo y presidir al congreso si ganó. 
+El ministro de defensa de ex José Bono ha aceptado la oferta del presidente estatal y de la secretaria general de los socialistas, Jose Luis Zapatero, para encabezar la lista Rodriguez del PSOE por Toledo para las próximas elecciones generales y ser el presidente del congreso en caso los socialistas ganan las elecciones generales. 
+La secretaria de organización del PSOE, del Jose Blanco y del Bono él mismo anunció esto en una conferencia de prensa, después de la reunión que se sujetó en el asiento federal del partido con Zapatero esta tarde. 
+El jefe ejecutivo ha justificado la ofrecimiento al ministro de ex porque "es importante tener el más mejor" en vida política y Bono "es entre el más mejor". 
+Además, se afiló también fuera de que "parece" que el candidato de grupo Manchego socialista se dirigirá al congreso si los socialistas ganan en las próximas elecciones. 
+Bono reemplazaría al presidente de congreso Manuel Marín, que en el público 15th hecho por noviembre que su decisión de no el aguantar para las próximas elecciones generales y dejar a un lado de su carrera en la política para dedicar él mismo para luchar contra el cambio climático en el nivel de universidad. 
+El ministro de ex ha reconocido que el presidente estatal no ha dejado de insistir que el regreso al vanguard político desde él se haya marchado hace dos años. 
+Además, ha indicado que, como los ciudadanos saben quien serán el vicepresidente económico si el PSOE gana las elecciones, han querido anunciar quien presidirán al congreso, en un "hecho de transparencia". 
+Si gana la oficina, Bono espera transformar la casa en "la casa de respeto y no insulto o grito". Y haga "cada vez más visible a los ciudadanos". 
+"A veces desgraciadamente aparece que el único lugar en Madrid donde no es posible ser habla con confianza y calma es el congreso, se le interrumpió al presidente estatal a una veces en las veces Senate 26". 
+También, ha alabado al presidente actual, el Manuel Marín y "el buen trabajo que se está haciendo" y no ha querido ser visualizado como la ocupación ya de su poste, para no caer en qué, sus adversarios podrían visualizar como "arrogancia". 

@@ -1,0 +1,20 @@
+Accidentes en trabajo, Napolitano: "La prevención es crucial" 
+Diario, en Italia, en el trabajo 2500 los accidentes ocurren, mueren 3 personas y 27 permanecen permanentemente nulos. 
+Por 2007, los datos de INAIL confirman que de hecho el trabajo relacionaba muertes han sido alrededor de 1200. 
+Cifras que presencian la gravedad de un fenómeno que los restos que uno del las principales causa de muerte y causas casi doblan las muertes con respecto a homicidio. 
+Para recordar la atención de las instituciones, sociales las fuerzas y información medios a este dramático tema, hoy a está celebrando en todas las italiana provincias el 58º Día Nacional para Víctimas de Accidentes en Trabajo, institucionalizado al el segundo domingo de octubre. 
+"Los datos que se preocupa difundidos por Anmil y la misma trágicas actuales noticias confirman cómo" es la cuestión de prevención en el trabajo de crucial ", considera al Presidente de la República Giorgio Napolitano, en su mensaje al presidente de, Asociación Nacional del Mutilado y Inválidos en Trabajo, Pietro Mercandelli. 
+El jefe del Estado expresa suyo "profundo comprensión de los esfuerzos asociativos constantes para la prevención en el lugar de trabajo, que cuida de trabajadores heridos asistencia de las víctimas 'familias, y la sensibilización de opinión pública". 
+"Naturalmente, un indignado 'bastantes' tiene levantado, sinceramente compartía delante de tragedias que, debido a su tamaño, provocan una protesta por los medios de comunicación y la participación de opinión pública menos realidad diaria propone casos dramáticos, la dinámica de quién son incluso repetitivo". 
+Napolitano no oculta eso "indudablemente allí 's también un problema de recursos: ello' s importante invertir en la formación y información. 
+Un especial significado es asumida por las iniciativas numerosas promovidas dentro de las escuelas en la concienciación de aumento de la más joven generación que se enfrentan al el trabajo mercado. 
+Ello 's una obligación para mantenerse vivo la sensibilidad de este fenómeno, no abandonar a su grave social alarma, aplicar y mejorar la legal normativa. 
+En su parte el presidente de la Cámara Gianfranco Fini tiene subrayaba "tan el fenómeno de accidental muerte constituye una auténtica social emergencia, eso ofende la conciencia de todos y cada uno de nosotros y se impone sobre todas las instituciones una obligación decisiva hacia urgentemente terminar él". 
+"Los datos en cuanto a las lesiones en el lugar de trabajo parecen que indica por señas una tendencia positiva pequeña, pero esto no quita el hecho de que el número de muertes es en ningún caso impresionante", comentado el presidente de Anmil Pietro Mercandelli. 
+"Nosotros hacer no querer, de hecho, que esto 'vuelta hacia abajo tendencia' es traducido en un alertness reducido, porque es sólo cuándo la atención se reduce esa tragedia explota. 
+"Nosotros creer que a un nivel general poco se está haciendo para oponerse al fenómeno de laborales lesiones y la lucha se podría continuar mediante acciones en cadena. 
+es necesario, en nuestra opinión, - Mercandelli subrayado - tener más controles y inspecciones, pero también una intervención más fuerte sobre la los trabajadores formación, y esto debería empezar en la escuela ". 
+"A mayor esfuerzo es pedido - se añadía - con respecto a la comunicación y sensibilización de opinión pública. 
+Pero, sobre todo, un mayor sentido de responsabilidad se requiere en nombre de empresarios respecto a un fenómeno que representa una emergencia social ". 
+Mercandelli entonces denunciaba "el deterioro progresivo del nivel de beneficio de cuidado proporcionado a víctimas en trabajo" y la "deriva de bienestar que sistema los está llevando en los últimos pocos años". 
+"por Consiguiente, el objetivo es devolverle al trabajador la de seguros garantizar - se añadía - para que el destino de los que son heridos no tenga que depender de espontáneo políticas las acciones o subvenciones que son preparadas de vez en cuando por legisladores". 

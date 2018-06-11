@@ -1,0 +1,4 @@
+El querellante público del Balcan
+Carla del Ponte ha sido ocho años que perseguía implacably a los criminales de la guerra de los Balcanes de la oficina del querellante público de la corte penal para la Yugoslavia ex, situada en el Hague.
+Su mandato expira a finales del año y Carla irá con sabor agridulce e amargo, porque gente responsable de la matanza del Srebrenica - donde 8.000 bosníacos musulmanes murieron, el Ratko ex-general Mladic y el líder servio ex-Bosnio Radovan Karadzic, todavía está en grande.
+Sus nombres están en la lista de la cual el documentary suizo, producido por Marcel Schüpbach, toma su título, la "lista de Carla" (2006, no lanzado en España), que tiene el paso de una novela de suspense del policía, y siguen el trabajo del querellante público suizo de Belgrado a Nueva York para procesar a los criminales que huyen y para ejercer presión sobre los gobiernos referidos para consolidar el sitio.

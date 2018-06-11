@@ -1,0 +1,5 @@
+UMP y NC se niegan a examin PS's propuestas sobre el poder purchaising
+UMP y del centro Nouveau grupos se negó el jueves para debatir algunas secciones del proyecto de ley sobre las socialista purchaising poder, que significa que se negó el texto.
+Concebida en un establecimiento socialista (sesión sobre la iniciativa de un grupo parlamentario), el texto disminuido una docena de medidas adoptadas el martes por la Oficina Nacional del PS, incluyendo al 50 por ciento de aumento de la prima para el empleo, la reintroducción tipp, un cheque-transport o el control de los abonos.
+Desde UMP y NC votado en contra de los apartados de la factura (180 contra 115 votos), la reunión cerrado al final de un encendido a menudo entre la mayoría y la oposición, pocas horas después de la intervención de televisión de Nicolas Sarkozy en el poder purchaising.
+El líder socialista, Jean-Marc Ayrault, anunció que su grupo representará la integridad de sus propuestas por pasar una enmienda a la propuesta de ley financiero que será examinada por la comisión la próxima semana.

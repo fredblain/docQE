@@ -1,0 +1,30 @@
+Fiscales no cobrar el senador ensign 
+Departamento de justicia penal fiscales han despejado el senador john ensign de acusaciones derivadas de su campaña asunto con un antiguo ayudante y sus esfuerzos para garantizar el marido de los grupos de trabajo de la mujer, el senador de los abogados anunció el miércoles. 
+La decisión termina la más grave amenaza a la que se enfrenta el sr. ensign legal, la nevada republicano que era considerado un posible candidato presidencial en 2012 hasta el escándalo de su asunto titulares nacionales adoptadas el año pasado y dañó su carrera. 
+La oficina del sr.. ensign ha dicho que "sin duda complace" por la decisión, que ha seguido una investigación yearlong. 
+El senador podría todavía se enfrentan a medidas disciplinarias por el senado comité de ética. 
+Dicho el sr. los abogados de ensign el departamento de justicia había "nos ha informado de que el senador ensign ya no es un objetivo de su investigación y que no tiene planes para incluir todos los cargos contra él en este asunto". 
+El departamento de justicia se negó a comentar el caso. 
+El anuncio fue algo de una sorpresa para muchos juristas fuera del departamento de justicia de ética, ha dicho que parecía ser una importante prueba que indique que el sr. ensign puede han conspirado para violar un criminal federal de prohibición de las actividades de los grupos de interés. 
+En primer lugar entrevistas, el correo electrónico y otros documentos publicados en octubre de 2009 en el new york times ha señalado que el sr. ensign ayudaron a douglas hampton, que fue uno de sus colaboradores, asegurar el lucrativo grupos de trabajo a ganar el silencio del sr. hampton y su esposa, cynthia, sobre el asunto del senador con ella. 
+La sra. hampton una vez fue tesorera de la campaña ensign. 
+El sr. ensign contacto con una serie de fondos para encontrar trabajo para el sr. hampton y defendido en su nombre después habían contratado el sr. hampton de presionar para ellos, según los documentos y entrevistas. 
+Porque el sr. hampton había sido un asistente para el sr. ensign, fue prohibido por ley de los grupos su anterior empresario o el senado durante un año como un conjunto. 
+Expertos en ética ha dicho que el acuerdo entre el sr. ensign inusual y el sr. hampton, que fueron los amigos cercanos antes de que aparecieran el asunto, en contradicción con la denominada prohibición puerta giratoria presión. 
+A partir de las pruebas que se ha hecho público, "parecía ser un caso prima facie de una conspiración para violar, sustancial y violación del estatuto de la puerta giratoria", dijo stanley marca, una abogada en washington que se especializa en defensa de los clientes investigados por el gobierno. 
+Mientras que departamento de justicia funcionarios se negó a explicar el razonamiento detrás de la decisión, en el caso de ensign dicho el sr. marca y otros ética abogados el departamento aparecieron cautelosos a la hora de asumir las persecuciones políticas tras una serie de reveses para su integridad pública la sección de alto nivel, incluida la decisión del año pasado de abandonar la persecución contra ex senador ted stevens entre acusaciones de falta procesales. 
+Fiscales "federal están claramente pistola tímido", dijo melanie sloan, el director ejecutivo de la responsabilidad de los ciudadanos y la ética en washington, un grupo de defensa que presentó varias quejas contra el sr. ensign en el caso. 
+"Esta básicamente dice ahora altos funcionarios del gobierno puede asumir las leyes no se aplican", añadido. 
+Paul coggins, el sr. ensign ", dijo en una entrevista que el abogado de recibido una llamada de teléfono de un departamento de justicia fiscal el lunes y un seguimiento al día siguiente, diciéndole que el departamento no intentar cargos contra su cliente. 
+El sr. ensign del equipo de defensa han estado colaborando con fiscales a la hora de intentar persuadir a que el senador, como ha reiterado su oficina en una declaración de "miércoles, ha actuado de conformidad con la ley". 
+El sr. coggins disminuido para explicar a los argumentos jurídicos que fiscales. 
+"No me cómodo de entrar en los detalles de mis conversaciones con el ministerio de justicia, salvo para decir que creemos que tomó la decisión correcta", dijo. 
+El mes pasado, la comisión electoral federal decidió abandonar una investigación en una queja por el grupo de ética, alegando que un 96,000 pago de dólares del sr. ensign a los padres de los hamptons violado ley electoral federal. 
+La comisión electoral dijo que no tiene pruebas suficientes para demostrar que el dinero se nada excepto un regalo. 
+Una empresa para que el sr. ensign ayudó a sr. hampton encontrar los grupos de interés trabajo. v. la energía, una gran empresa de nevada que durante mucho tiempo había apoyado el senador. 
+Un e - mail enviada en diciembre de 2008 demostró que después de la empresa trajo el sr. hampton como un grupo de presión, el jefe de gabinete del sr. ensign comunicado, john lópez, con el sr. hampton y le dijo que era "ganan" el departamento del interior en una cuestión en disputa. 
+El sr. ensign también asistí a un almuerzo con el sr. hampton y otro nevada, allegiant cliente, y que el transporte aéreo secretario de crear una reunión sobre el nombre de la aerolínea después había contratado el sr.. hampton de los grupos de trabajo. 
+Cuando surgió noticias del asunto en primer lugar el año pasado, el sr. ensign pidió disculpas a los ciudadanos de su circunscripción y renunció a su posición como líder republicano cuarto nivel en el senado. 
+Después de mantener un perfil bajo durante muchos meses, el sr. ensign dijo a los periodistas hace dos semanas que prevé que se desarrolle en el senado para un tercer mandato. 
+Al anunciar que el sr. ensign ya no era el objetivo de una investigación penal, su portavoz, jennifer cooper, ha dicho el senador esperaba el comité de ética se siga el ejemplo del departamento de justicia rápidamente y poner fin a su investigación. 
+"El senador ensign espera a continuar su labor en nombre de los ciudadanos de nevada", dijo. 

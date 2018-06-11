@@ -1,0 +1,5 @@
+Llamazares insta la federación de andaluz de IU a asumir sus responsabilidades en el caso de Silva 
+Gaspar Llamazares, el coordinador general de IU y miembro de del partido Izquierda Unida, confirmaba hoy que la decisión para el caso acerca del la concejal para Juventud y Deporte de la ciudad de Siviglia Francisco Manuel Silva, que dimitía duran semana después de la acusación de favoritismos. El caso estará hasta la federación regional para entrenarse. 
+"Soy muy federalista cuándo considerando más o menos sale esto, y necesita la Andalucía organización asumir sus responsabilidades", decía Llamazares en cuanto a la resolución que el partido debería adoptar con el hombre que era un concejal en consejo de Siviglian hasta ahora. 
+Además el líder enfatizaba la necesidad para "transparencia" en todas las posibles investigaciones en cuanto a cualquier Silva de anomalía que "hubiera" cometido ", el UI siempre querido éstos algo investigaciones para tener la máxima transparencia. 
+Similarmente, recalcaba que la formación funciona bajo "muy códigos estrictos de ética para todas públicas las funciones. 

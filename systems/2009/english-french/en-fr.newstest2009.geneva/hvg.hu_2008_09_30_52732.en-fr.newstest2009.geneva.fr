@@ -1,0 +1,24 @@
+Auto intelligente imite les volants d'un bourdon 
+Que pourraient être une plus meilleure façon de promouvoir le développement de technologie de fracas de prévention que pour mimer les détecteurs d'obstacle de nature? 
+De location examinons abeilles, par exemple! 
+Dans un projet étonnant cela dans progrès à CEATEC en Japon comment, le bourdon a donné à ingénieurs à Nissan une allusion stratégique à concevoir la génération suivante de systèmes d'évitement. 
+Basées sur recherches commune avec l'université de Tokyo, Nissan a construit la promenade de BR23C-type de Biomimatic d'auto de robot. Il une auto automatisées qu'reconstitue abeille caractéristique avec le but de produisant un système qu'empêche collisions tout à fait. 
+"Dans vol, chaque abeille crée son propre espace personnel pris forme qui, en fait ressemble étroitement à notre bouclier de sécurité", ledit Kazuhhiro Doi directeur de marque de technologie, PR, recherches et développement. 
+La structure composée d'abeilles'qu'oeil joue un rôle significatif, lequel rend capable de voir dans toutes directions, à un angle de 300 degrés. 
+Pour reconstituer la fonction d'un oeil composé, les ingénieurs ont proposé l'idée d'un télémètre de laser. 
+Détecte obstacles jusqu'à deux compteurs loin en un rayon de degré en face du BR23C, calcule la distance à eux et envoie un signal à un microprocesseur on-board que, est immédiatement traduit en dans évitement de collision. 
+Il prend juste une fraction d'une seconde pour détecter un obstacle, et le robot d'auto change immédiatement direction mimant les mouvements d'une abeille par orientant embranchement que ses des roues à l'angle ont eu besoin pour éviter une collision. 
+Un des principales différences de système n'importe actuel est que la manoeuvre d'évitement est totalement instinctive. 
+"Si cela pas ainsi, alors ne pourrait pas capable de réagir rapidement suffisamment pour éviter obstacles," dit Toshiyuki Andoh, directeur du laboratoire de mobilité de Nissan et principal ingénieur du projet de robot d'auto. 
+Il doit réagir instinctivement et immédiatement parce que cette technologie correspond à la la plupart marcotte vulnérable et inner-most du bouclier de sécurité, une marcotte dans lesquels un fracas est actuellement considéré inévitable. 
+Quelle abeille les entier traitent miroir de must que pour éviter autre abeilles. 
+Il doit arriver en clignotement d'un oeil. 
+Il ne peut pas mais contrairement à une abeille, dévier en haut ou le bas ou diagonalement, seulement dans deux dimensions et seulement dans la direction que que les roues peuvent orienter. 
+Un bourdon peut ainsi à la place du nombre infini de chemins éviter autre abeilles, voici seulement la fonction de rotation, l'accélération et la décélération ont été appliqués comme moyens disponibles d'évitement de collision. 
+BR23C utilise accumulateurs lithium-polymer qu'qu'êtes briquet et une plus haut densité énergétique laquelle, le-- ont comparé le lithium-ion à version-- assurons plus longues durée de vie. 
+Selon Andoh, quoi est important est la réaction intelligente instinctive, pas la capacité pour traitement des données et stockage. 
+Le dispositif est supposé traiter seulement quelques entrées par seconde et réagit sur eux en conséquence. 
+Il est aucun besoin pour entreposant les entrées et réagissant par la logique intuitive basées sur la donnée précédente manoeuvrant, ainsi il attribue continuellement seulement quelques kilo-octets de douzaine de mémoire. 
+Il est aucun besoin de giga-octet ou mémoire de mégaoctet de taille. 
+Ceci y a le premier pas de développant la technologie instantanée de collision d'évitement que, sur la base de l'estimation de Nissan, pûtes être construits dans les autos produites en 10 années. 
+Si connectant. 

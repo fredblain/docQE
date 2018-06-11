@@ -1,0 +1,8 @@
+Pamela Anderson será la Virgen María en un programa especial de televisión de Navidad
+Junto con Michael Buble y otros prominentes canadienses, ella aparecerá en el programa televisivo "es una Navidad Russell Peters" el 1 de diciembre
+El canadiense Pamela Anderson ha sido el Ayudante de Tim Allen en salvavidas de "Home Improvement" en "Baywatch" Bunny "Playboy", la esposa del músico de rock Tommy Lee y ahora, la actriz y modelo es la Virgen María en un show especial de Navidad en la televisión canadiense.
+El canal privado de televisión CTV anunció hoy que Anderson, junto con el "crooner" (cantante de balada) Michael Buble y otros prominentes canadienses, aparecerán en el programa televisivo "es una Navidad Russell Peters" el 1 de diciembre, interpretando una María muy diferente.
+CTV presentó hoy imágenes de la televisión en la que Anderson, también conocida por la amplia distribución por internet de un video casero porno donde ella aparece junto a su marido, el baterista de "Motley Crue", Tommy Lee, aparece vestidos como la Virgen María sosteniendo en una cuna un muñeco representando a Jesús.
+En la escena, Peters, un conocido actor canadiense de origen indio que recientemente apareció como presentadora en la gira de "Mi violento Torpedo de verdad" por Charlie Sheen aparece como Joseph.
+Además de Anderson y Peters, el especial de Navidad de CTV muestran características de la cantante canadiense Buble, casada a finales de marzo en Buenos Aires el modelo Argentina Luisana Lopilato, y él no es un extraño en cuanto a la controversia.
+Recientemente, Buble llamó "puta" la estadounidense Kim Kardashian durante uno de sus conciertos en Nueva York.

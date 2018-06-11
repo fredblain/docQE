@@ -1,0 +1,24 @@
+La voiture intelligente imite le vol d'un drone 
+Cela pourrait être une meilleure façon de faire avancer le développement de la technologie de prévention des accidents que pour imiter les détecteurs de l'obstacle de la nature? 
+Examinons les abeilles, par exemple! 
+Dans un projet surprenant qui est en cours à CEATEC au Japon, le drone a donné aux ingénieurs de Nissan un conseil stratégique à la manière de concevoir la prochaine génération de systèmes de prévention des accidents au moyen d. 
+Sur la base de la recherche commune avec l'Université de Tokyo, Nissan a établi le contrôle de robot de voiture de BR23C-type Biomimatic. C'est un micro-car qui robotique recréé des caractéristiques d'abeilles dans le but d'établir un système qui empêche les collisions. 
+"En vol, chaque abeille crée son propre espace personnel oval, qui ressemble en fait à notre bouclier de sécurité", a déclaré le directeur de la marque de Kazuhhiro Doi de la technologie, relations publiques, de la recherche et le développement. 
+La structure composée de l'oeil des abeilles joue un rôle important, ce qui rend les abeilles capables de voir dans toutes les directions, sous un angle de 300 degrés. 
+Pour recréer la fonction d'un oeil composé, les ingénieurs ont proposé l'idée d'un télémètre laser. 
+Cet appareil détecte des obstacles jusqu'à deux mètres dans un rayon de 180 degrés devant le BR23C, a calculé la distance et envoie un signal à un microprocesseur intégré, qui est immédiatement traduit en mise à l'écart de collision. 
+Il suffit d'une fraction de seconde pour détecter un obstacle, et le robot de voiture change immédiatement la direction imitant les mouvements d'une abeille en faisant tourner ses roues à l'angle nécessaires pour éviter une collision. 
+Une des grandes différences de n'importe quel système actuel est que la manœuvre d'évitement est totalement instinctive. 
+"Si ce n'était pas aussi, le robot de voiture pourrait ne pas réagir assez rapidement pour éviter les obstacles", dit Toshiyuki Andoh, directeur du laboratoire de la mobilité de Nissan et ingénieur principal du projet de voiture de robot. 
+Il doit réagir instinctivement et immédiatement parce que cette technologie correspond à la partie la plus vulnérable et les plus secrets du bouclier de sécurité, une couche dans laquelle un accident est actuellement considéré comme inévitable. 
+Le processus doit refléter les abeilles fait pour éviter d'autres abeilles. 
+Il doit se faire dans le clin d'œil. 
+Mais à la différence d'une abeille, il ne peut pas dévier vers le haut ou vers le bas ou diagonalement, seulement dans deux dimensions et seulement dans la direction que les roues peuvent tourner. 
+Ainsi, au lieu du nombre sans un drone peut éviter d'autres abeilles, seulement la fonction tournante, l'accélération et décélération ont été appliquées en tant que moyens d'éviction de collision. 
+BR23C utilise les accumulateurs de lithium-polymère qui sont plus légers et la densité de la plus grande énergie, - par rapport à la version de lithium-ion - garantit une vie plus longue. 
+Selon Andoh, ce qui est important, c'est la réaction instinctive intelligente, pas les possibilités de l'informatique et stockage. 
+Le système est censé traiter quelques entrées par seconde et réagir sur elles. 
+Il n'y a pas besoin de stocker les entrées et de réaction de la logique intuitive basée sur les données de manoeuvre précédentes, elle confie sans cesse que quelques dizaines de Ko de mémoire. 
+Il n'y a pas lieu de mémoire de taille de GB ou méga-octet. 
+C'est la première étape du développement de la technologie à l'éviction de collision instantanée qui, sur la base de l'évaluation de Nissan, peut être établie dans les voitures série-produites dans un délai de 10 ans. 
+Si reliant le trait au système de navigation par satellite GPS, on peut établir une option supplémentaire d'application qui peut contribuer à éviter les obstacles de route au volant. 

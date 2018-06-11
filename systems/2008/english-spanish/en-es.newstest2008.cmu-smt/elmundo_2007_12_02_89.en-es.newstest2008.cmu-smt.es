@@ -1,0 +1,4 @@
+El fiscal de los Balcanes  
+Del Ponte ha sido ocho años pesado la persecución de los criminales de guerra de los Balcanes desde la fiscalía del Tribunal Penal para los antiguos Yugoslavia, situado en La Haya.  
+Su mandato expira a finales del año y Carla irá con sabor agridulce, porque las personas responsables de la matanza de Srebrenica, donde 8.000 bosnios musulmanes murieron ex-general , el líder de la ex-Bosnian serbio Ratko Mladic y Radovan Karadzic, siguen en libertad.  
+Sus nombres están en la lista de la que los suizos documental, Marcel producidos por Schüpbach , toma su título ", Carla con la lista de" (de 2006, que no se liberan en España), que tiene el ritmo de una novela de policía, y sigue la labor de los suizos fiscal de Belgrado a Nueva York para procesar a los que huyen de delincuentes y presionar a los gobiernos afectados para fortalecer el sitio.  

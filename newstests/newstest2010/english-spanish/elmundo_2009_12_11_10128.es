@@ -1,0 +1,6 @@
+Michelin y Fesvial juntos por el uso del casco
+El fabricante de neumáticos Michelin, con la colaboración de la Fundación Española para la Seguridad Vial (Fesvial), ha puesto en marcha una campaña para fomentar el uso del casco, principalmente entre los motoristas más jóvenes, informaron hoy ambas entidades.
+Este iniciativa busca concienciar sobre la importancia de utilizar el casco, ya que se trata del único elemento de protección capaz de evitar lesiones en la cabeza o, incluso, la muerte en el caso de sufrir un accidente mientras se circula en motocicleta.
+Michelin indicó que esta campaña forma parte de su compromiso con la seguridad vial, que "va más allá de diseñar y fabricar productos cada día más seguros" y afirmó que también contribuye a esta meta mediante otras acciones de carácter pedagógico e informativo.
+Esta nueva campaña de fomento del uso del casco en la motocicleta, bajo el lema 'To be or not to be', tendrá una primera fase en la que se distribuirán carteles en más de 500 talleres de motocicletas, con el objetivo de lograr la máxima difusión.
+Para finalizar, Michelin resaltó que la seguridad vial "es una preocupación constante" para la compañía, puesto que al ser un fabricante de neumáticos para vehículos de dos ruedas, uno de sus principales fines es desarrollar unos productos cada vez más seguros.

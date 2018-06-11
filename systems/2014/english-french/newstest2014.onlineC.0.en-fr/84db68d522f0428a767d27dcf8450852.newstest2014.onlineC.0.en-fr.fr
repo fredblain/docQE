@@ -1,0 +1,50 @@
+Comment la Biométrie Envahira Nos Vies
+Est-ce la fin de mots de passe pour accéder à un smartphone ou le salaire pour les achats ?
+LES Etats-Unis, français et les chercheurs japonais prédit un avenir où nous serons reconnus par les détecteurs biométriques sur les téléphones et les ordinateurs.
+Bernard Didier, le vice-président de Morpho, croit que ceci sera le « le siècle de biométrie ».
+La biométrie sera le seul moyen de garantir l'identité d'un individu qui exécute des transactions dans un monde aussi transversal et transnational que l'Internet.
+Les organisations consacrées à la protection d'intimité notent cette fascination pour la biométrie, mais sont concernés.
+En France seul dans 2011, la Commission Nationale pour Informatique et les Libertés Civiles a autorisé 774 systèmes de reconnaissance de marque, pour reconnaître des empreintes digitales, la forme de la main ou les réseaux de veines dans la main, pour les entreprises, les institutions, les cafétérias, etc.
+« Tout le monde sera bientôt identifiable, n'importe où et n'importe quand, » dit un Justin intéressé Brookman, le directeur d'intimité de consommateur pour le CDT (le Centre pour Démocratie et la Technologie) à Washington.
+Mais pourquoi tel optimisme pour quelques-uns et le pessimisme pour d'autres ?
+La biométrie comptera sur les nouvelles technologies qui rendront capable de nouveaux services être fourni aux citoyens et aux consommateurs.
+En France aujourd'hui, les données biométriques le plus ordinairement utilisées sont des empreintes digitales, la géométrie de main et le réseau de veines dans la paume ou les doigts.
+Mais chacune de ces techniques ont ses limitations.
+« Par exemple, les gens qui travaillent avec le ciment ont des dommages à leurs doigts qui rendent leurs empreintes digitales illisibles, » note Philippe Robin, le directeur technique pour l'identification aux Communications de Thales & la Sécurité.
+De plus, la détection et la vérification d'un réseau de veines ou de géométrie de main exige un geste volontaire et spécifique de la part des individus.
+C'est les deux un mécanisme de titre - ces données ne peuvent pas être capturées sans les gens qui sait - et un dérangement - la procédure doit être quelquefois répétée et prend si le temps.
+Comme une conséquence, la recherche a été dirigée sur le passé vingt ans dans les autres méthodes, comme la reconnaissance de visage ou iris (la partie colorée de l'oeil).
+Grâce à la précision améliorée des détecteurs et la capacité calculant des ordinateurs qui est utilisé pour analyser ces données, ces techniques deviennent pratiques.
+La précision de reconnaissance de visage a amélioré décuple sur le passé cinq ans, considère Cyrille Bataller, R&D directeur de laboratoire à Accenture en Europe.
+Avec notre aide, le Royaume-Uni et les Pays-Bas a déployé les portails de passeport automatisé qui utilisent la reconnaissance de visage.
+C'est maintenant possible d'identifier un visage ou un iris en mouvement.
+« Aujourd'hui nous exécutons la recherche dans la reconnaissance de voix et démarche qui utilise des détecteurs sonores, mais il exige un environnement silencieux, » dit Sridhar Lyengar, le directeur de recherche de sécurité aux Laboratoires d'Intel.
+L'ADN, une unique et borne d'unfalsifiable, excite aussi l'espoir et l'inquiétude.
+« Avec l'état actuel de connaissance, il pourrait être considéré l'ultime dans les données biométriques, » confirme Sophie Vulliet-Tavernier, le directeur de recherche, l'innovation et prévoyant au CNIL.
+Mais l'analyse d'ADN prend toujours et coûte cher longtemps.
+NEC offre la police juridique qu'un tas portatif qui coûte 90.000 euros qui peuvent analyser les échantillons d'ADN sur une scène de crime dans une heure.
+Les usages de biométrie appartiennent à deux groupes : l'identification (la reconnaissance d'une personne parmi d'autres) et l'authentification (la confirmation qu'une personne qui est ils disent qu'ils sont).
+Jusqu'à présent, l'identification a consisté en la provision de papiers d'identité : les systèmes biométriques (les empreintes digitales, les photos, l'iris, etc.) devra être donné l'accès aux informations qui les prises de l'état sur chaque citoyen déjà sur le dossier.
+Ceci fournira l'assurance que quelqu'un n'essaie pas d'usurper l'identité d'un autre.
+Ce principe de comparaison peut être utilisé pour les autres buts.
+NEC propose donc la reconnaissance de VIP à l'entrée d'un hôtel ou d'un magasin.
+« Nous rassemblons des images des appareils photo de surveillance et les comparant avec les photos de célébrités qui sommes librement disponible sur l'Internet, » explique Dany Nassif, le directeur de développement d'affaires pour les solutions d'identification biométriques à NEC France.
+Un autre usage est de prendre une photo de quelqu'un mettre en file d'attente dans un magasin, suivre son progrès qui utilise la reconnaissance de visage et résout le temps d'attente.
+L'authentification a concerné au début physique (aux frontières, dans les emplacements protégés, dans un cafétéria etc.) ou la présence numérique (effectuant une procédure d'entrée à un ordinateur).
+Supplémentaire à ceci, récemment, sont plus les contrôles de présence.
+« Un chronométreur biométrique empêche la situation où un collègue mesure le temps en de la part d'un autre, » affirme Cyrille Bataller d'Accenture.
+Mais, de plus en plus de, l'authentification impliquera aussi des transactions, en particulier ceux-lss qui ont exécuté utilisant des appareils connectés à l'Internet.
+Au Japon, c'est déjà possible de retirer de l'argent de quelques machines en espèces en insérant votre carte et placer votre main sur un lecteur biométrique : ce geste remplace l'usage d'une EPINGLE.
+Une technique similaire est essayée à Villeneuve-et dans Angoulême par l'entreprise la Sécurité Naturelle, dans le partenariat avec les banques et les détaillants majeurs : au point de payer avec une carte dans un magasin, le client n'entre pas un code - ils placent un doigt dans un lecteur, qui scrute les veines.
+L'expérience est compté durer six mois.
+Si c'est les lecteurs concluants et biométriques pourraient être bientôt vus dans les magasins en France.
+Les façons pour rassurer des utilisateurs
+Il y a trois façons pour faire la biométrie attrayante au grand public.
+L'est premièrement d'expliquer comment il peut épargner le temps.
+« Si un client dépense de trente seconde moins à un jusqu'à grâce à la biométrie, ce serait agréable, » dit le directeur d'un magasin majeur.
+La seconde est d'offrir des services personnalisés : dans quelques ans un serveur de voix pourra reconnaître votre voix et offre vous a personnalisé des options.
+Enfin, le public peut être rassuré en soulignant les mesures ont exécuté pour protéger des bases de données.
+« Les empreintes digitales numériques sont emmagasinées dans un serveur primaire ; les identités d'individus sont dans une deuxième base de données. La corrélation entre les deux séries d'informations est crypté et est emmagasinée dans une boîte extrêmement assurée, qui ferme à clef si n'importe qui essaie de le déplacer, » spécifie Philippe Robin de Thales.
+Toutefois, compte tenu de le manque d'études approfondies, il est impossible de savoir si cette ligne convaincra vraiment des utilisateurs.
+Les spécialistes de protection d'intimité continuent être concernés.
+« Les avances dans la reconnaissance de visage, l'augmentation dans le nombre d'appareils photo de surveillance et le nombre énorme de photos disponibles sur Facebook, Flickr ou Picasa font me craindre le pire : la surveillance répandue, » prédit Andrew Patrick du Bureau du Commissaire d'Intimité au Canada.

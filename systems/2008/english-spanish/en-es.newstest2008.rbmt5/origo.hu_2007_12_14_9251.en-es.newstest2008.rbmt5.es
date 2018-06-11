@@ -1,0 +1,14 @@
+Reino Unido utiliza YouTube como herramienta de reclutamiento militar
+Las unidades militares británicas han estado compartiendo sus acciones del iraquí y de Afghanistani a través de los clips video en usted tubo en un esfuerzo de popularizar sus misiones.
+La fuerza aérea real (Royal Air Force) era la primera para desarrollar un gusto para YouTube: sus fuerzas especiales en Afganistán uploading los clips video que demostraban cómo han estado combatiendo el Taliban desde marcha de 2006, BBC divulgan.
+Las imágenes, tomadas con las cámaras fotográficas miniatura unidas a los cascos de la tropa, son supervisadas por un centro del comando en Kandahar y después transferidas a Londres de donde uploaded sobre el Internet.
+No hay confundir el mensaje político
+Completamente 139 imágenes de la Royal Air Force uploaded sobre el Internet y hasta ahora el excedente que han recibido sobre 75.000 golpes.
+El ministerio BRITÁNICO de la defensa se ha colocado desde el resorte 2007 como la "defensa establece jefatura", regularmente uploading los clips video en acciones del iraquí y de Afghanistani, mientras que la oficina de la Commonwealth y la fuerza multinacional - Iraq (MNF-I) tiene sus el propios usted los canales del tubo.
+Introducción a Afganistán
+La Royal Air Force uploaded originalmente los videos como herramienta del reclutamiento. El ministerio de la defensa dice que también han sido una buena manera dejan a público saber el propósito verdadero de guardar las fuerzas al exterior.
+La publicidad diseminada a través de esta avenida no cuesta casi nada cuando está comparada a los anuncios tradicionales del reclutamiento en la televisión, defensa Gordon experto Mackenzie dicho BBC. En el mismo tiempo, llevan inadvertidamente un poco un mensaje político para, de una manera especial, ellos ofrecen la penetración en las razones por las que el gobierno pidió las acciones militares en curso.
+Los americanos le han dado vuelta en un juego
+Un problema que los militares tienen que afirmar con implica los videos aficionados que son compartidos junto a los clips oficiales cuidadosamente corregidos y censurados, que a veces incluso demuestran a soldados que mueren. En los clips "oficiales" levemente hypocritical, los oficiales quieren en la mayoría hablan de sus pérdidas pero el lado sangriento de luchar nunca se demuestra realmente.
+Absolutamente un número de videos de los campos de batalla del iraquí y de Afghanistani que demostraban la acción viva se han fijado en el Internet, pero las fuerzas británicas han ensamblado solamente recientemente en los postings.
+El reclutamiento americano es un pedacito diferente. Los E.E.U.U. han estado utilizando a ejército de América, un juego que tiraba táctico disponible para la transferencia directa libre, como herramienta de reclutamiento. En ellos los jugadores hacen soldados en a ma's-o-menos la simulación realista de fuerzas que luchan.

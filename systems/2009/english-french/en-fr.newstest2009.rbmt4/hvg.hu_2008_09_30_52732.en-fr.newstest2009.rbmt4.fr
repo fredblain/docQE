@@ -1,0 +1,24 @@
+La voiture intelligente imite le voler d'un bourdon 
+Quel pourrait être une meilleure façon pour avancer le développement de technologie d'empêchement d'accident qu'imiter les détecteurs d'obstacle de la nature ? 
+Nous permettre d'examiner des abeilles, par exemple ! 
+Dans un projet étonnant qui est dans le progrès à CEATEC au japon, le bourdon a donné des ingénieurs à Nissan une allusion stratégique à comment concevoir la génération prochaine de systèmes d'accident-action d'éviter. 
+Fondé sur la recherche commune avec l'Université de Tokyo, Nissan a construit l'Unité de Robot de Voiture de Biomimatic de BR23C-type. C'est une micro-voiture robotisée qui recrée les caractéristiques d'abeille avec l'objectif de produire un système qui empêche des collisions entièrement. 
+« Dans le vol, chaque abeille crée son propre espace personnel ovale-formé, qui en fait de près ressemble à notre protection de sécurité », Kazuhhiro Doi dit le directeur de marque de technologie, RP, la recherche et le développement. 
+La structure composée d'oeil des abeilles joue un rôle significatif, qui fait les abeilles capables de voir dans toutes directions, à un angle de 300 degrés. 
+Pour recréer la fonction d'un oeil composé, les ingénieurs ont proposé l'idée d'un viseur de gamme laser. 
+Cet appareil détecte des obstacles jusqu'à deux mètres loin dans un rayon de 180 degrés devant le BR23C, calculent la distance à eux et envoient un signal à un microprocesseur à bord, qui sont instantanément traduits dans l'action d'éviter de collision. 
+Il prend juste une fraction d'une seconde pour détecter un obstacle, et le robot de voiture change instantanément la direction imitant les mouvements d'une abeille en tournant ses roues à l'angle nécessaire pour éviter une collision. 
+Une des différences principales du système actuel sont que la manoeuvre d'action d'éviter est totalement instinctif. 
+« Si cela n'était pas alors, alors le robot de voiture ne pourrait pas réagir assez rapide éviter des obstacles, » dit Toshiyuki Andoh, le directeur de Laboratoire de Mobilité de Nissan et l'ingénieur principal du projet de voiture de robot. 
+Il doit réagir instinctivement et instantanément parce que cette technologie correspond à l'à la couche la plus vulnérable et intérieure de la protection de sécurité, une couche dans laquelle un accident est actuellement considéré inévitable. 
+Le processus entier doit refléter qu'une abeille fait pour éviter d'autres abeilles. 
+Il doit arriver dans le clignotement d'un oeil. 
+Mais contrairement à une abeille, il ne peut pas dévier vers l'haut ou descendant ou en diagonal, seulement dans deux dimensions et seulement dans la direction que les roues peuvent tourner. 
+Donc au lieu du nombre infini de façons qu'un bourdon peut éviter d'autres abeilles, ici seulement la fonction de rotation, l'accélération et le ralentissement a été appliqué comme les moyens disponibles d'action d'éviter de collision. 
+BR23C utilise les accumulateurs de lithium-polymère qui est plus légers et a une plus haute densité d'énergie, qui - a comparé à la version de lithium-ion - assure la vie plus longue. 
+Selon Andoh, quel est important est la réaction instinctive intelligente, pas la capacité pour les données traitant et l'emmagasinage. 
+L'appareil est supposé pour traiter seulement quelques données par la seconde et réagit sur eux en conséquence. 
+Il n'y a pas de besoin pour emmagasiner les données et réagissant par la logique intuitive fondée sur le précédent manoeuvre des données, donc il alloue continuellement seulement quelque douzaine de kilobytes de mémoire. 
+Il n'y a pas de besoin pour le gigaoctet ou la mémoire de taille de méga-octet. 
+Ceci est la première étape de développement de la technologie d'action d'éviter de collision immédiate cela, en se basant sur l'estimation de Nissan, peut être intégré dans les voitures collection-produits dans 10 ans. 
+Si connectant l'appareil au GPS le système de navigation par satellite, une option d'application supplémentaire peut être résolse qui peut aider à éviter les barrières de route pendant que conduisant. 

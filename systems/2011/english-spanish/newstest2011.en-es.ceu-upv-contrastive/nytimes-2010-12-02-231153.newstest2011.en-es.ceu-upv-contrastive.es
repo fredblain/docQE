@@ -1,0 +1,30 @@
+Los fiscales no cobrar Ensign senador 
+El Departamento de Justicia los fiscales han allanado el senador John Ensign de acusaciones penales derivadas de su historia con el ex asesor de campaña y sus esfuerzos para lograr la labor de cabildeo para la mujer, el marido de la senadora Abogados anunciaron el miércoles. 
+La decisión pone fin la más grave amenaza legal que enfrenta el Sr. Ensign, los republicanos de Nevada que fue considerado un posible candidato a la Presidencia de la República en 2012 hasta el escándalo en su caso los titulares nacionales realizadas el año pasado y dañado su carrera. 
+La oficina del Sr. Ensign, dijo que estaba "satisfecho" por la decisión, a la que siguió una investigación yearlong. 
+El senador aún podría enfrentarse a sanciones disciplinarias por el Comité de Ética del Senado. 
+Los abogados del Sr. Ensign dijo que el Departamento de Justicia había Ensign senador "nos ha informado de que ya no es un objetivo de su investigación y que no tiene planes para que todos los cargos en su contra en este asunto". 
+El Departamento de Justicia se negó a hacer comentarios sobre el caso. 
+El anuncio fue una sorpresa para muchos abogados de ética fuera del Departamento de Justicia, que dijo no parecen ser importantes pruebas que indican que el Sr. Ensign puede haber conspirado para violar una prohibición de cabildeo federal. 
+Entrevistas, correo electrónico y otros documentos publicados por primera vez en octubre de 2009 en el New York Times indicó que el Sr. Ensign había ayudado a Douglas Hampton, que fue uno de sus asistentes, seguro de interés lucrativo trabajar para ganar el silencio del Sr. Hampton y su esposa, Cynthia, sobre el asunto del senador con ella. 
+La señora Hampton una vez fue tesorera de la campaña Ensign. 
+Señor Ensign se puso en contacto con un número de avales políticos para encontrar trabajo para el Sr. Hampton y luego defendieron en su nombre después de que habían alquilado el Sr. Hampton presionando con ellos, según los documentos y entrevistas. 
+Porque el Sr. Hampton ha sido recientemente un asistente del señor Ensign, fue prohibida por la ley de cabildeo su antiguo empleador o el Senado en su conjunto de un año. 
+Los expertos de ética inusual, dijo el acuerdo entre el Sr. Ensign y el señor Hampton, que fueron buenos amigos antes de que el asunto, apareció en contra de la llamada puerta giratoria prohibición de presión. 
+A partir de la evidencia de que se ha hecho público ", parece que hay indicios razonables de una conspiración para violar, y una importante violación del Estatuto puerta giratoria", dice Stanley marca, un abogado de Washington que se especializa en la defensa de los clientes investigado por el Gobierno. 
+Mientras que los funcionarios del Ministerio de Justicia no quiso explicar las razones de la decisión en el caso Ensign, señor marca y otros abogados de ética dijo el Departamento parecía desconfiar de los procesos políticos tras una serie de reveses importantes para su integridad pública Sección, incluida la decisión del año pasado para retirar la acusación contra el ex senador Ted Stevens en medio de acusaciones de mala conducta procesales. 
+Los fiscales federales "son claramente armas tímido", dijo Melanie Sloan, el Director Ejecutivo de los ciudadanos de la responsabilidad y la ética en Washington, un grupo de presión que llevó a varias quejas contra el Sr. Ensign en el caso. 
+"Esto básicamente dice altos funcionarios del Gobierno pueden asumir las leyes no se aplican a ellas", agregó. 
+Paul coggins, el Sr. Ensign la iniciativa abogado, dijo en una entrevista que recibió una llamada de teléfono desde el Departamento de Justicia Fiscal el lunes y un seguimiento al día siguiente, recordándole que el Departamento no estaba buscando la acusación contra su cliente. 
+Señor Ensign de equipo de defensa ha estado cooperando con los fiscales para tratar de convencerlos de que el senador, como su Oficina reiteró en una declaración miércoles "actuó conforme a la ley". 
+El Sr. Coggins no quiso detallar los argumentos jurídicos que hizo a los fiscales. 
+"No estoy cómodo de entrar en los detalles de mis conversaciones con el Ministerio de Justicia, salvo para decir que creemos que tomó la decisión correcta", dijo. 
+El mes pasado, la Comisión Electoral Federal decidió abandonar una investigación sobre una denuncia por la que un grupo de ética 96.000 dólares por el pago de los padres al Sr. Ensign Hamptons violó la ley electoral federal. 
+La Comisión Electoral dijo que no tenía pruebas suficientes para demostrar que el dinero fue nada excepto un regalo. 
+Una compañía de la que el Sr. Sr. Hampton Ensign ayudó a encontrar trabajo de cabildeo se NV energía, una importante empresa de Nevada, que apoyan el senador. 
+Un correo electrónico enviado en diciembre de 2008 demostró que la empresa después de que el Sr. En Hampton como grupo de presión Ensign, el jefe de Estado Mayor, Juan López, comunicarse con el Sr. Hampton y le dijo que era "golpear" el Departamento de Interior en un tema de discusión. 
+Señor Ensign también asistió a un almuerzo con el Sr. Hampton, clientes y otra nevada allegiant el aire, y el secretario de Transporte para establecer una reunión en nombre de la compañía aérea, después de contratar el Sr. Hampton hacer cabildeo trabajo. 
+Cuando noticias del asunto surgió por primera vez el año pasado, el señor Ensign pedido disculpas a sus electores y dimitió de su cargo como cuarto rango líder republicano en el Senado. 
+Después de mantener un perfil bajo durante muchos meses, señor Ensign dijo a los periodistas hace dos semanas que el presidente tiene previsto presentarse a un tercer mandato en el Senado. 
+En el anuncio de que el Sr. Ensign ya no era el objetivo de una investigación penal, su portavoz, Jennifer Cooper, dijo el senador espera que el Comité de Ética rápidamente seguir el ejemplo del Ministerio de Justicia y poner fin a su investigación. 
+"El senador Ensign espera seguir su duro trabajo en nombre del pueblo de nevada", dijo. 

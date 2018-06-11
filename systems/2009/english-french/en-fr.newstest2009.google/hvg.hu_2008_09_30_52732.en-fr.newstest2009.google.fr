@@ -1,0 +1,24 @@
+Voiture intelligente imite le vol d'un bourdon 
+Qu'est-ce qui pourrait être un meilleur moyen de faire progresser le développement de la technologie de prévention d'accident que d'imiter la nature des détecteurs obstacle? 
+Nous allons étudier les abeilles, par exemple! 
+Dans un étonnant projet qui est en cours à CEATEC au Japon, le bourdon a donné ingénieurs de Nissan stratégique allusion à la façon de concevoir la prochaine génération de crash-systèmes d'évitement. 
+Sur la base de recherches conjointes avec l'Université de Tokyo, Nissan a construit la BR23C-type Biomimatic Car Robot Drive. Il s'agit d'un robot micro-voiture qui recrée caractéristiques de abeille dans le but de produire un système qui empêche les collisions au total. 
+"En vol, chaque abeille crée sa propre forme ovale espace personnel, ce qui en fait ressemble à notre bouclier de sécurité", a déclaré Doi Kazuhhiro marque directeur de la technologie, de relations publiques, recherche et développement. 
+La structure complexe des abeilles' oeil joue un rôle important, ce qui rend les abeilles capables de voir dans toutes les directions, à un angle de 300 degrés. 
+Afin de recréer la fonction d'un composé yeux, les ingénieurs ont eu l'idée d'un télémètre laser. 
+Ce dispositif détecte les obstacles jusqu'à deux mètres à l'intérieur d'un 180 degrés rayon en face de la BR23C, calcule la distance et leur envoie un signal à un système de microprocesseur, qui est immédiatement traduit en d'évitement des collisions. 
+Il prend juste une fraction de seconde pour détecter un obstacle, et la voiture instantanément robot change de direction imitant les mouvements de l'abeille par ses roues tournant à l'angle nécessaire pour éviter une collision. 
+L'une des principales différences à partir de n'importe quel système actuel est que la manœuvre d'évitement est totalement instinctive. 
+"Si ce n'était pas le cas, alors la voiture robot ne serait pas en mesure de réagir assez rapidement pour éviter les obstacles», explique Toshiyuki Andoh, directeur de Nissan à la mobilité en laboratoire et ingénieur principal de la voiture robot projet. 
+Il se doit de réagir instantanément et instinctivement, car cette technologie correspond aux personnes les plus vulnérables et l'intérieur de la couche de protéger la sécurité, une couche dans un accident qui est actuellement considéré comme inévitable. 
+L'ensemble du processus doit refléter une abeille fait pour éviter que d'autres abeilles. 
+Il doit se faire dans un clin d'œil. 
+Mais contrairement à une abeille, il ne peut pas dévier vers le haut ou vers le bas ou en diagonale, seulement en deux dimensions et uniquement dans la direction que les roues peuvent tourner. 
+Ainsi, en lieu et place de l'infini nombre d'égards un bourdon peut éviter que d'autres abeilles, ici, seule la fonction de rotation, l'accélération et la décélération ont été appliquées en tant que moyen de prévention des collisions. 
+BR23C utilisations lithium-polymère d'accumulateurs qui sont légers et ont une plus grande densité d'énergie, qui - par rapport à l'ion-lithium version - assure plus la durée de vie. 
+Selon Andoh, ce qui est important est la réaction instinctive intelligent, pas la capacité de traitement des données et de stockage. 
+Le dispositif est censé ne traiter que quelques entrées par seconde et réagir en conséquence sur les. 
+Il n'est pas nécessaire pour le stockage des intrants et de réagir par la logique intuitive sur la base des données précédentes de manœuvre, de sorte qu'il affecte continuellement seulement quelques dizaines de kilo-octets de mémoire. 
+Il n'est pas nécessaire pour giga-octet méga-octet ou la taille mémoire. 
+C'est la première étape de développement de l'instant d'évitement des collisions technologie qui, sur la base de l'estimation de Nissan, peut être construit dans la série des voitures produites dans les 10 ans. 
+Si le dispositif de connexion vers le GPS, système de navigation par satellite, une autre application option peut être travaillé à ce qui peut contribuer à éviter les barrages routiers pendant la conduite. 

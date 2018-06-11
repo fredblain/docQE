@@ -1,0 +1,13 @@
+El arbusto arrebata un acuerdo entre israelíes y Palestinians 
+El presidente George Bush anunció, en el apertura de la conferencia de paz internacional convocada en Annapolis el martes por él, en Maryland, que los israelíes y Palestinians había alcanzado finalmente su acuerdo en una declaración común. 
+Declaró que el israelí primer ministro Olmert y los Palestinian Ehud que Abbas Mahmoud de presidente quedó en empezar negociaciones inmediatas para encontrar un último establecimiento de la contención de 60 vieja del año entre sus dos personas. 
+En la presencia de los dos hombres, el arbusto ha prometido hacer todo para ayudarlos concluyendo un "tratado de paz" antes del final de 2008. 
+Mientras tanto, Palestinians tiene que demoler "infraestructuras de terrorista" e Israel tiene que poner fin a sus actividades de establecimiento, el arbusto declarado, recordándoles a ambos partidos que sus obligaciones hacia la paz "roadmap" que han aceptado en 2003. 
+La cabeza de la casa blanca hizo resaltar que las negociaciones entre Israel y la autoridad Palestinian presidida por Abbas apunten a "la conclusión de un tratado de paz que resuelve cada cuestión excelente, sin ninguna excepción, cuestiones centrales incluyeron". 
+Este término abarca los tres problemas thorny en el corazón del contentious entre israelíes y Palestinians: las fronteras futuras de Palestina, el estado de jerusalén y el destino de refugiados de árabe conducidos de sus hogares en el estado actual de Israel durante el conflicto de 1948. 
+Hablando después del presidente americano, Abbas insistió a "los refugiados, las fronteras, los establecimientos, el agua y la seguridad" en negociaciones "globales y a fondo" futuras que se basarán en una regulación, mencionando "jerusalén" entre los otros. 
+Hablar para en su vuelta, Olmert encargó él mismo a negociaciones "directas y continuas" futuras y hacer un esfuerzo para terminarlos en 2008. 
+Conjunto de arbusto al final de 2008 el plazo para ejecutar su "visión de dos estados coexistentes" de Israel y Palestina. 
+Arabia Saudita reveló que protegió un compromiso del arbusto antes de decidir participar en la conferencia. 
+Cargado por todo conutries árabe, la Arabia, cuya participación en Annapolis es un éxito para Washington, es en el origen de un plan que propone la paz a Israel en el cambio por sus propios territorios ocupados durante la guerra del 1967's, jerusalén de este incluyó. 
+Annapolis marca "un cruce en la historia de centro oriental, particularmente porque enfrenta las raíces del conflicto y sus aspectos centrales", el príncipe Saud se expresan en su entrevista con un periódico árabe. 

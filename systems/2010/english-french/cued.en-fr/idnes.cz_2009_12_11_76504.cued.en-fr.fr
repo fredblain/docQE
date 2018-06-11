@@ -1,0 +1,15 @@
+Votre prochain se déroulera deux systèmes d'exploitation
+Les Américains disent que, dans l'avenir, les utilisateurs pourront passer entre les différents systèmes d'exploitation sur leurs téléphones mobiles en appuyant sur un bouton.
+Les plans ont révélé jusqu'à présent prometteur.
+Un élément de presse et en quelques secondes, vous pouvez passer de Windows mobile à Android.
+C'est l'objectif de la compagnie américaine, qui développe informatique logiciels.
+Cela vous permettra de vous avoir deux profils d'utilisateurs à la fois sur le même téléphone.
+Vous pouvez passer entre eux ou ont un travail et un pour la maison.
+Deux d'entre eux se déroulera dans le même temps, dit Srinivas Krishnamurti de VMware dans une interview accordée au magazine informatique.
+Il a été présenté en novembre dernier et première démontré il y a quelques jours.
+Elle sera mise en vente en 2012.
+La virtualisation de n'est pas de la science-fiction.
+VMware a déjà donné une démonstration d'un des deux systèmes d'exploitation.
+Il a été modifiée n 800 avec 128 Mo de RAM, qui fonctionnent sous Windows Mobile et en même temps.
+Le développement de nouvelles technologies de téléphonie mobile est en pleine effervescence.
+VMware travaille maintenant avec les opérateurs européens et américains à smartphone virtualisation et les clients devraient atteindre dans le courant de 2012.

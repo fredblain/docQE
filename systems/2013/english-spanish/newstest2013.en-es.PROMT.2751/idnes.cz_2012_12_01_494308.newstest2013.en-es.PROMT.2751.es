@@ -1,0 +1,44 @@
+Israel: Laboratorio de caos.
+"Nada se trata de la violencia y nada nunca podría", de la quemazón Frágil, donde uno de los versos principales del estribillo es "no debemos olvidar lo frágil que somos".
+"Si mis hijos no quisieran la guerra, no habría ninguna", dijo Gutle Schnapper muere, la esposa de Mayer Amschel Rothschild Fund en 1849.
+La última ola de violencia entre Israel y la Franja de Gaza, como siempre, ha generado mucha reacción.
+Unos apoyan a Israel, argumentando que tiene derecho a la legítima defensa, y los palestinos se describen como terroristas, mientras que otros apoyan a los palestinos, reclamando el racismo por el estado israelí, afirmando que el genocidio se está cometiendo contra los árabes palestinos, y que Israel es un estado terrorista.
+No quiero vivir, en estas ondas periódicas reiterados de la matanza, en quien es el violador y quién es la víctima, después de todo, los habitantes de hoy de Israel, incluidos los territorios autónomos, nacieron en la actual situación política y no sobrevivieron el principio de la violencia.
+Quiero ofrecer a los lectores una navegación entre bastidores, una mirada a quien, sobre todo, esta tensión larga de 95 años sirve (a partir de la declaración de Balfour en noviembre de 1917) en este pequeño lugar de la tierra en el Oriente Medio.
+Algunos de mis pensamientos son apoyados por hechos históricos disponibles, mientras que otros se derivan de mi propio comprensión de que, es decir, qué grupo de personas es la principal fuente de los acontecimientos en la historia moderna.
+La historia de la humanidad está en primera instancia sobre la lucha por el poder.
+En cada era podemos encontrar a Alejandro Magno o Napoleón.
+Lo que no es tan claro es si estos eran personas, que había elegido su camino de manera independiente, o si detrás de su trono puso a alguien que dirigió sus acciones hacia un objetivo predeliberado.
+Debemos reconocer que vivimos en un momento en que la riqueza del mundo se centra en manos de unos individuos, y que esta concentración de riqueza y poder que exuda no podía pasar en la vida útil de una generación.
+Entre estas familias astronómicamente ricas, uno está de pie, que se podría considerar el maestro de la marioneta (si alguien más está por encima de ellas, estoy seguro, pero no lo excluiría) - Los rothschilds.
+No es mucho lo que se escribe sobre ellos.
+Comprensiblemente.
+La primera agencia de noticias (Reuters) que compraron en los años 90 del siglo XIX, a fin de evitar su nombre interactuar con acciones de la delincuencia alta, que apareció en su fondo y que siempre significaban asegurar el poder, al aumentar la riqueza o ambas.
+Sostienen apuestas de la mayoría en casi cada banco central en el mundo, y en contra de los países, donde no tienen una apuesta, están llevando a cabo o se preparan para la guerra (antes de que el ataque a Afganistán eran 7 países, después de Iraq que era 5, después de que el derrocamiento de Kaddafi 4 quedara, pero mientras tanto Rusia presentó su banco central al Gobierno ruso).
+Quien intentó desafiar a esta familia muerta.
+Abraham Lincoln se negó a renovar el estado del banco central al Banco de Rothschild Fund de América, y durante la Guerra civil comenzó a publicar su propio (que se publica por el estado) el dinero y fue asesinado en 1865 en el teatro.
+JFK comenzó a publicar su propia moneda y quería cerrar la Fed (la Reserva Federal) y fue asesinado en 1963, el diputado Luis McFadden se envenenó en 1936, después de que había tenido la intención de demandar a la Reserva Federal para lograr la Gran Depresión de 1929.
+Su sed de poder global llevó a cabo en los años de 1859 - 1871 a la formulación de un plan de tres guerras mundiales del líder del francmasón del 33 grado, Albert Pike.
+La primera guerra debía eliminar los órganos estatales monárquicos grandes de Europa, el segundo iba a eliminar la norma colonial, sobre todo de Gran Bretaña, y el tercer reducirá a la población del mundo hasta 0,5 - 1 mil millones de personas (este número de esclavos bastarг para su comodidad y lujo, y no consumirá tantos recursos), la creación de una fe universal (ecumenism es sólo un appetiser para esta solución) y, por último, la toma del poder absoluto.
+El método, que el grupo de familias adineradas con los rothschilds mostrar el camino, el empleo es la instigación de crisis, seguido de ofrecer una solución (ordenar ab chao - Pedirán del caos).
+Estas soluciones son falsas, sin embargo, y siempre conducen a una situación peor (vide establecimiento de la Reserva Federal, de modo que la crisis de 1907 no se repetiría).
+Así, después de haber tenido éxito en el asesinato de Ferdinand, el heredero de los Habsburgo del trono Austro-húngaro, en Sarajevo que así suelta la Primera guerra mundial, destruyeron la Rusia zarista con la revolución bolchevique.
+La Primera Guerra mundial terminó abruptamente, militarmente y económicamente no demostrado, con la capitulación alemana (la guerra ya no fue necesaria para destruir la Rusia zarista) y los poderes de Europa Central de Austria-Hungría se desmantelaron posteriormente.
+Para facilitar el inicio de la Segunda Guerra mundial, permitieron que los banqueros y políticos crearon una situación de conflicto latente imponiendo a Alemania con reparaciones de guerra enormes, con lo que un ejemplo radicalist de las masas empobrecidas, sólo quedaban por presentar a un culpable lo suficientemente convincente y un líder con una solución sencilla, creando también una Checoslovaquia multirracial con una minoría alemana fuerte para jugar, y lo hizo, el papel de una quinta colonia, una vez que la guerra se había encendido.
+A finales del siglo XIX, los rothschilds instauró el establecimiento del movimiento sionista, una rama de que se esforzó para conformar el estado judío, buscando un espacio de Judea histórico, Jerusalén, para hacer su capital (la Vuelta a Sión).
+La Declaración de Balfour antes mencionada constituyó la base para la inmigración masiva de judíos a Palestina, donde los primeros conflictos comenzaron con la población árabe local.
+Los ataques terroristas tuvieron lugar en ambos lados.
+La Segunda Guerra Mundial estalló, y si Hitler fue liberado de la cadena, qué banqueros internacionales le agarraban, o si sus acciones formaron parte del plan, es difícil de determinar, sin embargo el sufrimiento de los judíos europeos en los campos de concentración creó la fundación a la aceptación del mundo del estado judío.
+Israel oficialmente se formó en 1948, y como las reparaciones de guerra de la Segunda Guerra Mundial eran layed en Alemania, el anuncio del estado de Israel se convirtió en el semillero de la tercera guerra.
+A condición de que los banqueros internacionales tengan éxito, la Nación judía, como con el segundo, estará las víctimas en la primera línea, ahora junto con el árabe, o más en general, musulmán, la población del Oriente Medio.
+Israel parece un laboratorio enorme, una fuente de discordia y el caos no sólo en el país, pero a nivel internacional (basta con mirar cómo firmemente la gente se parte de partidarios y opositores de Israel).
+¿Quién es el malhechor y quién es la víctima en el conflicto de la Palestina-Israel, donde la injusticia alimenta la injusticia en un ciclo interminable de la violencia, mientras todo partió de la codicia de unos pocos y su sed de poder global?
+Aquí, hay que distinguir entre la población en general de Israel y sus dirigentes, porque, como sucede aquí, los banqueros internacionales introducen su propia selección de candidatos a la gente para votar.
+El actual primer ministro de Israel, Netanyahu 'el halcón', es un ejemplo típico de un político fascista, leal a los banqueros internacionales, quién hace todo para fomentar la guerra con Irán, que iba, debido a su membresía en la Organización de Cooperación de Shanghai (China, India, Rusia, Pakistán (.)) conducen a una amenaza mayor del conflicto mundial, y a través de su control del estrecho de Ormuz, donde el 20% del petróleo del mundo debe navegar (el canal es sólo 2 kilómetros de ancho), a la destrucción de la economía del mundo.
+En la que luz ponen las palabras, pronunciadas por David Rockefeller en 1994: "Todo lo que necesitamos es una gran crisis y las naciones aceptarán el Nuevo Orden mundial".
+El Nuevo Orden mundial en sus ojos es uno de maestro y el esclavo.
+Un mundo donde el resto de la población humana sirven el lujo de un puñado de aristócratas financieros.
+Un mundo, donde cada recién nacido se implanta con un chip, que hace su existencia completamente subyugada.
+"También obligó a todos, pequeño y grande, ricos y pobres, libre y esclavo, para recibir una señal en su mano derecha o en su frente, para que nadie pudiera comprar o vender a menos que tuviera la marca, que es el nombre de la bestia o el número de su nombre.
+Si alguien tiene la visión, que calcular el número de la bestia,
+ya que es el número del hombre. Su número es seiscientos sesenta y seis. "

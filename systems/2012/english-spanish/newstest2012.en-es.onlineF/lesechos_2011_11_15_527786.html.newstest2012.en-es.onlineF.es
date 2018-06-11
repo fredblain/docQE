@@ -1,0 +1,9 @@
+Austria
+Inscripción de una “norma de oro presupuestaria” en la constitución
+El gobierno de la gran coalición democrática democrática social de /Christian en poder en Austria decidía el martes escribir una “norma de oro presupuestaria” en la constitución, para reducir déficits públicos y así que evite una degradación posible de las agencias calificadoras del crédito soberano de Austria rsting (triple - a).
+Era el canciller social-democrático su duende, Werner Faymann, que anunció esta decisión en el final de una reunión del Consejo de Ministros, con la deuda pública austríaca en el 74,6%, mucho más arriba que la norma de un máximo del sistema del 60% por el tratado de Maastricht, pero debajo de la deuda pública de países como Italia, Grecia o España.
+“Si la solvencia de Austria no hubiera caído por una sola muesca, del AAA a AA+, tendríamos que pagar a tres mil millones de euros de interés más cada año,” discutió el rector y al Ministro de Asuntos Exteriores demócratacristiano, Michael Spindelegger.
+Austria cumple así con una petición de la cumbre de Bruselas de Estados miembro de la zona euro el 26 de octubre\; los jefes de Estado y de Gobierno pidieron una reducción a finales de 2102 de déficits públicos y una vuelta al público equilibrado considera en la constitución o en una ley al mismo efecto.
+Las disposiciones adoptadas por el gobierno austríaco se acercan al “modelo alemán,” siendo el primer país europeo para adoptar esta “regla.”
+En 2017, el déficit estructural público debe bajar por 0,75% del PIB) y a partir de 2017, el déficit público estructural del estado federal austríaco no debe exceder el 0,35% de PIB en cualquier año, mientras que el Länder, así como las comunidades, deben presentar presupuestos equilibrados.
+El objetivo es el de hacer caída de la deuda pública debajo del criterio del 60% fijado por el tratado de Maastricht 2020 /2021.

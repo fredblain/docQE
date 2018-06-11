@@ -1,0 +1,24 @@
+Voiture intelligente se rapproche le vol d'un bumblebee 
+Ce qui pourrait être une meilleure façon de promouvoir le développement du crash de prévention technologie que de copier la nature l'obstacle détecteurs? 
+Examinons les abeilles, par exemple! 
+Dans un projet surprenant que est en cours à CEATEC au Japon, le bumblebee a donné les ingénieurs à Nissan un zeste stratégique à la manière de concevoir la prochaine génération de crash-avoidance systèmes. 
+Fondés sur la recherche commune avec l'université de Tokyo, Nissan a construit le Biomimatic BR23C-type Secteur Robot Drive. C'est un micro-car robotisés que recreates caractéristiques des abeilles avec l'objectif de produire un système pour empêcher que des collisions. 
+"En vol, chaque abeille crée sa propre oval-shaped spatiale personnelles, qui en fait ressemble à notre sécurité bouclier", dit Kazuhhiro Doi brand directeur de technologie, relations publiques, de recherche et développement. 
+La structure composés des abeilles "eye joue un rôle significatif, qui rend les abeilles capables de voir dans toutes les directions, à un angle de 300 degrés. 
+Afin de recréer la fonction d'un œil composés, les ingénieurs sont arrivés avec l'idée d'un laser éventail finder. 
+Ce système détecte les obstacles jusqu'à deux mètres de distance dans un rayon virage en face de la BR23C, a calculé la distance à eux et envoie un signal à un moment où embarqué, qui est immédiatement traduites en collision. 
+Il suffit qu'une fraction de seconde à détecter un obstacle, et la voiture robot instantanément change de direction mimer les mouvements d'une abeille en transformant ses roues à l ’ angle nécessaire pour éviter une collision. 
+L'une des principales différences de tout système actuel est que la manoeuvre est totalement instinctive. 
+"Si ce n'était pas, alors, la voiture robot ne serait pas en mesure de réagir rapidement pour éviter les obstacles », affirme Toshiyuki Andoh, manager de Nissan à la mobilité de laboratoire et ingénieur principal du robot voiture projet. 
+Il faut réagir instinctivement et instantanément parce que cette technologie correspond à la plus ozone vulnérables et inner-most de la sécurité bouclier, une couche dans laquelle un krach est actuellement considérée inévitable. 
+Le processus doit refléter une abeille pour éviter les abeilles d'autres. 
+Il doit se faire dans un clin d ’ œil. 
+Mais contrairement à une abeille, elle ne peut pas écarter la hausse ou la baisse ou diagonally, seulement en deux dimensions et uniquement dans le sens que le moteur peut tourner. 
+Jusqu'à la place d'un nombre infini de manières un bumblebee peut éviter les abeilles autres, ici seulement la rotation fonctionner, la vitesse et la décélération ont été appliquées comme moyens de collision. 
+Utilise br23c lithium-polymer accumulateurs sont plus légères et plus d'énergie densité, - par rapport au lithium-ion version - assure plus vivant. 
+Conformément à Andoh, ce qui est important, c'est la réaction intelligente instinctive, pas la capacité de traitement des données et de stockage. 
+Le dispositif est censé à seulement un peu d'intrants par seconde et réagir sur eux. 
+Il n'est pas nécessaire pour stocker les intrants et réagit par la logique intuitive basée sur les manœuvres précédente données, il procède toujours seulement quelques dizaines Ko de mémoire. 
+Il n'est pas nécessaire pour gigabyte ou mégabytes taille mémoire. 
+C'est la première étape du développement de la collision instantanée évitement technologie que, sur la base de Nissan l'estimation, peut être construite dans les voitures series-produced dans une fourchette de 10 ans. 
+Si reliant l'astuce pour le GPS (système de navigation par satellite, une demande supplémentaire option peut être qui peuvent aider à éviter les barrières tout permis. 

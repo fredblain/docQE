@@ -1,0 +1,76 @@
+De nouveaux outils d'inspecter les voitures
+En ces jours de tempêtes et d'accidents, il n'est pas seulement les garages qui font un bénéfice.
+Chaque jour, des milliers de voitures qui ont été dans des accidents sont remorqué jusqu'à un garage, où un technicien doit évaluer les dégâts et de ce que la réparation coûtera.
+Aucune revendication est la même, et le calcul du coût des pièces et du travail peut être longue et compliquée.
+Manually le calcul du coût d'une réparation entre 20.000 et 30.000 euros, y compris les pièces et la main-d'oeuvre, peut prendre deux ou trois heures.
+Toutefois, avec l'aide des plus récents outils informatiques, il faudrait une question de minutes.
+C'est la raison pour laquelle presque 100% des techniciens utilisent ce genre de système.
+Les fournisseurs de services, les revendications des solutions, et l'entretien travaillent pour compiler les données fournies par les fabricants, puis de les traiter et d'offrir aux clients un outil utile.
+En Espagne, Audatex, de la North American Groupo Solera, est le chef de file de l'industrie; 80% des évaluations sont effectuées à l'aide de leurs produits.
+Les autres entreprises dans le secteur, en lice dans le domaine de l'évaluation et de traitement de données, sont GtMotive et Eurotax.
+Travailler avec les données fournies par les fabricants est loin d'être simple.
+Selon Eduardo Velazquez, le gestionnaire des affaires Audatex, 63, les fabricants et les importateurs travaillent en Espagne, et chacun d'eux présente des données dans un format différent.
+En outre, la quantité de données aux processus s'accroître au point où ils ont libéré plusieurs versions, des variantes et des moteurs au cours des cinq dernières années que dans la précédente 15.
+Quand un nouveau arrive sur le marché automobile, ces entreprises se mettre au travail.
+Il est très difficile de travailler parce que vous devez catalog chacune des milliers de pièces de véhicules andenter dans votre prix.
+En outre, un « intelligente » graphique est faite pour chaque modèle, où l'on peut « re-cliquez » sur différentes parties de la voiture.
+S'il est un modèle de grande consommation, le travail peut être prêt dans une semaine, à condition que le processus va rapidement.
+Si c'est une rare voiture, il peut prendre jusqu'à trois ou quatre months.Currently, Audatex fournit des données complètes de 99,2% des voitures vendues en Espagne.
+Parmi les modèles les plus exclusifs, l'information est disponible pour une Porsche, mais pas une Ferrari ou de Lamborghini par exemple.
+Comme pour le nombre de voitures en circulation, il est de plus de 99%.
+Afin de documenter et de développer les bases de données, Audatex a huit centres disséminés dans le monde (Espagne, France, Allemagne, USA, Brésil, Mexique, Chine et Japon), et chacun de ces se spécialise dans une marque spécifique.
+Son siège social est à Alcobendas (Madrid).
+Là-bas, plus d'une centaine de techniciens spécialisés, mécaniciens (habituelle-ment) travaillent avec trois écrans d'ordinateur en même temps.
+Audatex investit 90 millions d'euros un an dans le développement de ces bases de données.
+Chaque mois, 2,5 millions de pièces d'information sont ajoutés, et les clients reçoivent des mises à jour tous les deux jours.
+Le développement de cette énorme circulation de l'information leur permet de donner à ces entreprises différentes applications et divers produits.
+L'utilisation la plus courante est axée sur l'entretien et de réparation, mais selon les pays, il y a aussi des outils pour gérer les morceaux de ferraille et de calculer le marché et la valeur résiduelle d'une voiture.
+La seule compagnie avec une voiture d'occasion guide disponible en Espagne est Eurotax.
+Audatex ne veut pas offrir un dans notre pays, mais elle ne aux États-Unis.
+Compte tenu de l'offre de produits que Audatex, il est facile de se faire une idée du genre de soutien à la disposition des professionnels de ce secteur.
+Cette société propose dix outils différents; AudaPlus, étant le produit phare, le solution-étalon, conçu pour permettre aux techniciens d'évaluer les revendications.
+Il comprend des voitures, des motos et des véhicules industriels légers et lourds.
+Outre le coût des pièces, elle comprend les estimations du constructeur de délais de réparation et de peinture graphiques.
+Cet outil accusations selon l'usage, pour chaque évaluation.
+Le plus haut coût est 5,75 euros pour les clients qui utilisent rarement, 10 fois un mois au plus.
+Puis, chaque compagnie d'assurance qui fait des milliers d'évaluations négocie leur prix avec Audatex.
+D'autres produits, comme AudaVIN, de faciliter l'identification complète du véhicule et le matériel qu'il a quitté la chaîne de montage avec, seulement à partir de son numéro d'identification du véhicule.
+AudaGlass se concentre sur les pièces de verre d'une voiture, et AudaSubastas est un service en ligne ouverts au secteur professionnel qui facilite l'appel d'offres sur les véhicules calssed que les radiations.
+Leurs statistiques service est très utile pour identifier les tendances, analyse geo-demographic et sachant écarts-types de fait et de modèles.
+On peut étudier, par exemple, combien de modèles d'un particulier de faire sont passés à une boutique en raison de défaillances ou combien ont été dans les accidents graves dans un certain délai.
+Gt part en est la seule société espagnole travaillant pour développer ces types d'outils.
+Il vend, entre autres, le GT Estimate, qui est de nouveau conçus pour des techniciens et fournit aussi des images numériques, l'accès à des pièces et le prix officiel du fabricant et de temps.
+part en GT est une société Grupo EINSA, qui a fondé en 1971 comme un fournisseur de services de l'automobile et des solutions pour évaluer les dégâts, les dysfonctionnements et de maintenance.
+Le GT Appraisal Guide est sa référence historique produit sur le marché.
+Ils travaillent avec 24,000 utilisateurs dans les garages, 3.100 de techniciens et de 53 sociétés d'assurance.
+Son chiffre d'affaires a augmenté de 20% par an au cours des trois dernières années, et il a porté à 10,8 millions d'euros en 2008.
+Au début de l'année dernière, le processus de mondialisation a commencé avec l'installation d'un bureau à Paris.
+Entre-temps, Audatex a été fondée en Allemagne en 1966 et implanter en Espagne en 1979.
+Selon des sources d'entreprise, 62% de son chiffre d'affaires est généré en Europe et dans le reste du monde, et le reste des 37% dans le Nord et le Sud America.They travailler avec plus de 900 magasins et de compagnies d'assurance, 33,000 de 2.900, qui sont en Espagne.
+Grupo Solera (Audatex, Sidexa, Informex ABZ, Hollander et IMSHealth) sera le chiffre d'affaires mondial total de 557 millions de dollars, 3,3% de plus que l'année 2008.
+Dans notre pays, la compagnie a ramené à 19,1 millions d'euros, soit 7,2% de plus que l'an dernier.
+En 2005, Grupo Solera était évalué à 1 milliard de dollars à la bourse, et ses actions sont désormais répertoriés pour un total de 2,4 milliards de dollars.
+Il a été cotée sur le NYSE depuis 2007 et est incluse dans l'indice Standard & Poor's référence.
+voitures endommagés enchères en ligne
+En octobre dernier, Grupo Solera acheté Autoonline, une plate-forme internet pour la vente de voitures, les motos, et surtout de véhicules endommagés.
+L'entreprise a entraîné une mise de fonds de 59.5b millions d'euros pour 85% du capital de la société, ce qui permettrait d'augmenter l'an prochain par les 15% restants.
+Le but de l'acquisition est d'offrir plus de services à valeur ajoutée à ses clients, avec la possibilité de parvenir à un immense marché international.
+Cette évaluation et d'achat et de vente de service est consacré exclusivement aux professionnels du secteur, comme les compagnies d'assurances, des techniciens, des agences de location, les magasins, les parcs à ferraille, et les vendeurs professionnels qui doivent s'inscrire avant de l'utiliser.
+Cette plate-forme a été créé en Allemagne en 1996, et il gère plus de 650 000 transactions dans toute l'Europe, 500 000 d'entre eux en Allemagne.
+Ses principaux marchés sont l'Espagne, la Grèce, la Pologne et la Turquie.
+Le site compte actuellement plus de 1.500 inscrits vendeurs et 4000 techniciens.
+Il supervise 3 000 inscriptions par jour, et environ 100 nouvelles inscriptions sont ajoutées chaque jour sur le marché espagnol.
+En vertu de la législation espagnole, une voiture dont le numéro d'identification du véhicule a été enregistrée ne peut pas remettre en circulation, mais peut être utilisée pour les pièces détachées intact.
+Les voitures à valeur historique peut être enregistré, même si elles ont été enregistrées, après un long processus d'enregistrement.
+Une boutique dans l'estimation de quatre étapes
+Avec l'outil AudaTaller, Audatex des garanties que l'utilisateur obtient une estimation dans seulement 4 étapes: identifier le véhicule, de rechercher les pièces détachées, de créer une estimation et générer une estimation.
+User de convivialité est une condition essentielle de ces systèmes, notamment à convaincre les techniciens, qui, à des degrés divers, sont généralement plus réticents à utiliser de nouvelles techniques de gestion.
+La base de données comprend 1,034 véhicules, dont 666 de voitures, 109 véhicules utilitaires sport, 137, motos, camions et camionnettes 78 44.
+Naturellement, un ordinateur avec une connexion internet est nécessaire pour les utiliser.
+Après l'identification du modèle d'être réparé par son numéro d'identification du véhicule, une bonne image graphique du modèle apparaît, et puis la partie nécessaire est sélectionné.
+L'utilisateur peut comprendre des variables comme le prix des surcharges, du travail et des rabais, et peut ensuite imprimer l'estimation pour le client.
+AudaTaller n'est pas un outil d'évaluation comme AudaPlus, mais plutôt un catalogue de référence.
+La principale différence est que le système visant à les garages ne comprend pas le temps de travail des estimations.
+Le coût de l'utilisation de cet outil dans une boutique est de 350 euros par an, le client peut financer.
+Actuellement, Audatex travaille à rendre ces images en trois dimensions.
+C'est une innovation mécaniciens sont approuvant de parce qu'elle vous permettra, par exemple, de sélectionner une porte et tourner autour de voir de l'intérieur.

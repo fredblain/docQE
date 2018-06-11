@@ -1,0 +1,16 @@
+El geriatrician afirma que las muertes fueron causadas por "falta de medios" 
+Los propietarios del centro de Olot no descartar que sus muertos más de 11 personas mayores 
+Las personas responsables con el hospital geriátrico La Caritat de Olot (Gerona) ofreció una conferencia de prensa celebrada ayer para subrayar el daño que ha causado a la institución la conducta delictiva de Joan Vila Dilmé, la enfermera que si bien se murieron al menos once personas mayores que había bajo vigilancia. 
+El director de la residencia, Joan SR.1321, compareció acompañado por el abogado del centro, abogado Joan Canadá, y anunció que "la intención de La Caritat sería de echar la culpa a la persona responsable de la muerte, sino de" legalidad y la responsabilidad nos obliga a asumir la situación procesal de los responsables de personas ". 
+Y que además de la pérdida de prestigio social que la organización pueda encontrar por no haber detectado a tiempo las actividades delictivas de la vigilante, la gran amenaza para el Caritat ha toma la forma de una parte sustancial de que ya está calculado por los representantes legales de los familiares de las víctimas. 
+Joan Vila Dilmé ha confesado que el primer delito se remonta a agosto de 2009 y que desde entonces no dejar de matar. 
+El juez ya se ha mencionado en el documento que ordenó la exhumación de ocho cadáveres, antiguas pacientes del hospital- geriátrica quien sospecha que en muchos casos ningún médico estudiar personalmente de los muertos, pero, teniendo en cuenta la edad y las patologías de los pacientes, el procedimiento se hizo por teléfono. 
+La Caritat, a través de su director, plenamente negó este fin ayer y señaló que "la falta de medidas no podía haber sido en cualquier momento la causa de lo ocurrido". 
+El abogado de La Caritat añadió que "en la causa no hay indicios de que ha habido un imprudente acción por parte de cualquier otra persona que no es el culpable de una". 
+El bautizado como "Ángel de la Muerte" confesó 11 asesinatos antes de ayer y detallado que cometió el primer delito el 29 de agosto de 2009 y un mes y medio más tarde, mató a otra abuela. 
+En este caso una sobredosis de insulina traído la muerte; a diferencia del primer crimen que cometió con una mezcla de sedantes tabletas. 
+El director de la Caritat dice que es complicado para controlar que el personal del centro tienen acceso a los medicamentos. 
+La sobredosis de insulina y el sedante cóctel habría sido el mecanismo utilizado en seis de los nueve delitos que la enfermera, en su afán de aliviar el sufrimiento de los pacientes, utilizados o matando. 
+Pero las pruebas que se están llevando a cabo en el laboratorio tendrá que aclarar si Vila no está mintiendo y trató de asegurar su primer víctimas menos cruel muerte o si, por el contrario, quemaron internamente por darles lye como ya había confesado que había hecho con tres mujeres que mató a entre el 12 y el 17 de octubre. 
+En La Caritat no dar credibilidad a la aparición del vigilante, ni el número de asesinatos, confesó que no refutar ser superior, y justifica su actitud en las diferentes versiones que Vila ha dado en sus visitas a los tribunales y el sinsentido de cambiar su método de matar después de haber cometido, ocho asesinatos. 
+Esta es la razón por la que dicen que se ponen a disposición de la justicia para aclarar el alcance de este caso. 

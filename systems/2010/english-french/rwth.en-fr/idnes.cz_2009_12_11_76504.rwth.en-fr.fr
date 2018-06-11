@@ -1,0 +1,15 @@
+Votre prochaine smartphone organiseront deux systèmes d'exploitation
+Les Américains sont en train de dire que, dans l'avenir, les utilisateurs pourront à passer entre les différents systèmes d'exploitation sur leurs téléphones mobiles en appuyant sur un bouton.
+Les plans, à ce jour, révélé prometteur.
+Tout juste presse une clé et en quelques secondes, vous pouvez passer de Windows mobile à Android.
+C'est l'objectif de la société américaine Vmware, qui se développe surtout virtualisation de logiciels informatiques.
+Cela vous soumettra deux profils des utilisateurs à la fois sur le même téléphone.
+Vous pouvez passer entre eux ou pour un travail et un pour la maison.
+Tous deux passeront dans le même temps, dit Srinivas Krishnamurti de VMware dans une interview accordée au magazine Computer World.
+Il a été présenté en novembre dernier et premier a démontré qu'il y a quelques jours.
+Il sera mis en vente en 2012.
+Le virtualisation de smartphones n'est pas de la science-fiction.
+Vmware reporters a déjà donné une démonstration d'une smartphone avec deux systèmes d'exploitation.
+C'était une N800 modifiée avec 128 Mo de RAM, Windows mobile et Android en même temps.
+Le développement de nouvelles technologies de téléphonie mobile est en pleine effervescence.
+Vmware travaille maintenant avec les opérateurs européens et américains pour tester smartphone virtualisation et les séries devrait atteindre les clients au cours de 2012.

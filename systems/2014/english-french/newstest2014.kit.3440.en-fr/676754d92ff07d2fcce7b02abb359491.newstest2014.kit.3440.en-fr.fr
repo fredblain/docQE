@@ -1,0 +1,13 @@
+La NSA Blames "erreur interne", et non Hackers, Car Crash Website
+L'ombre de l'Agence nationale de sécurité a déclaré vendredi qu'il s'agissait d'un pépin qui ont entraîné la chute de son site internet public pendant quelques heures, et non les pirates comme certains avançaient en ligne.
+"NSA.gov n'était pas accessible pendant plusieurs heures, ce soir, en raison d'une erreur interne qui s'est produite au cours d'une mise à jour programmée", l'agence d'espionnage a déclaré dans une déclaration envoyée par courriel.
+La question sera réglée ce soir.
+Prétend que la panne a été causée par un déni de service distribué [DDoS] l'attaque ne sont pas vraies.
+Plus tôt dans la soirée les traqueurs de serveur en ligne, a noté le site Web de la NSA était inaccessible depuis au moins six heures, et le site continue à être inaccessible pour certains utilisateurs.
+Plus tôt, un porte-parole de la NSA a déclaré au journal ABC News du réseau interne, sensible, n'était "pas du tout" compromis.
+Pas d'informations classifiées est en danger, a déclaré le porte-parole.
+Au moins un groupe de hacktivist en ligne affirment qu'ils étaient chargés de faire tomber le site de la NSA avec une attaque DDoS.
+Les attaques DDoS visent à saturer un site de cible à la circulation jusqu'à ce que les serveurs sont surchargés et le site s'effondre.
+La tactique de cybersécurité est relativement peu sophistiquées et les attaques ne visent pas à pénétrer le réseau interne de la cible.
+L'ancien super-secret de la NSA, une fois surnommé No Such Agency, s'est trouvé à la lumière très publique, et alors que des critiques vicieuses, ces derniers mois à la suite d'un flot de révélations sur de vastes programmes de surveillance intérieure et étrangère - collectivement le produit des dossiers secrets de la NSA volées à l'agence et des fuites désabusés par l'ancien consultant de la NSA Edward Snowden.
+De telles controverses entourant l'agence a incité la spéculation tôt ce soir que l'incident était le résultat d'une opération ciblée cybernétique.

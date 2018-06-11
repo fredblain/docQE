@@ -1,0 +1,16 @@
+Casino forgives Jonas Larrazabal y éste será libre
+Después de 72 días de arreglos, el representante legal del Casino Rojo perdonaron el hermano del alcalde de Monterrey del proceso contra él por presunta extorsión
+Después de pasar 72 días en la cárcel, Manuel Jonas Larrazabal será libre después de que el representante legal del Casino Rojo le concedió el perdón antes de la Segunda Corte Penal del Distrito, que sigue un proceso de chantaje en contra del hermano del alcalde de Monterrey.
+Tras el atentado del Casino Royale, propietario del Casino Red, Sergio Gil García, hizo público suscribir una serie de fotografías y videos donde supuestamente Manuel Jonas lo obligaba a pagar una tarifa económica para que el ayuntamiento de Monterrey permite el funcionamiento de la casa de apuestas clandestinas.
+Después de la condena pública, el Fiscal General del Estado abrió una causa penal contra el hermano del alcalde y el 2 de septiembre, fue detenido y encarcelado durante 30 días.
+Después de cuatro horas ante el agente del Ministerio Público para Delitos de Patrimonio, fue trasladado a la cárcel temporal, ubicada en el barrio antiguo de la capital del estado.
+En este lugar permaneció durante 49 días tras la pronunciación de un segundo restricción orden después de que el fiscal desestimó los delitos de cohecho y delincuencia organizada.
+19 de octubre fue trasladado a Cadereyta supuestamente para chantajear con un millón y medio de pesos a los propietarios del Casino Rojo, pero permaneció allí sólo unas horas en la cárcel calificada porque hubo amenazas de muerte contra él.
+Las autoridades le permitió continuar el juicio internados en las celdas municipales de San Nicolás de los Garza.
+En octubre de 25º él una orden de detención fue emitida por el secretario del Segundo Distrito Penal de la Corte, Jorge Yanez, quien dijo que después de casi dos meses de investigaciones que había suficientes pruebas para determinar la culpabilidad de Jonas, tales como la recogida de 1,5 millones de pesos de los representantes de la bookmaker a cambio de permitir la operación de ella.
+El lunes, el representante legal del Casino Rojo, Víctor Aldo García Gómez, compareció ante el juez José Luis Pecina a pedir perdón por el hermano del alcalde regional, por lo que en las próximas horas podría recuperar su libertad.
+Durante la diligencia judicial, el fiscal adjunto a la Corte, Ramiro Arias, cuestionó García Gómez si había reparado el daño y que de los socios de la casa de apuestas concedió indulto, aunque el abogado trató de reserva el nombre.
+Basado en el récord de 197 / 2011 perdón legal es concedido a Jonas Larrazabal y posteriormente podría no haber realizado ninguna reclamación sobre el proceso que estaba dirigido contra él; también la reparación de daños o no el castigo será necesario.
+Después de la audiencia del representante legal del bookmarkers, en casi 15: 50 se ordenó la liberación inmediata de Larrazabal Breton.
+El secretario del tribunal, Jorge Yanez, salió de la cárcel del municipio de San Nicolás de los Garza a notificar Jonah que ha sido jurídicamente indultado y su historial será presentada.
+También se le va a notificar a él sobre la liberación inmediata orden emitida por el juez.

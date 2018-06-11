@@ -1,0 +1,31 @@
+Un nombre concedida a la cara del niño 
+La versión escrita del proyecto de ley sobre los 700 millones de dólares el paquete de rescate económico se ha elaborado. El proyecto de ley, aplicables en varios tramos, tiene por objeto la adquisición de préstamos bancarios malos. 
+En la primera ronda, la mitad de la cantidad está previsto que se gasten. 
+"Durante la mayor conciliaciones de haber llegado a su final el sábado por la noche, la costa este tiempo, los líderes del Congreso logrado ponerse de acuerdo sobre el debate de varios días, que trate los 700 millones de dólares el paquete de rescate", confirmó la agencia Reuters. 
+"Hemos dado un importante paso adelante", declaró Nancy Pelosi, presidenta democrática de la Cámara de Representantes, y añadió que lo único que necesita es trabajar en la forma escrita del acuerdo. 
+El compromiso sobre el paquete ha sido apoyado por ambos candidatos presidenciales, Barack Obama y John McCain también. 
+Refiriéndose a los resultados de la transacción, Henry Paulson, Secretario del Tesoro declaró: el programa va a funcionar bien y va a ser eficiente, pero la adopción de nuevas medidas todavía no se han tomado. Según Pelosi, no se trata de rescatar a Wall Street, pero a su vez, la dirección de la economía. 
+La forma escrita de que el paquete haya sido publicada a las 8 pm del domingo, hora de Washington, en el tiempo de apertura de los mercados asiáticos (en 2 horas, en Centro-Europa), pero no causa mucho sobre el aumento de la bolsa de valores de mercado. 
+El proyecto de ley de Emergencia Económica de Estabilización de la Ley de 2008 se sometió a votación el lunes, en primer lugar en la Cámara de Representantes, en segundo lugar en el Senado. 
+El Presidente George W. Bush habló a Pelosi el sábado por la noche y, a continuación, las noticias sobre el acuerdo fue bien acogido en la Casa Blanca como así. 
+"Estamos satisfechos con lo que hemos alcanzado durante la noche y valoramos mucho los esfuerzos de las dos partes a fin de estabilizar nuestros mercados financieros y proteger a nuestra economía", declaró Tony Fratto, portavoz de la Casa Blanca. 
+El programa difiere de la propuesta de haber sido presentado por primera vez por la administración Bush-con el objetivo de gasto de los 700 mil millones de dólares en la compra de baja calidad títulos respaldados por hipotecas. 
+Ahora, en la primera ronda un máximo del 50 por ciento de los US $ 700 millones pueden ser utilizados en una manera que US $ 250 millones que se gastan al instante desde el Congreso se espera que la votación sobre la cuestión el lunes. Una parte de esta suma se gasta en la compra de baja calidad títulos respaldados por hipotecas. Una suma adicional de USD 100 millones aún está esperando el presidente para decidir la forma en que deben utilizarse. 
+El programa será supervisado por un órgano independiente con la participación del presidente de la Reserva Federal. 
+Sobre la forma de pasar el resto de los 700 mil millones de dólares será decidido por el Congreso. 
+De conformidad con la ley, el Secretario del Tesoro tiene derecho a solicitar una combinación de táctica: se puede comprar malos préstamos, hipotecas, títulos respaldados por hipotecas y otros tipos de "venenosas" créditos. 
+La compra puede realizarse en subastas o en una forma directa, de acuerdo con la Tesorería. 
+La legislación permite a las empresas interesadas a participar en un programa de seguro cuando la preocupante bienes serán garantizados por el Tesoro y las empresas el pago de los aranceles equivalentes a la espera de daños y perjuicios. 
+Henry Paulson declaró: de conformidad con la ley, los activos son siempre en función de la situación, que podría ser una ayuda de US $ 700 millones se necesitan con urgencia por el sistema financiero de América, ya sea debido a la generalización de la mala compra de los activos, o el seguro de ellos, o incluso la prevención de un sistema de riesgo causado por el colapso de algunas importantes instituciones financieras. 
+"Haremos los arreglos necesarios con el fin de estar preparados para la aplicación de la ley, tan pronto como haya sido firmado", agregó. 
+Los directores de los bancos con problemas de espera para las ayudas estatales deben contar con que su ruptura - que es llamado simplemente paracaídas de oro en el argot de ultramar - estará restringido por el gobierno. 
+La restricción de los pagos se introduce, en algunos casos, sólo, las limitaciones dependerán de la naturaleza del apoyo proporcionado por la Tesorería. 
+La restricción significa que en caso de que el Tesoro de las compras en subasta, recargo se impone en el paracaídas de oro, a menos que el banco arruinado director es enviado a la jubilación. 
+En el transcurso de la compra de créditos incobrables directamente, el gobierno intervenir agresivamente con el fin de garantizar que los importes de gestión de dinero no son exageradas. 
+Hay que añadir que los actuales contratos de paracaídas de oro no será modificado, la restricción sólo se aplica a los nuevos con el fin de fomentar la participación en el programa. 
+"Esta es la primera vez en la historia de América restricción legal que se impondrán en relación con la remuneración de los directores ejecutivos", comentó Cámara de Servicios Financieros Presidente del Comité de Barney Frank, del Partido Demócrata. 
+Además, el gobierno se reunió con el derecho de la celebración de adquisición, de esta manera los contribuyentes reducir el riesgo, ya que incluso podría beneficiarse de la cuestión tan pronto como la economía y el banco rescatado se recupera. 
+El proyecto de ley incluye que el Presidente está obligado a presentar una propuesta al Congreso en los próximos 5 años, que especifica la forma en que la espera pérdidas serán devueltos a los contribuyentes del sector financiero. 
+Los escépticos dieron voz a sus dudas sobre el plan de ambas partes, también. 
+"Esto no es lo que los ciudadanos esperan de nosotros, esto no proteger a los contribuyentes de dólares", declaró republicano Darrell Issa Representante de California. 
+Su colega Democrática, Mary Kaptur declaró que el régimen han sido alentados por las mismas personas que son responsables de la caída de Wall Street. 

@@ -1,0 +1,24 @@
+La voiture intelligente imite le vol d'un bourdon 
+qu'est-ce qui pourrait être une meilleure manière d'avancer le développement de la technologie de prévention d'accident qu'imiter les détecteurs d'obstacle de la nature? 
+Laissez 's examiner des abeilles, par exemple! 
+Dans un projet étonnant qui est en cours à CEATEC au Japon, le bourdon a donné à des ingénieurs à Nissan une allusion stratégique à comment concevoir la génération prochaine de systèmes de prévention d'accident. 
+Basé sur commune la recherche avec l'Université de Tokyo Basé a bâti le type de BR23C Biomimatic Car Robot Drive. C'est une micro-voiture robotique qui recrée des caractéristiques d'abeille avec l'objectif de produire un système qui empêche des collisions complètement. 
+"Dans le vol, chaque abeille crée son propre espace personnel ovale - façonné, qu'en fait étroitement ressemble notre bouclier de sécurité", disait directeur de marque de Kazuhhiro Doi de la technologie, du relations publiques, de la recherche et du développement. 
+La structure composée d'abeilles 'oeil joue un rôle important, qui rend les abeilles capables de percevoir dans toutes les directions, à l'angle de 300 degrés. 
+afin de recréer la fonction d'un composés œil les ingénieurs trouvaient l'idée d'un inventeur de gamme de laser. 
+Cet appareil découvre des obstacles jusqu'à deux mètres loin dans un radius de 180 degrés en face du BR23C, calcule la distance à eux et envoie un signal à un microprocesseur de sur soi - planche, qui est instantanément traduit en prévention de collision. 
+Cela prend juste une fraction d'de seconde pour découvrir un obstacle, et la voiture robot change instantanément direction imitant les mouvements d'une abeille en tournant ses roues à l'angle nécessité pour éviter une collision. 
+Une des principales différences de tout actuel système est que la d ’ évitement manœuvre est totalement instinctif. 
+"si qui n'était pas ainsi, alors le robot de voiture ne pourrait pas pour réagir vite assez pour éviter des obstacles", dit Toshiyuki Andoh, gestionnaire de Nissan 'le Laboratoire de Mobilité de s et l'ingénieur principal de la voiture de robot projettent. 
+Il doit réagir instinctivement et instantanément parce que cette technologie correspond au plus vulnérable et intérieur - plus couche du bouclier de sécurité, une couche dans laquelle un crash est en ce moment considéré inévitable. 
+le Tout processus doit refléter ce qu une abeille fait éviter d'autres abeilles. 
+Il doit se produire dans le clin d'œil. 
+Mais contrairement à une abeille, il ne peut pas s'écarter vers le haut ou en bas ou diagonalement, seulement dans deux dimensions et seulement dans la direction que le moteur peuvent tourner. 
+Si à la place du nombre infini de manières qu'un bourdon peut éviter d'autres abeilles, ici seulement la fonction de rotation, l'accélération et la perte de vitesse ont été appliqués comme des moyens disponibles de prévention de collision. 
+accus de polymère de lithium d'utilisations de BR23C qui sont plus légers et ont une densité d'énergie plus élevée, qui - comparée à la version d'ion de lithium - assure vie plus longue. 
+d'après Andoh, ce qui est important est la réaction instinctive intelligente, pas la capacité pour des données traitement de et le stockage. 
+On suppose que le mécanisme traite seulement quelques entrées par seconde et qu'il réagisse sur eux en conséquence. 
+Il n'y a n'pas nécessaire pour accumuler les intrants et réagir par la logique intuitive basée sur les données manoeuvrant précédentes, cela alloue donc continuellement seulement quelques douzaines de kilo-octets de mémoire. 
+Il n'y a aucun besoin de mémoire de taille de giga-octet ou mégaoctet. 
+C'est le premier pas de développer la technologie de prévention de collision immédiate qui, sur la base de l'estimation de Nissan, peut être transformée dans les voitures produites de série dans 10 ans. 
+si en reliant l'appareil au système de navigation de satellite de GPS, un autre application option peut être résolu que peut aider à éviter route les barrières tandis que de conduire pendant que conduisant. 

@@ -1,0 +1,14 @@
+IP pide resultados del Congreso 
+Eduardo Dávalos, Presidente de la CEC, propuso que los diputados asuman la gran responsabilidad de ser un ejemplo para un mejor Sinaloa por los diversos desafíos que enfrenta. 
+Una legislatura de decente funciona y libre de los acuerdos entre las partes y el estado Ejecutivo es ser exigido por el sector empresarial de Mazatlán, porque hay un convulsionó Sinaloa que enfrenta grandes problemas. 
+Ayer la legislatura 60 fue votado, integrado por siete fuerzas políticas, 19 diputados del PRI, 13 del PAN, tres de los partido Nueva Alianza, dos del PRD, uno del PT, uno de la Convergencia y uno del PVEM, lo que significa un total de 40 representantes populares. 
+Entre la lista de las expectativas de los nuevos miembros del Congreso del Estado de s se menciona que vienen a cumplir una gestión limpia de compromiso con la sociedad y los diferentes sectores que requieren un cargo legislativo trabajar. 
+Eduardo Dávalos Zamora, Presidente del Consejo Coordinador empresarial, propuso que el lanzado sólo 40 diputados del Congreso del Estado asumieron la gran responsabilidad de ser un ejemplo para un mejor Sinaloa por los diversos desafíos que enfrenta. 
+Esperamos que los diputados realmente ejercerán su derecho, libre de los acuerdos entre las partes porque es costumbre hacer acuerdos a fin de velar por sus intereses y se convierten en un personaje en un carnaval de los gobernadores y los líderes de las fracciones parlamentarias. 
+Por ello que habló de certificar el compromiso a fin de establecer que la necesaria puentes podría ayudar al gobernador para seguir adelante. 
+Esperamos que vienen a hacer un trabajo digno y principalmente comprometidos con la sociedad y los sectores porque los habitantes de Sinaloa fueron los que les dio el voto de confianza durante las últimas elecciones. 
+José Ramón Manguart Sánchez, Presidente de la Asociación de Hoteles de Tres Islas, considera que uno de los mayores desafíos para los 40 representantes populares es la de impulsar y agregar fuerzas en busca del crecimiento económico del Estado, porque hoy en día la situación económica es muy complicada. 
+Lo más importante es impulsar el crecimiento económico, genera incentivos para la inversión y la infraestructura y que de alguna manera van a formar una nueva generación de puestos de trabajo. 
+En cuanto a la actividad turística, exigió que los nuevos legisladores dan el peso revisado dentro del presupuesto del Estado para fortalecer la Secretaría de turismo. 
+Según tengo entendido es el segundo departamento del Estado con presupuestos de menos y es incongruente una actividad importante y económica generando directamente de divisas y la inversión compite con la agroindustria. 
+Además de exigir el etiquetado de recursos los detonación proyectos turísticos que ayudan a dar seguridad al Estado y actualización la ley de Alcohol que no ha podido resolver en las legislaturas anteriores. 

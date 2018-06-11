@@ -1,0 +1,15 @@
+Alerta sobre los plaguicidas consumidos por los niños. 
+Según un estudio publicado o miércoles por la asociación de futuras generaciones (formelry movimiento por los derechos y el respeto de las generaciones futuras), un niño de 10 se consume en un día 81 diferentes sustancias químicas. 
+La asociación que predice que sus resultados no poseen, en vista del pequeño número de muestras analizado, un valor importante estadísticos, pero ilustrar el problema que aborda, ha comprado en spermarkets de los oise y de parís entre julio y septiembre, la cesta de los alimentos consumidos en general cuatro las comidas de un niño de diez. 
+Estas harinas inclduing recomendaciones oficiales, cinco piezas de fruta y hortalizas, tres productos lácteos y 5 litros de agua así como pusilanimidad, fueron examinadas por los laboratorios de investigación clínica en relación con los productos químicos, los pesticidas, metales pesados y otras sustancias contaminantes. 
+El balance es asombrosa: 81 incluida 42 clasificados como sustancias químicas potencialmente definitivamente o probablemente sustancias carcinógenas y cinco clasificados como sustancias carcinógenas, así como 37 capaz de inducir trastornos endocrinos, según los estudios por parte de varias instituciones como el centro internacional de investigación sobre el cáncer. 
+Según la associaiton, incluso si, en casi todos los casos, la de cada sustancia química no sobrepasen los límites jurídicos, nuestra investigación demuestra que la realidad de la exposición de los consumidores a potencialmente cancerígenas contaminante es preocupante. 
+Para el desayuno, mantequilla y leche té con sólo contienen más de diez posible y tres demostrado residuos carcinógenos y casi veinte residuos es capaz de perturbar el sistema hormonal. 
+Una manzana de brasil contienen trazas de seis sustancias químicas prohibidas incluing un anticriptogámico, en francia. 
+Lo mismo se aplica a judías de kenia incluido en un almuerzo, en que el estudio encontrado rastros de un poderoso insecticida prohibido en la unión europea. 
+En addiiton, la carne picada bistec, el atún y incluso un baguette y chicles pesticidas y otras sustancias químicas. 
+Tapwater los nitratos y chloroform. 
+Salmón para comer chuletones era la más ricos "", con 34 residuos químicos y calentamiento incluso la placa de plástico utilizado para la comida en un microondas, no era exentos. 
+Según el estudio, el riesgo para el consumidor final en este contaminante "cóctel" es probablemente subestimado. 
+Por su parte, la alianza europea para la ecología - los verdes han propuesto, en vista de la urgencia de la situación, la introducción de una moratoria sobre el uso de los plaguicidas, a fin de frenar el crecimiento de las enfermedades de la civilización. 
+En julio, un estudio realizado por la agencia europea de seguridad alimentaria ha señalado a la presencia de residuos de plaguicidas 365 diferentes identificados en las frutas y hortalizas consumida en europa incluida 76 en los cereales. 

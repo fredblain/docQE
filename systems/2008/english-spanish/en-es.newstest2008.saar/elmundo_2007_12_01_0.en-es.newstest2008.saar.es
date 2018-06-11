@@ -1,0 +1,9 @@
+El aspecto celta en Milán un valor del punto octavo
+Milán y celta juegan el martes en San en busca del punto lo necesario para lograr sus objetivos respectivos en el cierre de la Liga de Campeones ", cuando los italianos son utilizados para ser primero y el escocés para su clasificación que condena.
+Los italianos añaden diez puntos y certificados ya en el quinto paso del día con un lazo en Portugal, mientras que son tiene nueve puntos, pero necesita todavía asegurarse que el, con seis, y que benfica, que tiene cuatro, no lo adelante.
+Estos dos partidos del grupo D se jugaba en una semana antes del final del sexto día, ya que tiene que jugar en el mundial en Japón, donde hacen su presentación en el 13 en la búsqueda de un lugar en el último en 16.
+Así, este Grupo se cerrará antes del descanso y Giuseppe meazza parezca esperar un lazo como el resultado, pero los dos equipos intentar ir por un triunfo, y los italianos no quiero especular en casa y celta sabe que la ganancia sería primero y asegurar una mejor cruce en el cuarto finales.
+Al equipo de Gordon strachan podría servir incluso una derrota para el anuncio si no gana, pero no puede ser confiado porque la igualdad en nueve puntos significa que el paso, que perdió la semana pasada en Glasgow (2-1), pero que (2-0) en otro duelo vivo.
+Por lo tanto, milanists amenaza hacerlo una noche amarga para los escoceses, que depende de entrar en los cuartos por segunda vez en fila en la Liga de Campeones reestructurados, después de que fueron derrotados precisamente en esta última ronda por un objetivo de kaka en el tiempo prolongado (1-0) después 0-0 en la ronda.
+A la espera de la victoria de "rossoneri" será el que sólo la victoria hará, en caso de que son los dos se perdió en sectores para continuar en la UEFA.
+Y en cuanto a benfica, a pesar de ser el último y sin ninguna esperanza de quedarse en la Cumbre de la competencia europea, podría alcanzar el tercer lugar con una victoria, que juegan UEFA.

@@ -1,0 +1,15 @@
+China mantiene los objetivos de reducir los gases del efecto de invernadero
+El representante de ese país en el COP16 aseguró que su país ha hecho esfuerzos enormes para reducir el carbón para seguir y detallado que él mantiene su oferta de reducir sus emisiones de gases de efecto invernadero por 40 a el 45% antes de 2020.
+China mantiene su oferta de reducir sus emisiones de gases de efecto invernadero cerca entre el 40 y 45 por ciento por el año 2020, Su confiado Wei, representante de China al COP16.
+En su primera aparición pública en la décimosexto conferencia de UJ sobre los cambios climáticos (COP16), el Su Wei aseguró que su país ha hecho esfuerzos enormes para reducir el carbón para seguir y reconvertir su industria.
+De hecho, durante los cuatro años pasados su país ha invertido 245 millones de dólares en la disminución de sus emisiones de gases de efecto invernadero.
+Sin embargo, él hizo claro que China no modificará sus objetivos, pero continuará trabajando en común con la comunidad internacional en esa materia.
+Él agregó que la estrategia china con respecto a la materia del cambio climático está dividida en cuatro porciones: diálogo; construcción de capacidades; construcción de instituciones y del endoso a los programas pilotos.
+En todas esas piezas, los avances se han hecho, incluyendo la aprobación, el año pasado, de una nueva ley de la energía, con objetivos con respecto a la reducción de las emisiones de gas, él explicaron.
+Por una parte, él acentuó que en China, las autoridades federales han sido funcionamiento de una manera coordinada con y el estado y el local unos, para alcanzar los objetivos del ahorro de la energía, uso de la energía eficiente y reducción de emisiones.
+Además, hay en ser convertido o es ya planes multianual diversos concluidos, financiados tanto por el gobierno chino, por ejemplo por los gobiernos de otros países.
+Por ejemplo, él refirió al programa del uso eficiente de la energía, que fueron ejecutados durante el último los cinco años y que recibió inversiones de la organización de los Naciones Unidas (ONU), del gobierno y de la iniciativa privada.
+También se está desarrollando un proyecto provincial del cambio climático, otro para el cambio de centros incandescentes por los ahorradores y otra de mitigación y de adaptación, él detalló.
+En la misma tabla, Martin Krol, consejero científico del gobierno de ese país en materia del cambio climático, confiado que los esfuerzos de la China han sido mayores que percibidos generalmente.
+Por ejemplo, él indica, la emisión de gases de efecto invernadero per capita en China es seis toneladas de persona, mientras que en los Estados Unidos está de 100 toneladas; China es responsable del 9 por ciento de la contribución histórica a las emisiones de gases de efecto invernadero.
+También, esfuerzos sin precedente en el uso de la energía, en el aumento en el 20 por ciento de su rendimiento energético durante los cinco años pasados y anticipa para hacer iguales hacia el año 2020, él agregó.

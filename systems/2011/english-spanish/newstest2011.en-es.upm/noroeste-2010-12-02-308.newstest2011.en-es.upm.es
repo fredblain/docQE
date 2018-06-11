@@ -1,0 +1,11 @@
+La nASA habrá de anunciar la descubrimiento extraterrestre vida 
+La agencia espacial americano llamado la prensa mañana que presente de las Naciones Unidas descubrimiento causarán impacto en la búsqueda de personas que viven en el espacio. 
+La Administración Nacional de Aeronáutica y del Espacio NASA para () de los Estados Unidos presentará mañana, jueves, de las Naciones Unidas astrobiológico descubrimiento, que podría ser la teoría de que hay extraterrestre vida. 
+La descubrimiento se presentarán en una conferencia de prensa mañana jueves a 13:00 pm en la NASA sede en Washington por expertos en astrobiología; una ciencia descrito como la que los estudios el origen, evolución, distribución y futuro de la vida en la Universo. 
+I cuando la prensa, NASA asegurado de que se presente "de las Naciones Unidas descubrimiento causarán impacto en la búsqueda de extraterrestre vida", que provocado especulación por expertos en otros países. 
+La descubrimiento podría demostrar la teoría de que hay criaturas que mirar como nosotros que viven en espacios hostil que se considera como inhabitable, y quiero poner sobre la mesa la posibilidad de que se conviertan en personas inteligentes como una persona si son mejorar sus condiciones. 
+Aparentemente es centrado en alrededor de de las Naciones Unidas microbio que se encuentran al fondo de la Mono Lago en la Constitución Parque Yosemite, California, donde se vive en de las Naciones Unidas entorno que se consideró demasiado venenoso para cualquier forma de vida, desde el lago es rico en arsénico. 
+De algún modo, la criatura usos arsénico como medio de supervivencia y fuera de esta capacidad aumenta la posibilidad de que la vida similares podría existir en otros planetas que no tenemos nuestras benévolo medio ambiente. 
+Según astrobiólogos, si estas modificados uso arsénico en su el metabolismo, será demostrado que "de hecho hay otra forma de vida, una segunda forma de vida, diferentes de una sabemos". 
+La agencia espacial se presente el pleno alcance de la descubrimientos en la conferencia de prensa de mañana jueves. 
+Pamela Conrad, que los estudios la posibilidad de vida en Marte; y la biólogo Steven Benner, uno de los científicos que estudiar Titán (la alcalde luna Saturno), bajo la perspectiva de que su química es parecido al de la Tierra lo tanto asistir a la conferencia. 

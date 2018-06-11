@@ -1,0 +1,12 @@
+Atenas se retroalimenta las dudas
+Papademos dijo que los ajustes se aprobó, pero los conservadores no firmar ningún compromiso escrito
+Con subvenciones lanzó periféricas riesgo y la incertidumbre reincorporada en los parques, Grecia sigue enredado en el laberinto que conduce a la salida de la gran crisis de deuda europea.
+La sensación de que el « consentimiento » del nuevo Gobierno de transición de Hellene llega más impuestas por las exigencias de Bruselas que por una auténtica convicción de fuerzas políticas comenzó a ser confirmado por los hechos.
+Mientras que el nuevo primer ministro Lucas Papademos, advirtió ayer que no hay alternativa a las reformas estructurales y que el plazo de cien días acordado en su nombramiento puede ser subestimado para su aplicación, el líder del partido conservador nueva democracia, Antonis Samaras, aseguró que él no apoyará nuevas medidas de austeridad en cualquier caso y reiteró su demanda de nuevo las elecciones previstas en el 19 de febrero.
+« La principal tarea de este Gobierno es la implementación de las decisiones de la cumbre del 26 de octubre », Papademos dijo ayer a la hora de abrir un debate parlamentario que culminará mañana con un voto de confianza al nuevo Ejecutivo.
+Un paquete de 24 programas de impulso al empleo, la reforma del código disciplinario de funcionarios y nuevas medidas contra la evasión fiscal será el primer iniciativas.
+Sin embargo, el mensaje de Samaras no despejar las dudas sobre su posición: « estamos comprometidos a ayudar a que el Gobierno de transición, pero no estamos comprometidos con nada. »
+El líder conservador fue un paso más en su pulso a la UE y el FMI, las entidades que deben desbloquear los 8.000 millones de euros que Atenas necesita con urgencia y hecho ​​clear que no da su aprobación a ninguna carta de compromiso para cumplir con los ajustes.
+Pero la comisión Europea, sigue teniendo un nappy precipitada por el impacto causado por el todo o nada declaración del referéndum, Papandreu reiteró ayer que su demanda es clara: no desbloquear la ayuda si el nuevo Gobierno y los líderes de los principales partidos Hellene no firmar un compromiso escrito « sin ambigüedad y lo antes posible. »
+El portavoz de asuntos económicos de la comisión, Amadeu Altafaj, dijo que los inspectores de la troika regresará « muy pronto » a Atenas para discutir con el nuevo gobierno, « lo que hay que hacer para pagar el sexto tramo de 8.000 millones », aunque no hay fecha definitiva.
+Los griegos hank todavía tiene un hilo por el momento.

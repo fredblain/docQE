@@ -1,0 +1,30 @@
+Los fiscales no cobrar el senador pabellón 
+Los fiscales del Departamento de Justicia han despejado el senador John pabellón de acusaciones penales derivados de su asunto con un antiguo ayudante de campaña y sus esfuerzos para asegurar el trabajo de cabildeo para la mujer marido, el senador de abogados anunció el miércoles. 
+La decisión termina la más grave amenaza legales a los que se enfrenta el pabellón, la nevada republicano que era considerado un posible candidato presidencial republicano en 2012 hasta el escándalo sobre el asunto de los periódicos hicieron el año pasado y dañó su carrera. 
+La oficina del Sr. pabellón dijo que era "duda" por la decisión, a la que siguió una investigación yearlong. 
+El senador aún podría enfrentarse a sanciones disciplinarias por el Senado comité de ética. 
+El Sr. pabellón de los abogados dijo, el Departamento de Justicia había "nos informó de que el senador pabellón ya no es un objetivo de su investigación y que no tiene planes para presentar cargos contra él en este asunto". 
+El Departamento de Justicia se negó a comentar el caso. 
+El anuncio fue algo de una sorpresa para muchos ética abogados fuera del Departamento de Justicia, quien ha dicho que parecía ser importantes pruebas que indican que el Sr. pabellón puede haber conspirado para violar la prohibición de Criminal Federal de grupos de presión. 
+Las entrevistas, el correo electrónico y otros documentos primero en octubre de 2009 en el New York Times ha indicado que el Sr. pabellón habían ayudado Douglas Hampton, que fue uno de sus asistentes, asegurar el lobby lucrativo trabajar para ganar el silencio del señor Hampton y su esposa, Cynthia, sobre el asunto del senador con ella. 
+La señora Hampton una vez fue tesorera de la campaña de pabellón. 
+El Sr. pabellón contacto con un número de representantes políticos para encontrar trabajo para el Sr. Hampton y luego defendió en su nombre que hubieran contratado el Sr. Hampton presionar para ellos, según los documentos y entrevistas. 
+Porque el Sr. Hampton recientemente había sido un asesor del Sr. pabellón, fue prohibido por ley de presión su anterior empresario o el Senado como un conjunto de un año. 
+Los expertos en ética dijo la inusual acuerdo entre el Sr. pabellón y el Sr. Hampton, que eran buenos amigos antes del asunto, en contradicción con la llamada puerta giratoria presión de la prohibición. 
+De las pruebas que ha sido hecha pública ", que parecía ser una prima facie, caso de una conspiración para violar, y gran violación de la puerta giratoria estatuto", dijo Stanley marca, un abogado de Washington que se especializa en defensa de los clientes investigados por el Gobierno. 
+Mientras que los funcionarios del Departamento de Justicia se negó a explicar el razonamiento detrás de la decisión en el caso de pabellón, Sr. marca y otros ética abogados dijo el departamento apareció temerosa de asumir las persecuciones políticas después de una serie de reveses destacada por su integridad pública, incluida la decisión del año pasado de la acusación contra el ex senador Ted Stevens entre acusaciones de mala conducta acusadores. 
+Los fiscales federal "son claramente pistola tímido", dijo Melanie sloan, el director ejecutivo de los ciudadanos por la responsabilidad y la ética en Washington, un grupo de defensa que varias quejas contra el Sr. pabellón en el caso. 
+"Esto básicamente dice altos funcionarios de gobierno ahora puede asumir las leyes no se aplican a ellos", añadió. 
+Paul coggins, Sr. pabellón "plomo del abogado, dijo en una entrevista que recibió una llamada de teléfono de un departamento de justicia fiscal el lunes y un seguimiento al día siguiente, recordándole que el departamento no estaba intentando cargos contra su cliente. 
+El Sr. pabellón de equipo de defensa había estado cooperando con los fiscales en intentar convencerles de que el senador, como su oficina reiteró en una declaración el miércoles, "actuado de conformidad con la ley". 
+Señor coggins declinado aclarar los argumentos jurídicos que hizo a los fiscales. 
+"Yo no soy cómoda de entrar en los detalles de mis conversaciones con el Departamento de Justicia, excepto para decir que creo que hemos tomado la decisión correcta", dijo. 
+El mes pasado, la Comisión federal electoral decidido eliminar una investigación sobre una queja por el Grupo de ética que alegan un pago 96.000 dólares el pabellón de los padres a la hamptons viola la ley electoral federal. 
+La Comisión dijo que no tiene pruebas suficientes para demostrar el dinero fue nada excepto un regalo. 
+Una empresa de la que el señor pabellón contribuido el Sr. Hampton encontrar trabajo fuera de cabildeo N.V. energía, una importante empresa Nevada, que durante mucho tiempo había apoyado el senador. 
+Un correo enviado en diciembre de 2008 demostró que después de la compañía ingresará el Sr. Hampton como un grupo de presión, el jefe de gabinete del pabellón, John López, comunicarse con el Sr. Hampton y le dijo que era "golpear" el departamento del interior sobre una cuestión en disputa. 
+El Sr. pabellón también asistió a un almuerzo con el Sr. Hampton y otro Nevada cliente, allegiant aire, y el Secretario de transporte para establecer una reunión sobre el de la compañía aérea nombre después de que habían pagado el Sr. Hampton para hacer prácticas de trabajo. 
+Cuando la noticia de la primera ocurrido el año pasado, el Sr. pabellón perdón a sus electores y dimitió de su cargo como líder republicano fourth-ranking en el Senado. 
+Después de mantener un perfil bajo durante muchos meses, el Sr. pabellón dijo a los periodistas hace dos semanas que a plazo para un tercer mandato en el Senado. 
+En anunciar que el Sr. pabellón ya no era el objetivo de una investigación penal, su portavoz, Jennifer Cooper, dijo el senador esperaba el comité de ética podría seguir rápidamente, el Departamento de Justicia de plomo y final de su investigación. 
+"El senador pabellón espera para continuar su labor en nombre de los ciudadanos de Nevada", dijo. 

@@ -1,0 +1,16 @@
+Casino perdona a Jonás Larrazábal y saldrá libre
+Luego de 72 días de arraigo, el apoderado legal del Casino Red otorgó el perdón al hermano del alcalde de Monterrey del proceso que se le seguía por presuntos chantajes 
+Luego de permanecer 72 días preso, Manuel Jonás Larrazábal saldrá en libertad luego de que el apoderado legal del Casino Red le otorgara el perdón ante el Juzgado Segundo Penal de Distrito, que sigue un proceso por chantaje contra el hermano del alcalde de Monterrey.
+Luego del atentado al Casino Royale, el propietario del Casino Red, Sergio Gil García, hizo públicas una serie de fotografías y videos en los que presuntamente Manuel Jonás le exigía el pago de una cuota económica para que el ayuntamiento regiomontano permitiera la operación clandestina de la casa de apuestas.
+Tras la denuncia pública, la Procuraduría estatal abrió un proceso penal contra el hermano del alcalde panista y el 2 de septiembre fue detenido y arraigado por 30 días.
+Luego de cuatro horas ante el Agente del Ministerio Público 3 en Delitos Patrimoniales, fue trasladado a la Casa de Arraigo 1, ubicada en el Barrio Antiguo de la capital del Estado.
+En ese lugar permaneció durante los 49 días siguientes al dictársele una segunda orden de arraigo luego de que el agente del Ministerio Público desechara los delitos de cohecho y delincuencia organizada.
+El 19 de octubre fue trasladado al penal de Cadereyta presuntamente por chantajear con un millón y medio de pesos a los propietarios del Casino Red; sin embargo, sólo permaneció unas horas en el reclusorio de mediana seguridad ya que existían amenazas de muerte en su contra.
+Las autoridades le permitieron seguir el juicio internado en las celdas municipales de San Nicolás de los Garza.
+El 25 de octubre se le giró orden de aprehensión por el secretario del Juzgado Segundo Penal de Distrito, Jorge Yánez, quien dijo que a casi dos meses de averiguaciones se comprobaron suficientes pruebas para determinar la culpabilidad de Jonás, tales como el cobro de 1.5 millones de pesos a los representantes de la casa de apuestas a cambio de permitir la operación de la misma.
+Este lunes, el apoderado legal de Casino Red, Víctor Aldo García Gómez, acudió ante el juzgador José Luis Pecina a solicitar el perdón para el hermano del alcalde regio; por lo que en las próximas horas podría recuperar su libertad.
+Durante la diligencia legal, el agente del Ministerio Público adscrito al Juzgado, Ramiro Arias, cuestionó a García Gómez si se había reparado el daño y quién de los socios de la casa de apuestas fue el que otorgó el perdón, aunque el abogado intentó reservar el nombre.
+Con base al expediente 197/2011 se otorga el perdón legal a Jonás Larrazábal y en lo sucesivo no podrá presentarse reclamación alguna en torno al proceso que se le seguía; además de que no se le exigirá reparación de daño ni castigo.
+Tras la audiencia al apoderado legal de la casa de apuestas, cerca de las 15:50 se ordenó la inmediata libertad de Larrazabal Bretón.
+El secretario del Juzgado, Jorge Yánez, se trasladó hasta la cárcel del municipio de San Nicolás de los Garza para notificar a Jonás que ha sido perdonado legalmente y su expediente será archivado.
+También lo notificará de la orden de libertad inmediata que emitió el juez.

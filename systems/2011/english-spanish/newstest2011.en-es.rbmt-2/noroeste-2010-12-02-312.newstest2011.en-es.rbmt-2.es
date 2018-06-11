@@ -1,0 +1,14 @@
+IP solicita resultados del Congreso 
+Eduardo Dávalos, el presidente del CEC, propuso que los diputados asumen la gran responsabilidad de ser un ejemplo para un mejor Sinaloa por los desafíos diversos que encara. 
+Una Legislatura de trabajos decentes y liberta de acuerdos entre partidos y el estado Ejecutivo es demandado por el sector de la empresa de Mazatlán, porque hay un Sinaloa convulsionado que encara gran problemas. 
+Ayer la 60 legislatura fue votada en, integrado por siete fuerzas políticas, 19 diputados del PRI, 13 de la CACEROLA, tres del Partido Nueva Alianza, dos del PRD, uno del PT, uno del Convergencia y un más del PVEM, significando un suma de 40 representantes populares. 
+Entre la lista de esperanzas de los nuevos miembros del Congreso del S-ESTADO que es mencionado que vienen a cumplir una gestión limpia de compromiso a la sociedad y los sectores diferentes que requieren un trabajo legislativo responsable. 
+Eduardo Dávalos Zamora, el presidente de la Empresa que Coordina el Concilio, propuesto que el justo soltó a 40 diputados del Congreso del Estado asumieron la gran responsabilidad de ser un ejemplo para un mejor Sinaloa por los desafíos diversos que encara. 
+Esperamos que los diputados ejercerán realmente su derecho, liberta de acuerdos entre los partidos porque es una costumbre de hacer acuerdos para proteger por sus propios intereses y ellos llegan a ser un carácter en un carnaval de los gobernadores y líderes de las fracciones parlamentarias. 
+Por eso él habló acerca de certificar el compromiso para establecer los puentes necesarios que podrían ayudar al Gobernador para seguir. 
+Esperamos que vengan a hacer un trabajo digno y principalmente comprometido a la sociedad y los sectores porque los habitantes de Sinaloa fueron los que les dieron el voto de la confianza durante las últimas elecciones. 
+Jose Ramon Manguart Sanchez, el presidente de la Asociación de Hoteles Tres Islas, consideró ése de los desafíos más grandes para los 40 representantes populares es el uno de empujar y agregar fuerzas en busca del crecimiento económico del estado, porque actualmente la situación económica es complicada muy. 
+Lo más importante es de empujar crecimiento económico, que engendra estímulos para la inversión y la infraestructura y para que formará de algún modo una nueva generación de trabajos. 
+En cuanto a la actividad de turista, él demandó que los nuevos legisladores dan el peso revisado dentro del presupuesto de estado a fortificar al Secretario de Turismo. 
+Como he comprendido que esto es el segundo departamento del estado con menos presupuestos y es incongrua una actividad importante y económica que engendra monedas e inversión y que compite directamente con la industria de agro. 
+Aparte de requerir marcar recursos el turista que detona proyecta ese ayuda a dar la seguridad al estado y actualizar la Ley de Alcohol que no ha podido resolver en las legislaturas anteriores. 

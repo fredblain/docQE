@@ -1,0 +1,43 @@
+Les révélations de la NSA accroissent la paranoïa des entreprises à l'égard de la surveillance d'État
+Par une belle journée de fin août, un hélicoptère de la police allemande a survolé à basse altitude le Consulat britannique de Francfort, la capitale financière de l'Allemagne.
+Sur ordre de l'Office fédéral de protection de la Constitution (BfV), l'agence nationale de renseignements allemande, sa mission était de photographier le toit de l'avant-poste américain, situé à moins de 5 km de la Banque centrale européenne et de la Bundesbank.
+Les médias allemands expliquent que le BfV espérait identifier la présence d'antennes d'écoute et que l'opération a suscité un échange entre les États-Unis et le ministère des Affaires étrangères allemand à Berlin.
+James Clapper, le directeur des services de renseignement américains, a insisté à nouveau en septembre sur le fait que les États-Unis n'utilisent pas leurs capacités en matière de renseignement étranger pour « voler les secrets industriels des entreprises étrangères pour le compte de sociétés américaines afin d'accroître leur compétitivité internationale ou augmenter leurs bénéfices ».
+Mais depuis qu'Edward Snowden, le consultant devenu dénonciateur, a commencé à dévoiler son inépuisable trésor d'informations sur les secrets de la surveillance des États-Unis, les gouvernements européens et les dirigeants d'entreprises ne savent plus s'il faut croire le directeur sur parole.
+Des rapports, selon lesquels la National Security Agency américaine a espionné la compagnie pétrolière brésilienne Petrobras et a eu accès à des données détenues par des fournisseurs américains de services de stockage dans le Cloud, notamment Google et Yahoo, ont plus que jamais suscité la paranoïa des entreprises à l'égard de la surveillance d'État.
+La révélation selon laquelle le téléphone de la chancelière allemande Angela Merkel avait été piraté, peut-être même pendant une décennie, a été la goutte d'eau qui a fait déborder le vase.
+Si la personne la plus puissante d'Europe peut être visée, alors les dirigeants d'entreprise sont sûrement aussi des cibles potentielles.
+Snowden a rendu transparente la collaboration intensive entre les services de renseignement américains et les entreprises.
+J'estime qu'il est concevable que ces données soient utilisées dans leur intérêt mutuel.
+« L'Allemagne doit se réveiller », déclare Oliver Grün, président de BITMi, qui représente les PME allemandes du secteur des TI.
+Les sociétés allemandes pensent que les États-Unis représentent un risque aussi important que la Chine lorsqu'il s'agit d'espionnage industriel et de vol de données, selon une enquête publiée en juillet par le cabinet de conseil EY.
+Cependant dans tous les documents dévoilés par M. Snowden, rien n'indique à ce jour que les États-Unis aient transmis des secrets industriels d'entreprises étrangères à des sociétés américaines.
+Les hommes politiques ont fait part de leur inquiétude à l'idée que l'UE ne dispose pas de capacités informatiques et Internet suffisantes et pensent qu'elle devrait s'efforcer de réduire sa dépendance vis-à-vis des États-Unis.
+Les dirigeants d'entreprise sont sceptiques à ce sujet.
+Un député du parlement allemand dit que nous devrions créer un Google allemand.
+Je ne peux que fermer les yeux et les rouvrir lentement...
+« Ce n'est pas la bonne façon de faire », indique Hasso Plattner, président de la société de logiciels d'entreprise allemande, SAP.
+Si on voulait une industrie européenne des TI forte, alors il ne fallait pas la laisser mourir il y a 20 ans.
+Tout est subventionné en Allemagne, du charbon aux voitures, en passant par les agriculteurs.
+Tout sauf l'industrie des TI.
+Pourtant, l'ampleur et la sophistication des agences d'espionnage américaines exposées par les révélations de Snowden ont été un choc pour certaines entreprises qui pensaient jusqu'alors que la Chine représentait le plus gros risque en termes de surveillance.
+Un gros changement est en train de se produire dans l'informatique en nuage puisque les responsables européens ont pris conscience du fait que les données conservées aux États-Unis sont régies en vertu des lois de cette juridiction et donc potentiellement vulnérables.
+Selon une enquête réalisée par la Cloud Security Alliance, un organisme professionnel, quelque 10 % des membres non américains ont renoncé à leurs projets d'utiliser un fournisseur américain de services de stockage dans le cloud après les révélations sur le programme américain d'exploration des données Prism.
+Jim Snabe, co-directeur de SAP, déclare : « Nos clients nous posent aujourd'hui une question qu'ils ne nous posaient pas il y a un an : où mes données sont-elles conservées et pouvez-vous me garantir qu'elles resteront physiquement dans cette juridiction ? ».
+De nombreux dirigeants allemands indiquent que les derniers rapports ne sont qu'une confirmation de ce qu'ils savaient déjà, à savoir que les états puissants veulent voler leurs secrets les plus précieux et que ces données doivent par conséquent être gardées à tout prix.
+Il n'est pas surprenant qu'il y ait de l'espionnage économique.
+Il y en a toujours eu.
+« C'est un sujet récurrent depuis de nombreuses années et rien n'a fondamentalement changé dans le cadre de la discussion actuelle », déclare Kurt Bock, directeur général de la société productrice de produits chimiques BASF.
+Les Américains nous espionnent sur le plan commercial et industriel tout comme nous les espionnons, car il est dans l'intérêt national de défendre nos entreprises.
+Les dirigeants d'entreprise sont généralement peu enclins à révéler les mesures de prévention qu'ils ont mises en place, au cas où cela laisserait l'avantage à un adversaire.
+Les grandes sociétés martèlent depuis longtemps le message selon lequel il est pour le moins imprudent de récupérer une clé USB gratuite lors d'un salon professionnel ou de laisser un ordinateur portable sans surveillance dans une chambre d'hôtel.
+Ulrich Hackenberg, membre du conseil d'administration du constructeur automobile Audi, déclare que la collecte des téléphones portables avant les réunions du conseil, afin qu'ils ne puissent pas être utilisés comme appareils d'écoute à distance, est une pratique courante depuis des années.
+Le BfV d'Allemagne conseille à ses dirigeants d'envisager d'utiliser de simples téléphones portables prépayés lors de leurs voyages à l'étranger en raison du risque d'atteinte à l'intégrité des smartphones.
+Les téléphones portables prépayés sont ensuite jetés.
+Toutefois, on craint que les petites et moyennes entreprises restent vulnérables au piratage et à la surveillance.
+En Allemagne, bon nombre de PME sont des leaders mondiaux dans leur niche particulière.
+« Les PME manquent souvent de l'expérience, du personnel et des ressources financières pour protéger efficacement leurs secrets industriels contre un accès non autorisé », avertit le BfV dans un rapport.
+Les États-Unis alertent leurs propres sociétés sur les activités d'espionnage économiques réalisées par d'autres pays.
+Le National Intelligence Estimate (NIE) réalisé en février par les États-Unis, citait la France, de même que la Russie et Israël, coupables au second degré d'avoir effectué des actes de piratage de renseignements économiques, derrière la Chine, selon The Washington Post.
+Un membre du conseil d'administration d'une société allemande renommée estimait que lorsqu'il s'agit d'espionnage économique, « les Français sont les pires ».
+Bernard Squarcini, ancien directeur du renseignement intérieur français, la DCRI, a déclaré dans un entretien ce mois-ci : « Les services savent parfaitement bien que tous les pays, même s'ils coopèrent dans la lutte contre le terrorisme, espionnent leurs alliés. »

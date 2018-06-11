@@ -1,0 +1,11 @@
+La NASA anunciará el descubrimiento de vida extraterrestre 
+La agencia espacial estadounidense llamó a la prensa mañana para presentar un descubrimiento que causará impacto en la búsqueda de los seres vivos en el espacio. 
+La Administración Nacional de Espacio y Aeronáutica (NASA) de los Estados Unidos presentará mañana, jueves, un descubrimiento astrobiológico, que podría probar la teoría de que hay vida extraterrestre. 
+El descubrimiento será presentado mañana en una conferencia de prensa el jueves a las 13:00 PM en la sede de la NASA en Washington por expertos en astrobiología, una ciencia describe como la que estudia el origen, evolución, distribución y futuro de la vida en el Universo. 
+Al llamar a la prensa, la NASA aseguró que presentará "un descubrimiento que hará que el impacto en la búsqueda de vida extraterrestre", que provocó la especulación de los expertos de otros países. 
+El descubrimiento podría demostrar la teoría de que hay criaturas que se parecen a nosotros que vivimos en espacios hostiles que son consideradas como inhabitables, y pondría sobre la mesa la posibilidad de que se conviertan en seres inteligentes como los humanos si mejoran sus condiciones de vida. 
+Al parecer, se centra alrededor de un microbio que se encuentra en el fondo del lago Mono en el Parque Nacional de Yosemite, California, donde vive en un ambiente que se consideró demasiado tóxico para cualquier forma de vida, ya que el lago es rico en arsénico. 
+De alguna manera, la criatura usa arsénico como un medio de supervivencia y fuera de esta capacidad aumenta la posibilidad de que la vida similares podrían existir en otros planetas que no tienen nuestro entorno benévolo. 
+De acuerdo con los astrobiólogos, si estos organismos el uso de arsénico en su metabolismo, se demostrará que "de hecho hay otra forma de vida, una segunda forma de vida, diferente de la que conocemos". 
+La agencia espacial presentará la totalidad de los descubrimientos en la conferencia de prensa de mañana jueves. 
+Pamela Conrad, que estudia la posibilidad de vida en Marte, y el biólogo Steve Benner, uno de los científicos que estudian Titán (la mayor luna de Saturno), bajo la perspectiva de que su composición química es similar a la de la Tierra tanto asistir a la conferencia. 

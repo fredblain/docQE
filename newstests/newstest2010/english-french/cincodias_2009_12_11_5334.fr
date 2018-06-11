@@ -1,0 +1,76 @@
+Nouveaux outils pour l’expertise des voitures
+En ces jours de mauvais temps et d’accidents, les garages automobiles ne sont pas les seuls gagnants.
+Chaque jour, des milliers d’automobiles qui ont subi un sinistre sont ramenés jusqu’à un garage, où un expert doit évaluer les dégâts subis et le coût de la réparation.
+Chaque sinistre est différent, et le calcul du coût des pièces et du temps de main d’œuvre peut constituer un travail long et complexe.
+Calculer à la main le coût d’une réparation comprise entre 20 000 et 30 000 euros, en incluant les pièces et la main d’œuvre peut prendre deux ou trois heures.
+En revanche, avec l’assistance des outils informatiques les plus récents, ce serait une question de minutes.
+C'est pour cette raison que presque 100 % des experts utilisent ce type de systèmes.
+Les fournisseurs de services et de solutions pour l’évaluation des sinistres et l’entretien se consacrent au recueil des informations fournies par les fabricants, pour ensuite les traiter et les offrir à leurs clients sous la forme d’un outil utile.
+En Espagne, Audatex, du groupe nord-américain Solera, est l’entreprise leader ; 80 % des estimations sont réalisées avec ses produits.
+Les autres entreprises en concurrence dans le domaine des outils d’évaluation et de l’élaboration d’informations sur le secteur sont GtMotive et Eurotax.
+Le travail avec les données fournies par les fabricants est loin d’être simple.
+Selon Eduardo Velázquez, directeur commercial d’Audatex, l'entreprise en Espagne avec 63 fabricants et importateurs, et chacun d’eux leur fournit des informations dans un format différent.
+De plus, la quantité de données à traiter ne cesse d’augmenter, si bien qu’au cours des cinq dernières années, plus de versions, variantes et motorisations ont été lancées qu’au cours des quinze années précédentes.
+Lorsqu’une nouvelle voiture sort sur le marché, ces entreprises se mettent au travail.
+Il s’agit d’un travail très ardu, car il faut cataloguer chacune des mille pièces du véhicule et inscrire son prix.
+En outre, on établit une image graphique « intelligente » de chaque modèle sur laquelle on peut cliquer sur les différentes parties d’une voiture de tourisme.
+S’il s’agit d’un modèle vendu massivement, le travail peut être prêt en une semaine si le processus avance très rapidement.
+S’il s’agit d’une automobile peu vendue, cela peut prendre trois ou quatre mois. Actuellement, Audatex dispose d’informations complètes sur 99,2 % des voitures commercialisées en Espagne.
+Parmi les modèles les plus exclusifs, ils disposent par exemple d’informations sur les Porsche, mais pas les Ferrari ou les Lamborghini.
+Concernant les véhicules en circulation, le chiffre dépasse les 99 %.
+Pour effectuer le travail de documentation et d’élaboration des bases de données, Audatex dispose de huit centres répartis à travers le monde (en Espagne, en France, en Allemagne, aux États-Unis, au Brésil, au Mexique, en Chine et au Japon), et chacun d’eux est spécialisé dans certaines marques.
+Le siège national est situé à Alcobendas (Madrid).
+Là, plus de cent techniciens (en général des experts en mécanique) travaillent simultanément sur trois écrans d’ordinateurs.
+Audatex investit chaque année 90 millions pour élaborer ces bases de données.
+Chaque mois, 2,5 millions de données sont enregistrées, et les clients reçoivent des actualisations tous les deux jours.
+L’élaboration de cet énorme flux d’informations permet à ces entreprises de leur donner différents usages et de proposer des produits variés.
+L’application la plus fréquente concerne la réparation et l’entretien, mais en fonction des pays, il existe aussi des outils pour la gestion des pièces de casse ou pour calculer la valeur vénale ou résiduelle d’une voiture.
+La seule entreprise qui dispose d’un guide qui renseigne sur la valeur des voitures d’occasion en Espagne est Eurotax.
+Audatex ne le propose pas dans notre pays, mais elle le fait aux États-Unis.
+À la vue des produits offerts par Audatex, il est facile de se faire une idée du type de soutien qu’elle peut apporter aux professionnels du secteur.
+Cette entreprise offre dix outils différents, le produit phare étant AudaPlus, la solution standard d’évaluation des sinistres, destinée aux experts.
+Y figurent des voitures, motos, véhicules industriels légers et lourds.
+Outre le coût des pièces, il tient compte des temps de réparation estimés par le fabricant ou les barèmes de peinture.
+Cet outil s’achète en fonction de son usage, pour chaque estimation.
+Le coût le plus élevé est de 5,75 euros, pour des clients qui l’utilisent peu, au maximum dix fois par mois.
+Ensuite, chaque compagnie d’assurance, qui effectue des milliers d’expertises, négocie son prix avec Audatex.
+D’autres produits, comme AudaVIN, permettent l’identification totale d’un véhicule et de l’équipement avec lequel il est sorti de la chaîne de montage, seulement grâce à son numéro de châssis.
+AudaGlass se concentre sur les verres des véhicules, et AudaSubastas est un serveur ouvert au secteur professionnel sur Internet qui permet d’enchérir sur des véhicules déclarés épaves.
+Son service de statistiques est très utile pour identifier les tendances, réaliser des analyses géo-démographiques ou connaître les problèmes courants par marque ou par modèle.
+Il est possible d’étudier, par exemple, combien de modèles d’une marque déterminée sont allés au garage pour une panne ou combien ont subi des sinistres graves pour une période donnée.
+Gt Motive est la seule entreprise espagnole qui se consacre au développement de ce type d’outils.
+Elle commercialise, entre autres, Gt Estimate, qui est aussi destiné aux experts et fournit des images numériques, ainsi qu’un accès aux pièces, prix et temps officiels du fabricant.
+Gt Motive est une entreprise du groupe Einsa, fondée en 1971, comme fournisseur de services et de solutions d’évaluation des sinistres, pannes ou d’entretien devoiture.
+Le guide GT d’évaluation est un produit de référence historique sur le marché.
+L’entreprise travaille avec 24 000 utilisateurs dans des garages, 3 100 experts et 53 compagnies d’assurance.
+Son volume d’affaire a augmenté au rythme de 20 % par an au cours de ces trois dernières années, et elle a fait un chiffre d’affaire de 10,8 millions d’euros en 2008.
+Au début de l’année dernière, elle a entrepris son processus d’internationalisation, avec l’implantation d’un bureau à Paris.
+De son côté, Audatex est née en Allemagne en 1966 et s’est implantée en Espagne en 1979.
+D’après les sources de l’entreprise, 62 % de son chiffre d’affaire est réalisé en Europe et dans le reste du monde, et les 38 % restants en Amérique du Nord et du Sud. Elle travaille avec 900 compagnies d’assurance et 33 000 garages, dont 3 000 se trouvent en Espagne.
+Le chiffre d’affaire mondial du groupe Solera (Audatex, Sidexa, Informex ABZ, Hollander et IMS) s’élèvera à 557 millions de dollars, 3,3 % de plus qu’en 2008.
+Dans notre pays, l’entreprise percevra 19,1 millions d’euros, soit 7,2 % de plus que l’année dernière.
+En 2005, le groupe Solera était coté en bourse 1 000 millions de dollars, aujourd’hui, ses actions sont évaluées à un total de 2 400 millions de dollars.
+Depuis 2007, il est côté à la bourse de New York et fait partie de l’indice de référence Standard & Poor's.
+Enchères sur Internet de voitures accidentées
+Au mois d’octobre dernier, le groupe Solera a acheté Autoonline, une plateforme Internet pour la vente de voitures, de motos et de véhicules spéciaux sinistrés.
+L’opération impliqua un coût de 59,5 millions d’euros pour 85 % du capital de la société, qui pourrait s’élargir l’année prochaine aux 15 % restants.
+L’objectif de l’acquisition était d’offrir plus de services à valeur ajoutée à ses clients, avec la possibilité d’accéder à un immense marché international.
+Ce service d’estimation et de vente s’adresse exclusivement à des professionnels du secteur, comme les compagnies d’assurance, les experts, les entreprises de location, les garages, les casses et les vendeurs professionnels qui doivent être inscrits avant de commencer à effectuer des opérations.
+Cette plateforme a été créée en 1996 en Allemagne et gère plus de 650 000 opérations dans toute l’Europe, dont 500 000 en Allemagne.
+Parmi ses marchés principaux se trouvent l’Espagne, la Grèce, la Pologne et la Turquie.
+On trouve actuellement plus de 1500 vendeurs et 4000 experts enregistrés sur le site.
+Il gère 3 000 annonces par jour et sur le marché espagnol, 100 nouvelles annonces sont publiées chaque jour.
+Conformément à la loi espagnole, une voiture dont le numéro de châssis a été retiré ne peut plus circuler, mais en revanche, certaines pièces qui ne sont pas abîmées peuvent être utilisées comme pièces de rechange.
+Les voitures de collection peuvent être réenregistrées, bien qu’elles aient été retirées, après des démarches complexes.
+Devis de garage en quatre étapes
+Avec l’outil Auda-Taller, l’entreprise Audatex garantit que l’usager obtient un devis en seulement quatre étapes : identifier le véhicule, chercher la pièce de rechange, créer un devis et le générer.
+La facilité d’utilisation est un élément essentiel de ces systèmes, surtout pour convaincre les professionnels les plus âgés qui, dans une plus ou moins grande mesure, sont rétifs à l’utilisation de nouvelles techniques de gestion.
+La base de données comprend 1 034 véhicules, dont 666 de tourisme, 109 tout-terrains, 137 motos, 78 fourgonnettes et 44 camions.
+Naturellement, pour l’utiliser, un ordinateur et une connexion à Internet sont nécessaires.
+Une fois le modèle à réparer identifié grâce à son numéro de châssis, une image graphique réelle du modèle en question apparaît puis l’on sélectionne la pièce nécessaire.
+L’utilisateur peut inclure des variables comme le prix de la main d’œuvre, des majorations ou des réductions, puis il peut imprimer le devis pour le remettre au client.
+AudaTaller n’est pas un outil d’estimation comme AudaPlus, mais un catalogue de références.
+La principale différence entre ces deux systèmes est que celui destiné aux garages n’inclut pas les temps de main d’œuvre estimés.
+Le coût d’utilisation de cet outil pour le garage est de 350 euros par an, qui peuvent faire l’objet d’un crédit.
+Actuellement, l’entreprise Audatex travaille pour que ces images soient en trois dimensions.
+Il s’agit d’une innovation que les mécaniciens voient d’un très bon œil, puisqu’elle permettra, par exemple, de sélectionner une porte et de la faire tourner pour voir la face interne.

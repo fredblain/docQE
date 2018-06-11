@@ -1,0 +1,14 @@
+Resultados del Congreso IP peticiones 
+Eduardo dávalos, Presidente de la CEC, propuso que los diputados asumir la gran responsabilidad de ser un ejemplo para una mejor de Sinaloa por los diversos desafíos que afronta. 
+Una legislatura de buenas obras y libre de acuerdos entre las partes y el Estado ejecutivo se exigido por el sector de mazatlán, porque hay un convulsionada de Sinaloa que se enfrenta a grandes problemas. 
+Ayer el 60 legislatura fue votado en, integrada por siete de las fuerzas políticas, 19 diputados del PRI, 13 de la Pan, tres de la nueva alianza, dos del PRD, uno de los PT, uno de la convergencia y uno más de la pvem, lo que significa un total de 40 representantes populares. 
+Entre la lista de las expectativas de los nuevos miembros del Congreso de los s-state se menciona que vienen a cumplir una gestión limpia de compromiso de la sociedad y de los distintos sectores que requieren una labor legislativa. 
+Eduardo dávalos Zamora, Presidente de la empresa coordinar, propuso que el Consejo sólo liberado 40 diputados del Congreso del Estado asumido la gran responsabilidad de ser un ejemplo para una mejor de Sinaloa por los diversos desafíos que afronta. 
+Esperamos que los diputados realmente ejercen su derecho, libre de acuerdos entre las partes, porque es una costumbre adoptar acuerdos para vigilar por sus propios intereses y se conviertan en un personaje de carnaval de los gobernadores y los líderes de las facciones parlamentarias. 
+Por esa razón, ha hablado sobre la certificación del compromiso para establecer la necesaria puentes que podrían ayudar al Gobernador de seguir adelante. 
+Esperamos que vienen a hacer un trabajo digno y, sobre todo, a la sociedad y los sectores porque los habitantes de Sinaloa fueron los que les dio el voto de confianza durante las últimas elecciones. 
+José Ramón manguart Sánchez, Presidente de la asociación de hoteles tres islas, consideraba que uno de los mayores retos para la 40 representantes popular es la de que las fuerzas y completa en la búsqueda del crecimiento económico del Estado, porque hoy en día, la situación económica es muy complicado. 
+La más importante es para impulsar el crecimiento económico, que genera incentivos para la inversión e infraestructura y que, de alguna manera, constituirá una nueva generación de puestos de trabajo. 
+En cuanto a la actividad turística, exigió que los nuevos legisladores dar el peso revisada en el presupuesto estatal para fortalecer el Secretario del turismo. 
+Como he entendido, este es el segundo del Departamento de Estado con menos presupuestos y es incongruente una importante actividad económica y generar monedas y la inversión y que compita directamente con los de la industria. 
+Aparte de que los recursos de etiquetado el detonante de los proyectos turísticos que ayudar a dar seguridad para el Estado de derecho y actualizar el alcohol que no ha sido capaz de resolver en las legislaturas anteriores. 

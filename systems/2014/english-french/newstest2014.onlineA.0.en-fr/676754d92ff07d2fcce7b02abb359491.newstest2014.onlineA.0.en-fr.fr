@@ -1,0 +1,13 @@
+NSA blâme « Erreur interne », pas de pirates, de Crash site
+Le ténébreux de la National Security Agency, a déclaré vendredi soir qu'il était un petit problème qui a fait tomber son site Web public pendant quelques heures, pas de pirates comme certains réclamés en ligne.
+"NSA.gov n'était pas accessible pendant plusieurs heures ce soir en raison d'une erreur interne qui s'est produite pendant une mise à jour planifiée," l'Agence d'espionnage, a déclaré dans un communiqué envoyé par courrier.
+Le problème sera résolu ce soir.
+Prétend que la panne a été causée par un déni distribué de service [DDoS] n'est pas vraies.
+Plus tôt ce soir traqueurs de serveur en ligne note site Internet de la NSA avait été en panne pendant au moins six heures, et le site continue d'être inaccessible pour certains utilisateurs.
+Plus tôt un porte-parole de la NSA a déclaré à ABC News, réseau interne, sensible de l'Agence a été compromis « pas du tout ».
+Aucune information classifiée n'est en danger, a déclaré le porte-parole.
+Hacktiviste au moins un groupe en ligne souligne qu'ils étaient responsables pour faire baisser le site NSA avec une attaque DDoS.
+Attaques DDoS sont conçus pour inonder un site cible avec le trafic jusqu'à ce que les serveurs sont surchargés et le site s'effondre.
+La tactique de cyber est relativement rudimentaire et les attaques ne sont pas destinés à pénétrer le réseau interne du système cible.
+La NSA anciennement super secret, une fois surnommé non telle agence, s'est trouvé dans une lumière très grand publique et au milieu de critiques vicieux, au cours des derniers mois suite à un flot de révélations est vaste surveillance intérieure et étrangère programmes - collectivement le produit de fichiers NSA secrets volés de l'Agence et coulée par entrepreneur désenchanté de NSA ancien Edward Snowden.
+Telle controverse grandissante entourant l'Agence a incité début spéculation qu'incident que ce soir était le résultat d'une opération ciblée de cyber.

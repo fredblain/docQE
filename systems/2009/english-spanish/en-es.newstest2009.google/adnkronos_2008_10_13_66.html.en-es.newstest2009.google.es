@@ -1,0 +1,15 @@
+Reproductores de MP3 en virtud de acusación, que ponen en riesgo la audiencia 
+Escuchar música a alto volumen durante un período prolongado de tiempo utilizando dispositivos musicales portátiles como reproductores de MP3 puede causar lesiones permanentes a la vista. 
+Esto es lo que la Comisión Europea informes, que en una comunicación publicada en Bruselas cita los consejos dados por el Comité Científico de sanitarios emergentes y recientemente identificados Riesgos (CCRSERI) de la UE, publicado hoy. 
+"A partir de este asesoramiento científico - dice la nota - se desprende que el 5 - 10% de los que, por un período de al menos 5 años, escuchar música portátil usando musical semanal de los jugadores durante más de una hora al día con el dispositivo con un volumen alto riesgo de una pérdida permanente de capacidad auditiva ". 
+"Me preocupa que un número tan grande de jóvenes que utilizan frecuentemente los agentes musicales portátiles y teléfonos celulares a muy alto volumen puede dañar inconscientemente su audiencia en un modo irreparable", declara Meglena Kuneva. 
+"A partir de los resultados científicos - lleva en el portavoz de la UE - un claro riesgo emerge y tenemos que reaccionar rápidamente. 
+Lo que cuenta más, es necesario sensibilizar a los consumidores y poner esta información a disposición del público. 
+Además, a la luz de este asesoramiento científico, tenemos que volver a examinar los sistemas de control existentes para asegurarse de que son completamente eficaz y mantenerse al día con las nuevas tecnologías ". 
+Bruselas había pedido al comité científico independiente para examinar el problema, viendo el uso generalizado de portátiles musicales jugadores y el aumento en el número de jóvenes expuestos al ruido que generan. 
+"Los científicos - concluye el ejecutivo de la UE - confirman que hay motivos de preocupación y de la Comisión Europea ahora examinar, junto con los Estados miembros y otras partes interesadas, ¿qué medidas se pueden tomar para proteger mejor a los niños y los jóvenes de la exposición al ruido próximos portátiles musical jugadores y equipo conexo ". 
+Actualmente, una disposición europea de seguridad ya existe, lo que limita el nivel de ruido de los jugadores musical portátil a 100 dB, sino que se refiere a la audiencia con respecto a los daños causados por una excesiva exposición a esas fuentes de ruido, están aumentando. 
+Es posible limitar considerablemente los daños por recurrir a soluciones como la reducción del nivel y la duración de la exposición al ruido. 
+En su dictamen, el Comité científico de la UE señala que si los usuarios de reproductores musicales portátiles para escuchar música a alto volumen (&gt; 89 dB) por sólo 5 horas a la semana, ya están sobre el máximo permitido de ruido límites actualmente en vigor para el lugar de trabajo . 
+Las personas que escuchan música en esas condiciones durante más tiempo la duración de un riesgo de pérdida permanente de capacidad auditiva después de un período de 5 años. 
+Este es el caso de un 5-10% de los usuarios de los dispositivos de este tipo y su número se puede cuantificar entre 2,5 y 10 millones de personas dentro de la UE. 

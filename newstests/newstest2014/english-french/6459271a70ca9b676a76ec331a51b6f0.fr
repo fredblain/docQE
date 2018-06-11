@@ -1,0 +1,6 @@
+Lancement d'une boutique d'accessoires pour Google Glass
+Une boutique en ligne, proposant de multiples accessoires dédiés à Google Glass, vient d'être mise à disposition des milliers de développeurs possédant un prototype des lunettes connectées signées Google.
+Ils peuvent ainsi acquérir un écouteur, un chargeur ou bien encore un étui de rangement.
+Cette boutique, strictement réservée aux développeurs disposant déjà de Google Glass, propose quelques accessoires tels qu'un chargeur et son câble USB, pour 50$.
+Pour le même prix, il est aussi possible d'acquérir une housse de protection fabriquée en micro-fibres ou un écouteur intra-auriculaire.
+Bien que Google travaille actuellement sur un modèle de Google Glass équipé de verres de correction, aucune date de commercialisation à grande échelle n'a encore été confirmée.

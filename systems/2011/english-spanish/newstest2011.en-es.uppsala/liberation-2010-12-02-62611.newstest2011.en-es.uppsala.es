@@ -1,0 +1,15 @@
+Alerta sobre pesticides consumidos por los niños. 
+Según un estudio publicado ○ miércoles por la asociación las generaciones futuras (formelry Movimiento por los Derechos y la materia de las generaciones futuras), un niño de 10 consume en un día 81 diferentes sustancias químicas. 
+La asociación que predice que sus resultados no poseen, en vista del pequeño número de muestras analizadas, cualquier gran valor estadístico, pero ilustran el problema de que se trata, ha comprado en spermarkets del Oise y de París entre julio y septiembre, la cesta de los alimentos consumidos en general en cuatro comidas por un niño de diez. 
+Estas comidas inclduing recomendaciones oficiales, cinco piezas de frutas y hortalizas, tres productos lácteos y 1,5 litros de agua, así como los manjares, fueron examinados por los laboratorios de investigación clínica que se ocupan de los productos químicos, pesticidas, metales pesados y otros contaminantes. 
+El balance es asombrosa: 81 incluidos 42 clasificadas como sustancias químicas potencialmente o probablemente carcinogénica y cinco classified definitivamente carcinogénica, así como 37 sustancias capaces de provocar alteraciones endocrinas, según los estudios realizados por varias instituciones como el Centro Internacional de Investigación sobre el Cáncer. 
+Según la Associaiton, incluso si, en casi todos los casos, los límites legales de cada sustancia química no se supera, nuestra investigación muestra que la realidad de la exposición de los consumidores a potencialmente carcinogénica contaminante es preocupante. 
+Para el desayuno, la mantequilla y el té con leche solos contienen más de diez posibles y tres demostrado carcinogénica residues y casi veinte residues potencialmente capaces de alterar el sistema hormonal. 
+Una manzana de Brasil contiene restos de seis sustancias químicas incluing fungicida, prohibido en Francia. 
+Lo mismo se aplica a los frijoles de Kenya incluido en un almuerzo, en el que el estudio encontrado rastros de un poderoso insecticida prohibido en la Unión Europea. 
+En addiiton, filete picada, el atún en conserva y incluso baguette y un chicle que figuran los pesticidas y otros productos químicos. 
+Tapwater que figuran los nitratos y metilcloroformo. 
+Para la cena, el salmón bistec fue el más rico "," con 34 los residuos químicos e incluso la placa de plástico utilizada para la comida en un calentamiento de microondas, no está exento. 
+Según el estudio, el último riesgo para el consumidor en este contaminante "cóctel" probablemente infraestimar. 
+Por su parte, la Alianza Europea de Ecología, los Verdes proponen, en vista de la urgencia de la situación, la introducción de una moratoria en el uso de plaguicidas, a fin de frenar el crecimiento de las enfermedades de la civilización. 
+En julio, un estudio realizado por la Agencia Europea de Seguridad Alimentaria señaló la presencia de residuos de 365 diferentes pesticides identificado en las frutas y hortalizas que se consume en Europa incluso 76 de los cereales. 

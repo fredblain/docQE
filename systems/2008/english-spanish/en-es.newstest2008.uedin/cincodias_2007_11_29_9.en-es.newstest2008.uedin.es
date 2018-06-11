@@ -1,0 +1,6 @@
+Virgin planes para hacer con el norte de roca 42 000 euros millones de euros en tres años
+Los depósitos de roca del Norte han caído más de un 50% a eslovacas millones de libras (16,800 millones de euros) ya que fue en crisis de mediados de septiembre y hemos tenido que recurrir a la emergencia crédito del Banco de Inglaterra.
+En el momento en que necesita depósitos de más de 25 000 millones de libras esterlinas, una cifra que ha sido progresivamente en los últimos dos meses debido a la pérdida de sus clientes y a pesar de la garantía del cien por cien de ese dinero ofrecidas por el Gobierno y que mantenga hasta el final de la crisis.
+Virgin, que rebautizar la organización de su marca Virgin dinero, tiene que empezar una cuarta parte de los ingresos en los bancos británicos que están depositados en los próximos tres años para obtener estas se devuelvan 18.000 millones de libras restantes hasta alcanzar el objetivo de 30.000 millones de euros.
+El Grupo del magnate Richard branson, conocido por sus extravagantes campañas publicitarias en el Reino Unido, se propone el gasto 50 millones de libras (unos 70 millones de euros) anualmente sobre la publicidad y la comercialización de la investigación para alcanzar sus objetivos.
+A causa del Norte esta semana la asociación de Virgin, que incluye tres otras compañías, como su favorito a salvar de la quiebra.

@@ -1,0 +1,45 @@
+Data theft: This is how perfidiously hackers extort ransom money
+Programmers of extortion malware are currently targeting companies - with success.
+According to a recent survey of 540 companies in North America, the UK and Germany by Malwarebytes, the malware defence specialists, 40 percent of the companies surveyed had fallen victim to one, two, or several attacks involving extortion software in the past twelve months.
+In Germany, around 20 percent of the companies had already been targeted by a ransomware attack.
+40 percent of the victims willingly paid up the ransom demanded by the perpetrators so that they were able to use their systems and data that had been affected by the attack.
+According to Malwarebytes' observations, it is noticeable that perpetrators are tailoring their extortion software to attacks on corporate networks.
+If they are successful in that domain, the ransom money they can demand is significantly higher than it would be for private users.
+"We are currently seeing harmful software develop terrifyingly quickly," explains Malwarebytes' CEO, Marcin Kleczynski, in an interview with "Die Welt" newspaper.
+In 2008, most malware programmes were still focused on sending out adverts.
+Then perpetrators discovered extortion software.
+Private users were initially the target, but the shift to corporate attacks took place terrifyingly quickly over the past few months.
+Ransomware follows a simple pattern: Once activated on a user's computer, it seeks out files that have not been edited for a long time, like Word, Excel or database files, as well as image and video archives.
+The ransomware encrypts these files, and deletes the originals for good.
+Finally, the software presents the extortioner's demands.
+The victim has to transfer money - generally in the form of "Bitcoins", a cryptocurrency - to get the decryption code needed for the files.
+But while it's a personal photo database that's at play for private users, it's sensitive customer data or project databases needed for the continuation of projects that are the focus for companies.
+As a result, the damage from a ransomware hit is greater.
+22 percent of German companies affected reported that they had suffered a fall in turnover due to ransomware, 13 percent had to cease trading entirely, and in one instance, people's lives were put at risk.
+In Germany, several hospitals have already fallen victim to attacks, and their patients were placed under serious threat as a result of the loss of medical records.
+"We always tell victims not to pay up: that simply exacerbates the problem," explains Kleczynski.
+But 80 to 90 percent of companies who pay up get their files back.
+Faced with operations coming to a standstill, it is hard for managers to say no to the perpetrators' demands.
+Then again, the hackers know that, and do all they can to build up a good reputation.
+A recent study saw security researchers from F-Secure examine user interfaces and contact with extortioners. They came to the conclusion that perpetrators really do try to construct a kind of customer service system so that they can get more money.
+They explain to their victims via chat how to pay using Bitcoin, set up freely-accessible support websites, or decrypt sample files for free.
+And while private individuals are targeted for sums of a few hundred euros, companies sometimes have to bargain hard and pay out five-figure sums to get their files back decrypted.
+Faced with the potentially high and relatively risk-free profits from ransomware extortion, hackers are becoming more and more professional, splitting up their work, explains security expert Chester Wisniewski from antivirus provider Sophos: "An individual can write a ransomware program within about a week."
+However, it is more likely that three or four people will be involved.
+The programmers then sell their malware to the actual extortioners in the form of a set of software building blocks.
+Malware kits to date, including the malware itself, advice and additional tools, have been sold for a one-off fixed fee of between 1000 and 10,000 dollars.
+"The kits include an adapter tool so that smaller configurations can be constructed, and the appearance and branding can be changed," says Wisniewski.
+The extortioners then look out additional hackers to distribute the freshly prepared software between victims.
+We live in a service economy.
+So you just log into an underground forum, buy the set from a criminal, and task someone else with installing the software on as many PCs as possible.
+There's a payment made for every computer infected.
+"Normally, criminals then task spammers with distribution," explains Wisniewski.
+Now, many companies are aware of the risks of ransomware, and they are protecting their data better.
+More than 50 percent of companies' IT specialists in Maywarebytes' survey relied on using file back-ups and scanner software to beat ransomware.
+As a result, perpetrators are already trying out new strategies.
+"If simply encrypting files isn't enough of a threat to make an extortion request be granted, the perpetrators threaten to publish sensitive files instead, such as customer lists, or price calculations," explains Malwarebytes' CEO, Marcin Kleczynski.
+This means that the risk potential is much higher than before, depending on the type of file.
+In the future, perpetrators will be able to focus themselves on brand-new targets within the internet of things.
+At the Defcon hacker conference, security researchers demonstrated how they could take control of a thermostat connected to the internet.
+In the midst of winter, many victims would pay a ransom to have their blocked heating turned back on.
+In the future, if hackers switch off an entire production line in a factory instead of someone's heating, ransomware could also be a issue in Industry 4.0.

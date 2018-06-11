@@ -1,0 +1,13 @@
+Bush snatches un acuerdo entre israelíes y palestinos  
+El Presidente George Bush anunció, en la apertura de la conferencia de paz internacional convocada por él el martes en Anápolis, de Maryland, que israelíes y palestinos, por fin, había llegado a un acuerdo sobre una declaración conjunta.  
+Él dijo que el Primer Ministro israelí, Ehud Olmert y el presidente palestino Mahmoud Abbas acordó comenzar negociaciones inmediatas para encontrar una solución definitiva del 60-year-old disputa entre sus dos personas.  
+En la presencia de los dos hombres, Bush ha prometido hacer todo lo posible para ayudarles a la conclusión de un "tratado de paz" antes de finales de 2008.  
+Entretanto, los palestinos han a demoler las infraestructuras "terroristas" e Israel ha para detener las actividades de asentamiento, declaró Bush, recordándoles a ambas partes de sus obligaciones hacia la paz "hoja de ruta" han aceptado en 2003.  
+El jefe de la Casa Blanca subrayado que las negociaciones entre Israel y la Autoridad Palestina presidida por Abbas tendría el objetivo de "la celebración de un tratado de paz la solución de cualquier asunto pendiente, sin excepción, temas centrales incluían".  
+Este término abarca las tres espinosos problemas en el corazón de la polémica entre israelíes y palestinos: las futuras fronteras de Palestina, el estatuto de Jerusalén y el destino de los refugiados árabe expulsados de sus hogares en el actual Estado de Israel durante el conflicto de 1948.  
+Hablando después de que el presidente estadounidense, Abbas ha insistido en el futuro "global y profunda de las negociaciones" que se basa en una reglamentación, mencionando entre otros "Jerusalén, los refugiados, las fronteras, los asentamientos, el agua y la seguridad".  
+A su vez a hablar, Olmert se comprometió a futuro "y" negociaciones directas y continua a hacer un esfuerzo para poner fin a ellos en 2008.  
+Bush fijado al final de 2008 el plazo de aplicación de su "visión de dos Estados coexistido" de Israel y Palestina.  
+Arabia Saudita reveló que se aseguró un compromiso de Bush antes de decidir a participar en la conferencia.  
+Charged por todos conutries árabe, Arabia Saudí, cuya participación en Annapolis es un éxito de Washington, es el origen de un plan que propone la paz a Israel a cambio de sus propios territorios ocupados durante la guerra de 1967, East-Jerusalem incluidos.  
+Annapolis marca "una encrucijada en la historia de Oriente Medio, en particular porque se enfrenta a las raíces del conflicto y sus aspectos centrales", dice el Príncipe Saud en su entrevista con un periódico árabe.  

@@ -1,0 +1,4 @@
+El fiscal público del balcano 
+Carla del Ponte ha sido ocho años persecución los criminales de guerra de los Balcanes implacablemente de la oficina del tribunal Penal del fiscal público para la Yugoslavia de ex, establecido en la Haya. 
+Su mandato termina al final del año y Carla irá con el sabor bittersweet, porque la gente degüella responsable del Srebrenica's - donde el musulmán de 8,000 Bosnians murió, el general de ex Ratko Mladic y el Karadzic Radovan de líder de ex Bosnian Serb, están todavía en grande. 
+Sus nombres están en la lista de la cual el documental de suizo, producido por Marcel Schüpbach, quita su título, "lista de Carla's" (2006, no se liberó en España), que tiene el paso de una policía thriller y sigue enjuiciar el trabajo del fiscal de suizo público a Nueva York a los criminales de huida de Belgrade y presionar a los gobiernos preocupados para fortalecer el sitio. 

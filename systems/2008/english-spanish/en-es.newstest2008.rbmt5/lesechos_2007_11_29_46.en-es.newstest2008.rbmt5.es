@@ -1,0 +1,10 @@
+El EU y la India están dispuestos a alcanzar un acuerdo de libre cambio en 2008
+Actualmente, los alcances indoeuropeos comerciales bilaterales ya casi 60 euros de los milliards por año.
+El EU es el socio que negocia principal de la India y representa el 18% de su comercio exterior.
+El EU y la India esperan firmar un acuerdo de libre cambio en 2008, explicado la comisión europea para Peter comercial Mandelson y sus contrapartes indias Kamal Nath.
+Los ministros para Affaires extranjero del EU dieron a la Comisión de las Comunidades Europeas la lluvia libre a entrar en negociaciones en abril, para firmar un acuerdo de libre cambio (CERVEZA INGLESA) con la India, el Sur-Corea y la asociación de las naciones asiáticas surorientales (la Asociación de Naciones del c@sureste Asiático). El comercio indoeuropeo bilateral alcanza (?) año normal de ya casi 60 euros de los milliards.
+El EU es el socio que negocia principal de la India y representa el 18% de su comercio exterior.
+El EU es también su inversionista extranjero importante, pero la India es solamente el 9no socio del comercio del EU, según datos de la Comisión de las Comunidades Europeas.
+"un pacto del libre cambio mejorará considerablemente ambas economías" y la "India mejoraría su acceso a un comercio de 450 millones que el alcance europeos" justifica Peter Mandelson.
+Europa representa a comandante o el segundo comercio para todos los primeros diez productos exportados por la India, indica a comisión europea. El asiático y los gigantes europeos intercambian cada año "47 mercancías de los milliards" y "diez euros de los milliards de servicios", declarados esta semana Danièle Smadja, líder de la Comisión de las Comunidades Europeas en Nueva Deli, expresando su pesar porque el comercio bilateral "todavía no ha alcanzado su potencial". El EU y la India satisfarán el viernes para su octava cumbre diplomática en Nueva Deli, en la presencia del primer ministro Manmohan Singh y el presidente de la Comisión de las Comunidades Europeas José Manuel Durao Barroso.
+(Fuente AFP)

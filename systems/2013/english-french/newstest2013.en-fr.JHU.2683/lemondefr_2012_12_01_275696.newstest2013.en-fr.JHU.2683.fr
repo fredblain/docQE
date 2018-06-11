@@ -1,0 +1,50 @@
+Avec bitcoin, salaires et vendre sans les banques
+C'est tout le contraire de l'échange monétaire actuelle, basée sur les banques centrales, a identifié les transactions et la transformation des redevances entre les parties concernées.
+En outre, comme souvent dans ces technologies, une vision politique est palpable: la conviction que l'actuel système monétaire, bancaire composé de monopoles, entraîne des crises financières.
+En fait, bitcoin, inventé par satoshi nakamoto (un pseudonym), est aussi une monnaie virtuelle (mais convertible en dollars, euros) et un échange protocole sécurisé comme bittorrent peer-to-peer permettant l "échange de fichiers.
+Environ 200 000 transactions ont été enregistrées par 15 000 ordinateurs sur le réseau.
+Près d'un millier de sites web conviendra-t-elle bitcoins comme les dons ou moyens de paiement.
+Le taux de change bitcoin, après avoir atteint un pic de 30 dollars (23 euros) en juin 2011, a chuté de 2 dollars cinq mois plus tard, de retour aujourd'hui autour d'une dizaine de dollars (les taux sont répertoriées sur le site bitcoincharts.com).
+Rien de très impressionnant, par rapport aux transactions mondiales dans une véritable monnaie ou des produits financiers.
+Cependant, la Banque centrale européenne (BCE) a pris un intérêt en monnaie virtuelle dans un rapport sur la question publié en octobre.
+Il décrit bitcoin comme "la monnaie virtuelle", "la plus réussie en concurrence avec le dollar ou l'euro" et "similaire aux monnaies conventionnelles".
+Bitcoin diffère des autres types de monnaie virtuelle comme "crédits", utilisé pour progresser dans un jeu vidéo qui vous gagner en jouant ou que vous pouvez acheter (et parfois en retour de change).
+Le réseau social Facebook a également mis au point ce type de système.
+Mais, À chaque fois, une autorité centrale des contrôles et gère les échanges.
+Avec bitcoin, tous nuds dans le réseau sont les deux gardiens du livre de comptes, comptes, les émetteurs de devises, et les acheteurs et les vendeurs.
+Comment fonctionne le réseau?
+Chaque transaction entre deux utilisateurs est effectivement réalisées entre deux adresses électroniques comme avec un courrier électronique.
+Sauf que l'utilisateur peut choisir une adresse différente pour chaque paiement, afin de garantir l'anonymat.
+Un ensemble d'informations associées avec cette transaction est signé par voie électronique par un système de cryptage dual-key.
+Le réseau peut donc vérifier l'authenticité de la transaction.
+En utilisant le contenu du dossier, il est également possible de faire en sorte que les échangé bitcoins existent dans le livre des comptes publics, diffusées dans l'ensemble du réseau.
+L'étape clé est entrée dans la nouvelle transaction dans le livre.
+Elle passe par la résolution d'un défi mathématique délivré aux ordinateurs, et le vainqueur, une sorte de banquier central intérimaire, aura le privilège d'ajouter cette ligne supplémentaire.
+Il s'agit d'un dossier hashing phase, autrement dit la transformation d'un grand dossier en plus courtes et unique empreinte numérique.
+Les ordinateurs "prendre" la nouvelle transaction et y ajouter un certain nombre, alors tout inventer "travers".
+L'objectif étant de trouver le nombre qui donne une empreinte spéciale (beaucoup de zéros au début).
+Une fois ce nombre a été trouvé, l'autre nuds peut facilement vérifier que c'est la bonne.
+La transaction est ensuite indestructibly liées aux opérations la chaîne de tous les autres, toute modification modifierait l'empreinte.
+Si un utilisateur a voulu escroquer par payer deux fois avec le même argent très vite (moins de dix minutes), seul l'un des deux transactions serait validée par le réseau - les autres resteraient orpheline car les deux sont différents imprints.
+L'ordinateur qui résout le défi gagne 50 bitcoins.
+Pour éviter l'inflation, ce prix est régulièrement divisée par deux, probablement d'ici la fin de l'année 2012.
+Le nombre de bitcoins en circulation est donc limitée de 21 millions d'euros, mais ils sont divisibles dans les cent millionième, ce qui laisse une certaine marge...
+La difficulté du défi est également évoquée avec chaque augmentation de puissance informatique.
+La vie du réseau a connu des hauts et des bas.
+Les sites Internet fournissant des services pour bitcoin ont été attaqués et bitcoins dans les dépôts volés.
+"Le vide juridique utilisé n'est pas le protocole elle-même", déclare pierre noizat mes réponses les rassureront, qui vient de lancer paymium, une véritable monnaie de paiement entreprise qui utilise le réseau bitcoin.
+La BCE souligne également les possibilités de blanchiment d'argent en utilisant ce service anonyme.
+Mais l'argent a également cette faiblesse.
+Acteurs majeurs comme Wikipedia refuser les dons de cette nature.
+D'autres, comme la plate-forme wordpress blog, les accepter.
+Récemment, DJA Shamir et dorit RON, de l'Institut Weizmann en Israël, a analysé les livres comptables et a montré que près de 80% des bitcoins ne circulent pas.
+En novembre dernier, "énorme sell-offs" ont été lancés.
+"Trente mille dollars ont été échangés" se réjouit Jon holmquist, qui travaille pour coinabul, qui convertit bitcoins de l'or.
+Pierre noizat, également auteur d'un ouvrage pédagogique de cette monnaie, a beaucoup de confiance dans le potentiel de cette technologie réseau comme une transaction.
+Son système, paytunia, est l'équivalent d'une carte de crédit (en argent) ou un réel contactless le paiement par mobile, mais il utilise bitcoin de valider les transactions, qui sont donc moins cher.
+Aussi l'utilisateur gère son identité et peuvent donc être anonyme.
+Le système, c'est facile de mettre en œuvre par des marchands, qui n'ont pas besoin d'installer de nouveaux terminaux ou des logiciels.
+Il suffit de fournir une adresse qu'un téléphone peut "photographie et reconnaître", déclare pierre noizat, qui confirme qu'il a des milliers d'utilisateurs.
+Il y a un mouvement général de réévaluer les systèmes hiérarchiques qu'elle pour des systèmes plus horizontal.
+"Il faudra du temps pour bitcoin pour devenir solidement établi, mais 2013 pourrait être un tournant", a-t-il prédit.
+Dans son rapport, la BCE affirme qu'elle réévaluera les différents risques, actuellement considéré comme élevé, en cas de succès de la monnaie.

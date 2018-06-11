@@ -1,0 +1,24 @@
+Intelligentes Auto imitiert den Flug der Hummel 
+Was wäre die beste Methode zur Entwicklung neuer Technologien zur Unfallvermeidung, wenn nicht die Hindernis-Sensoren aus der Natur zu imitieren? 
+Zum Beispiel die der Bienen. 
+Bei der CEATEC in Japan wurde ein erstaunliches Projekt vorgestellt, bei dem die Nissan-Ingenieure von Hummeln bei der Erschaffung neuer Unfall vermeidender Systeme inspiriert wurden. 
+In Zusammenarbeit mit der Tokioter Universität hat Nissan das von Autorobotern gesteuerte biomimetische System vom Typ BR23C gebaut, ein Mini-Auto, ausgestattet mit den Eigenschaften der Bienen, mit dem Ziel, die Entwicklung eines Systems zu unterstützen, das jegliche Kollisionen vermeidet. 
+Im Flug bildet jede Biene ihren eigenen, ovalen "Privatbereich", der unserem eigenen "Schutzschild" sehr ähnlich ist, sagte Kazuhhiro Doi, Produktmanager für Technologie-PR und Forschungsentwicklung, bei der Ausstellung. 
+Das zusammengesetzte Auge der Biene, das in jede Richtung und in einem Winkel von über 300 Grad sehen kann, spiele dabei eine wichtige Rolle. 
+Um die Funktion des zusammengesetzten Auges nachzuahmen, griffen die Forscher die Idee des lasergesteuerten Abstandsmessers auf. 
+Dieser identifiziert Hindernisse vor dem BR23C in einem Gesichtsfeld von 180 Grad innerhalb von 2 Metern, berechnet ihre Entfernungen und sendet Signale an den Mikroprozessor an Board, der sofort den kollisionsvermeidenden Prozess einleitet. 
+Das Hindernis wird in Sekundenbruchteilen registriert, und der Autoroboter ändert sofort den Kurs, ähnlich der Bewegung der Bienen, indem er die Reifen um den entsprechenden Winkel dreht. 
+Im Gegensatz zu bisherigen Systemen findet dieses Manöver rein instinktiv statt. 
+"Wenn es nicht so wäre, könnte der Autoroboter nicht schnell genug reagieren, um den Hindernissen auszuweichen", erklärte Toshiyuki Andoh, Leiter des "Mobility Laboratory" und des Autoroboter-Projektes. 
+Das System muss instinktiv und sofort reagieren, da diese Technologie dem innersten und verwundbarsten Teil des Schutzschildes entspricht - einer Schicht, innerhalb der Unfälle derzeit noch als unvermeidbar gelten. 
+Der gesamte Prozess muss das Verhalten der Bienen widerspiegeln, wenn sie anderen Bienen ausweichen. 
+Und das muss im Bruchteil einer Sekunde ablaufen. 
+Allerdings kann das Ausweichen, im Gegensatz zu den Bienen, nicht hinauf, hinunter, oder gar diagonal erfolgen - es kann nur zweidimensional sein, und zwar nur in Richtung der Wendbarkeit der Reifen. 
+Während den Bienen hier unendlich viele Möglichkeiten offen stehen, um anderen Bienen auszuweichen, konnten sich die Forscher beim Autoroboter nur der Drehbewegung, beziehungsweise des Beschleunigens und Abbremsens bedienen. 
+Das BR23C enthält Lithium-Polymerbatterien, die leichter und energieeffizienter sind, und daher eine längere Lebensdauer haben, als herkömmliche Lithium-Ionenbatterien. 
+Andoh erklärte, es kommt auf die instinktive, intelligente Reaktion an, und weniger auf die Verarbeitung der Daten, und noch weniger auf die Fähigkeit, diese zu speichern. 
+Dieses Gerät muss pro Sekunde lediglich einige Inputs verarbeiten und entsprechend auf sie reagieren. 
+Es muss diese nicht speichern, oder anhand früherer Manöver eine intuitive, logische Reaktion produzieren, sodass es laufend bloß eine Handvoll KB Memory in Anspruch nimmt. 
+Es bedarf keiner Gigabyte- und Megabyte-schwerer Memories. 
+Dies ist der erste Schritt in der Entwicklung der sofortigen Kollisionsvermeidungstechnologie, die nach Einschätzung von Nissan innerhalb der nächsten zehn Jahre serienmäßig in Produktion sein wird. 
+Eine weitere Anwendung könnte die Technologie bei der GPS-Satellitennavigation finden, indem es den Autofahrer bewusst um Hindernisse herum lenkt und ihn so ans Ziel führt. 

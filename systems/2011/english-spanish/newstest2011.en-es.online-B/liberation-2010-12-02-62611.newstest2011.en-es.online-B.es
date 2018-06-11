@@ -1,0 +1,15 @@
+Alerta sobre los plaguicidas consumidos por los niños. 
+Según un estudio publicado o el miércoles por la asociación de las Generaciones Futuras (formelry Movimiento por los Derechos y el Respeto de las Generaciones Futuras), un niño de 10 años consume en un día 81 sustancias químicas diferentes. 
+La asociación, que prevé que sus resultados no poseen, en vista del pequeño número de muestras analizadas, cualquier valor estadístico significativo, pero ilustran el problema de que se trate, ha comprado en spermarkets del Oise y de París, entre julio y septiembre, el canasta de productos alimenticios en general, se consume en cuatro comidas por un niño de diez años. 
+Estas comidas inclduing las recomendaciones oficiales, cinco piezas de frutas y hortalizas frescas, tres productos lácteos y 1,5 litros de agua, así como delicias, fueron examinadas por los laboratorios de investigación clínicos relacionados con los productos químicos, pesticidas, metales pesados ​​y otros contaminantes. 
+El balance es impresionante: 81 sustancias químicas que incluyen 42 clasificados como potencialmente o probablemente cancerígeno y cinco clasificadas como carcinógenas definitivamente, así como 37 sustancias capaces de inducir trastornos endocrinos, de acuerdo con estudios realizados por varias instituciones como el Organismo Internacional de Investigaciones Oncológicas. 
+De acuerdo con el Associaiton, aunque, en casi todos los casos, los límites legales de cada sustancia química no se superen, nuestra investigación muestra que la realidad de la exposición de los consumidores a contaminantes potencialmente cancerígenos es preocupante. 
+Para el desayuno, la mantequilla y té con leche solo contienen más de diez posibles y tres residuos cancerígenos probados y residuos de casi veinte potencialmente capaces de alterar el sistema hormonal. 
+Una manzana de Brasil contiene trazas de seis sustancias químicas incluing un fungicida, prohibida en Francia. 
+Lo mismo se aplica a los granos de Kenia incluidos en un almuerzo, en los que el estudio encontró restos de un potente insecticida prohibido en la Unión Europea. 
+En addiiton, carne picada, el atún en lata e incluso una barra de pan y goma de mascar contiene pesticidas y otros químicos. 
+Agua del grifo contiene nitratos y cloroformo. 
+Para la cena, filete de salmón era "más ricos", los residuos químicos, con 34 y hasta la placa de plástico utilizado para calentar la comida en el microondas, no exentos. 
+Según el estudio, el riesgo final para el consumidor en este "cóctel de contaminantes" es probablemente subestimada. 
+Por su parte, la Alianza Europea de Ecología - los Verdes propuso, en vista de la urgencia de la situación, la introducción de una moratoria en el uso de plaguicidas, con el fin de detener el crecimiento de las enfermedades de la civilización. 
+En julio, un estudio realizado por la Agencia Europea de Seguridad Alimentaria señaló que la presencia de residuos de 365 pesticidas diferentes identificados en las frutas y hortalizas que se consume en Europa, incluyendo 76 en los cereales. 

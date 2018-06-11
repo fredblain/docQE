@@ -1,0 +1,30 @@
+Los fiscales no cobrar el senador pabellón 
+Los fiscales del Departamento de Justicia han despejado el senador John pabellón de acusaciones penales derivados de su asunto con un antiguo ayudante de campaña y sus esfuerzos con vistas a grupos de trabajo de la mujer, el senador del marido de abogados anunció el miércoles. 
+La decisión termina la más grave amenaza legales a los que se enfrenta el pabellón, la nevada republicano que era considerado un posible candidato presidencial republicano en 2012 hasta el escándalo de su asunto titulares nacionales adoptadas el año pasado y dañado su carrera. 
+La oficina del Sr. pabellón dijo que era "sin duda me complace" por la decisión, a la que siguió una investigación yearlong. 
+El senador todavía puedan imponerles sanciones disciplinarias por el Senado comité de ética. 
+El Sr. "pabellón de abogados dicho el Departamento de Justicia había" nos informó de que el senador pabellón ya no es un objetivo de su investigación y que no tiene planes para hacer cualquier cargos contra él en este asunto. " 
+El Ministerio de Justicia, se negó a hacer comentarios sobre el caso. 
+El anuncio llegó como algo de una sorpresa para muchos abogados de ética fuera del Departamento de Justicia, quien dijo que parecía ser una importante prueba que indique que el Sr. pabellón puede haber conspirado para violar un criminal prohibición de cabildeo federal. 
+Las entrevistas, el correo electrónico y otros documentos primera documentadas en octubre de 2009 en el New York Times ha indicado que el Sr. pabellón habían ayudado Douglas Hampton, que fue uno de sus asistentes, asegurar la presión lucrativo trabajar para ganar el silencio del señor Hampton y su esposa, Cynthia, sobre el asunto de la senadora con ella. 
+La señora Hampton una vez fue tesorera de la campaña de pabellón. 
+El contacto con pabellón de un número de representantes políticos para encontrar trabajo para el Sr. Hampton y entonces defendido en su nombre que hubieran contratado el Sr. Hampton presionar para que ellos, según los documentos y las entrevistas. 
+Porque el Sr. Hampton recientemente había sido un asistente del señor pabellón, fue prohibida por ley de cabildeo su anterior empresario o el Senado como un conjunto de un año. 
+Los expertos en ética dicho la insólita acuerdo entre el Sr. pabellón y señor Hampton, que fueron los amigos cercanos antes del asunto, apareció en contradicción con la llamada puerta giratoria prohibición de cabildeo. 
+De las pruebas de que se haya hecho público ", que parecía ser una prima facie caso de una conspiración para violar, y sustancial violación de la puerta giratoria estatuto", dijo Stanley marca, un abogado de Washington que se especializa en la defensa de los clientes investigados por el Gobierno. 
+Mientras funcionarios del Departamento de Justicia se negó a explicar el razonamiento detrás de la decisión en el caso de pabellón, señor marca y otros ética abogados dicho el departamento aparecido recelosos de asumir las persecuciones políticas después de una serie de reveses destacado por su integridad pública, incluida la decisión del año pasado de anular la acusación contra el ex senador Ted Stevens entre acusaciones de mala conducta acusadores. 
+Los fiscales federal "son claramente pistola tímido", dijo Melanie sloan, el director ejecutivo de los ciudadanos por la responsabilidad y la ética en Washington, un grupo de promoción que varias quejas contra el Sr. pabellón en el caso. 
+"Este básicamente dice altos funcionarios de gobierno puede asumir ahora las leyes no se aplican a ellos", añadió. 
+Paul coggins, Sr. "pabellón de abogado, dijo en una entrevista que recibió una llamada de teléfono de un departamento de justicia fiscal el lunes y un seguimiento al día siguiente, diciéndole que el servicio no es buscar cargos contra su cliente. 
+El Sr. "pabellón de equipo de defensa han estado colaborando con fiscales en intentar convencerlos de que el senador, como su oficina reiteró en una declaración el miércoles", actuado de conformidad con la ley ". 
+Señor coggins declinado aclarar los argumentos jurídicos que hizo a los fiscales. 
+"Yo no soy cómodos entrar en los detalles de mis conversaciones con el Ministerio de Justicia, excepto para decir que creemos que hicieron la decisión correcta", dijo. 
+El mes pasado, la Comisión federal electoral decidido eliminar una investigación sobre una queja por el Grupo de ética declarando que un pago 96.000 dólares del "pabellón de los padres a la hamptons violó el derecho electoral federal. 
+La Comisión electoral dijo que no tenemos pruebas suficientes para demostrar el dinero fue nada excepto un regalo. 
+Una empresa de la que el señor pabellón contribuido el Sr. Hampton encontrar trabajo de cabildeo fue N.V. energía, una importante empresa Nevada, que durante mucho tiempo había apoyado el senador. 
+Un correo enviado en diciembre de 2008 demostró que después de la compañía ingresará el Sr. Hampton sobre como un grupo de presión, el Jefe del Estado del pabellón, John López, comunicarse con el Sr. Hampton y le dije que era "golpear" el departamento del interior en una cuestión en disputa. 
+Señor pabellón también asistí a un almuerzo con el Sr. Hampton y otro Nevada cliente, allegiant, aéreo y el Secretario de transporte para crear una reunión sobre el de la compañía aérea nombre después había contratado el Sr. Hampton a hacer el trabajo de los grupos de interés. 
+Cuando la noticia del asunto surgió por primera vez el año pasado, el Sr. pabellón se disculpó a sus electores y dimitió de su cargo como líder republicano fourth-ranking en el Senado. 
+Después de mantener un perfil bajo durante muchos meses, señor pabellón dijo a los periodistas hace dos semanas que él planeaba presentarse para un tercer mandato en el Senado. 
+Al anunciar que el Sr. pabellón ya no era el objetivo de una investigación penal, su portavoz, Jennifer Cooper, dijo el senador espera el comité de ética rápidamente seguir el ejemplo del Departamento de Justicia y poner fin a su investigación. 
+"El senador pabellón espera continuar su trabajo en nombre de los ciudadanos de Nevada", dijo. 

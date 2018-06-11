@@ -1,0 +1,30 @@
+Fiscales no cobran el senador Ensign 
+Fiscales del Departamento de Justicia han desactivado al senador John Ensign denuncias penales derivados de su relación amorosa con un asesor de la campaña anterior y sus esfuerzos para el trabajo de lobby segura para el marido de la mujer, los abogados del senador anunciaron el miércoles. 
+La decisión termina la más grave amenaza legal que enfrenta al Sr. alférez, el republicano de Nevada que fue considerado a un posible candidato presidencial republicano en 2012 hasta el escándalo de su aventura hizo los titulares nacionales el año pasado y había dañado su carrera. 
+Oficina del Sr. alférez dijo que "ciertamente complacido" por la decisión, que siguió a una investigación anual. 
+El senador todavía podría enfrentarse a una acción disciplinaria por el Comité de ética del Senado. 
+Los abogados del Sr. alférez dijeron el departamento de Justicia había "nos ha informado que el senador Ensign ya no es un objetivo de su investigación y que no tiene planes de presentar cualquier cargos contra él en este asunto". 
+El departamento de justicia se negó a comentar el caso. 
+El anuncio fue algo de una sorpresa para muchos abogados de ética fuera del Departamento de justicia, que parece haber pruebas significativas para indicar que el Sr. alférez puede han conspirado violar una prohibición penal federal de cabildeo, dijo. 
+Entrevistas, correo electrónico y otros documentos divulgados primero en octubre de 2009 en The New York Times indican que el Sr. alférez había ayudado a Douglas Hampton, quien fue uno de sus ayudantes, trabajo seguro de cabildeo lucrativo para ganar el silencio del Sr. Hampton y su esposaCynthia, sobre el asunto del senador con ella. 
+Sra. Hampton una vez sirvió como tesorero de una campaña de alférez. 
+Sr. alférez contactó con un número de partidarios políticos en busca de trabajo para el Sr. Hampton y, a continuación, defendió en su nombre después de que habían contratado a Hampton Sr. presionar para ellos, de acuerdo a los documentos y entrevistas. 
+Porque el Sr. Hampton había sido recientemente un Ayudante para el Sr. alférez, que fue prohibido por la ley de cabildeo su antiguo empleador o el Senado como un todo un año. 
+Expertos en ética dice la disposición inusual entre el Sr. alférez y Sr. Hampton, que eran amigos antes el asunto, en contradicción con la llamada puerta giratoria cabildeo prohibición. 
+De las pruebas que se han hecho públicas, "parece haber un caso prima facie de una conspiración para violar y substancial del Estatuto, en puerta giratoria", dijo Stanley marca, un abogado de Washington que se especializa en clientes defensoras investigados por el Gobierno. 
+Mientras que funcionarios del Departamento de justicia se negó a explicar los motivos de la decisión en el caso de la bandera, el Sr. marca y otros abogados de ética dijeron que el Departamento apareció cuidarse de tomar sobre persecuciones políticas después de una serie de reveses de alto perfil para su sección de integridad pública, incluida la decisión el año pasado a soltar la acusación contra el ex senador Ted Stevens en medio de acusaciones de mala conducta fiscal. 
+Fiscales federales "son claramente tímido, arma", dijo Melanie Sloan, el director ejecutivo de ciudadanos con responsabilidad y ética en Washington, un grupo de promoción que trajo varias denuncias contra el Sr. enseña en el caso. 
+"Esto básicamente dice que altos funcionarios del Gobierno ahora pueden asumir las leyes no se aplican a ellos", agregó. 
+Paul Coggins, abogado de plomo del Sr. alférez, dijo en una entrevista que recibió una llamada telefónica de un fiscal del Departamento de Justicia el lunes y un seguimiento al día siguiente, diciéndole que el Departamento no buscaba cargos contra su cliente. 
+Sr. alférez del equipo de defensa ha venido cooperando con los fiscales para intentar convencerles de que el senador, como su Oficina reiterada en un comunicado el miércoles, "actuado de conformidad con la ley". 
+Sr. Coggins declinó precisar los argumentos jurídicos que hizo a los fiscales. 
+"No estoy cómodo entrar en los detalles de mis conversaciones con el departamento de justicia, salvo para decir que pensamos que tomaron la decisión correcta", dijo. 
+El mes pasado, la Comisión Federal Electoral decidió abandonar una investigación sobre una denuncia independiente por el grupo de ética alegando que un pago de 96.000 dólares de los padres del Sr. enseña a la ley de elecciones federales violados Hamptons. 
+La Comisión Electoral dijo que no tenía suficiente evidencia para probar que el dinero era nada excepto un regalo. 
+Una empresa para que el Sr. alférez ayudó a Hampton Sr. encontrar trabajo de lobby fue energía NV, una importante empresa de Nevada que ha apoyado durante mucho tiempo el senador. 
+Un correo electrónico enviado en diciembre de 2008, mostró, después de que la empresa había provocado a Hampton Sr. como un cabildero, Sr. alférez del jefe de gabinete, John Lopez, comunicarse con el Sr. Hampton y le dijo que él fue "golpear" el departamento de Interior sobre un tema en disputa. 
+Sr. enseña también asistió a un almuerzo con el Sr. Hampton y otro cliente de Nevada, Allegiant Air y llamado el transporte Secretario para organizar una reunión en nombre de la aerolínea después de que se había contratado a Hampton Sr. hacer trabajo de lobby. 
+Cuando la noticia del asunto primero surgió el año pasado, el Sr. alférez pidió disculpas a sus electores y dimitió de su puesto como el cuarto rango de líder republicano en el Senado. 
+Después de mantener un perfil bajo durante muchos meses, el Sr. enseña a los periodistas hace dos semanas que planeaba postularse para un tercer mandato en el Senado. 
+Al anunciar que el Sr. alférez ya no era el objetivo de una investigación criminal, su portavoz, Jennifer Cooper, dice que el senador espera el Comité de ética rápidamente sigan el ejemplo del Departamento de justicia y poner fin a su investigación. 
+"Senador Ensign espera continuar su trabajo en nombre del pueblo de Nevada", dijo. 

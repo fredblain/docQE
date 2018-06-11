@@ -1,0 +1,24 @@
+La voiture intelligente imite le voler d'un bourdon 
+Quel pourrait être un meilleur chemin avancer le développement de technologie de la prévention de l'accident qu'imiter les détecteurs de l'obstacle de nature? 
+Examinons des abeilles, par exemple! 
+Dans un projet surprenant qui est à CEATEC au Japon en cours, le bourdon a donné des ingénieurs à Nissan une allusion stratégique à comment concevoir la prochaine génération de systèmes de l'accident - action d'éviter. 
+Basé sur recherche du joint avec l'Université de Tokyo, Nissan a construit le BR23C - Type Biomimatic Voiture Robot Promenade. C'est un robotic voiture microscopique qui recrée des caractéristiques de l'abeille avec le but de produire un système qui prévient des collisions entièrement. 
+" Dans vol, chaque abeille crée son propre espace personnel en ovale qui en fait attentivement ressemble notre bouclier " de la sécurité, Kazuhhiro Doi dits marquent directeur de technologie, PR, recherche et développement. 
+La structure composée de l'oeil d'abeilles joue un rôle considérable qui rend les abeilles capable de voir dans toutes les directions à un angle de 300 degrés. 
+Pour recréer la fonction d'un oeil composé, les ingénieurs sont montés avec l'idée d'un inventeur de la gamme laser. 
+Cet appareil détecte des obstacles jusqu'à deux mètres dans un rayon de 180 degrés devant le BR23C loin, calcule la distance à eux et envoie un signal à un microprocesseur à bord qui est traduit dans action d'éviter de la collision à l'instant. 
+Il prend juste une fraction d'une seconde pour détecter un obstacle, et le robot de voiture à l'instant la direction des changements qui imite les mouvements d'une abeille en tournant ses roues à l'angle a eu besoin d'éviter une collision. 
+Une des principales différences de tout système courant est que la manoeuvre de l'action d'éviter est totalement instinctive. 
+" Si ce n'était pas donc, alors le robot de voiture ne serait pas capable de réagir assez rapide à éviter des obstacles, " dit Toshiyuki Andoh, directeur du Laboratoire de la Mobilité de Nissan et ingénieur du directeur du projet de la voiture du robot. 
+Il doit réagir instinctivement et à l'instant parce que cette technologie correspond au plus vulnérable et intérieur la plupart de la couche du bouclier de la sécurité, une couche dans qu'un accident est considéré inévitable actuellement. 
+Le processus entier doit refléter ce qu'une abeille fait pour éviter d'autres abeilles. 
+Il doit se passer dans le clin d'oeil d'un oeil. 
+Mais contrairement à une abeille, il ne peut pas dévier vers le haut ou vers le bas ou en diagonal, seulement dans deux dimensions et seulement dans la direction que les roues peuvent tourner. 
+Donc au lieu du nombre infini de chemins un bourdon peut éviter d'autres abeilles, ici seulement la fonction de la rotation, l'accélération et la décélération ont été appliquées comme moyens disponibles d'action d'éviter de la collision. 
+BR23C utilise des accumulateurs du lithium - polymère qui sont plus léger et ont une plus haute densité d'énergie qui - a comparé à la lithium - ion version - assure la plus longue vie. 
+D'après Andoh, ce qui est importante est la réaction instinctive intelligente, pas la capacité pour données qui traite et stockage. 
+L'appareil est supposé traiter seulement quelques entrées par seconde et réagir sur eux en conséquence. 
+Il n'y a aucun besoin pour entreposer les entrées et réagir par la logique intuitive a basé sur le manoeuvrant données antérieur, donc il alloue seulement quelques douzaine de kilo-octets de mémoire de façon continue. 
+Il n'y a aucun besoin pour gigaoctet ou mémoire de la dimension du méga-octet. 
+C'est le premier pas de développer la technologie de l'action d'éviter de la collision immédiate qui, d'après l'évaluation de Nissan, peut être construit dans les voitures série - produites dans 10 années. 
+Si connecter l'appareil au GPS satellite navigation système, une option de la candidature supplémentaire peut être travaillée dehors qui peut aider pour éviter des barrières de route en conduisant. 

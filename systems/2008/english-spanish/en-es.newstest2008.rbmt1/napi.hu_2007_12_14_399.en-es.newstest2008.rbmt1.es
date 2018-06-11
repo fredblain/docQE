@@ -1,0 +1,17 @@
+La venida de crisis estatal, dice Gallup 
+El apoyo Fidesz subió de repente de modo significativo a principios del mes de diciembre después de que un periodo extenso de justo sosteniendo al suyo. Esto le da la base de apoyo más fuerte que ha visto desde 2002, mientras Gallup señala el apoyo para los socialistas a un auto-tiempo bajo del por ciento 13. 
+Entre la gente con una preferencia de partido clara, dada el fuerte, resuélvase de votantes de oposición, el apoyo Fidesz excede la marca de dos tercios (por ciento 71), mientras MSZP ha acumulado pero quinto del un (por ciento 20). 
+El sondeo pone números MDF y SZDSZ debajo del umbral es necesario para llegar dentro del parlamento; acumulación sobre el porcentaje de apoyo 2 cada uno dentro de la muestra completa. 
+Entre la gente con las preferencias de partido claras que dice votarían definitivamente, el apoyo para estos dos partidos es el por ciento 3 cada uno. 
+El humor público acerca de la economía ha conseguido hundirse aun más bajo que el final inferior de piedra midió. La proporción que cree la economía del país está es un por ciento 41 sin precedente en los pozos, mientras otro por ciento 46 piensa justamente que esté en forma mala. 
+Siguiendo esperanzas más altas en la primavera y el verano, la gente se trata más pesimista otra vez de las perspectivas financieras de sus familias. 
+Durante próximo año, sobre la mitad del público espera que cosas se empeoren y únicamente uno en diez predice una mejora. 
+En el sondeo de diciembre de Gallup's, más respondents que alguna vez antes - por ciento 71 - dijo que el primer ministro hacía a un pobre más bien que un buen trabajo. 
+El el trece por ciento de la muestra dijo que confió o confió muy Ferenc Gyurcsány, mientras el por ciento 38 tuvo confianza en Viktor Orbán. 
+El cincuenta y cuatro por ciento dijo que no confiaron la p.m., mientras el por ciento 27 dijo que desconfiaron al presidente Fidesz. 
+Un indicador de la situación política es la proporción de la gente que cree que se puede manejar la insatisfacción con el primer ministro sin tener que meter a un nuevo gobierno en la oficina. 
+Siguiendo el amotinamiento el octubre pasado, el por ciento 35 de pensamiento público que sería el más mejor guardar al gobierno y p.m. en la oficina. Por ahora, esa proporción ha free cáido al por ciento 20 y la mayoría relativa (por ciento 33) cree que se deberían celebrar las nuevas elecciones. 
+Cuando se interroga sobre interés en un referéndum, el por ciento 60 de la muestra dijo que elegiría definitivamente uno, mientras otro por ciento 20 dijo que iría lo más probablemente a a los sondeos. 
+En comparación, únicamente el por ciento 55 dijo que elegiría definitivamente "elecciones parlamentarias si se debía deben sostener esto domingo" mientras otro por ciento 15 dijo que lanzaría lo más probablemente una papeleta. La determinación dada actual de votar, el referéndum es cierto ser válido. 
+el por ciento 74 de gente quiere revocar honorarios tuition, el por ciento 79 para desechar pagos de co por visitas de médico y el por ciento 84 quiere terminar por cargas de hospital diem. 
+Mirando elegirá los definitivamente únicamente las proporciones de la gente el referéndum que dice, encontramos que el por ciento 81 está en contra de los honorarios tuition, el por ciento 84 está en contra de pagos de co de médico y el por ciento 89 opone el hospital por diems. 

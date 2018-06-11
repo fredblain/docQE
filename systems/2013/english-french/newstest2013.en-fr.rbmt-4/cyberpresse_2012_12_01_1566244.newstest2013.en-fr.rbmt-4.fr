@@ -1,0 +1,42 @@
+Le boson d'Higgs révélé
+L'avis de la découverte probable du boson d'Higgs créait un vrai été dernier d'agitation, et avec la bonne raison.
+En effet, il est pensé que ce boson est partie du mécanisme responsable de la masse de tout dans l'Univers, rien que ça.
+Aussi lui est la dernière particule dont l'existence est prédite par le Modèle Standard - notre le mieux ou "moins pire" explication de la nature et du comportement de matière - mais lequel n'a pas encore été observé empiriquement.
+Mais pour des physiciens, il est encore non complètement sûr que ce soit vraiment l'Higgs.
+Nous connaissons sans une ombre un doute que c'est une nouvelle particule authentique, et ressemble grandement au boson d'Higgs prédit par le Modèle Standard.
+En plus, les nouvelles données dévoilées cette semaine à un grand Congrès de physique à Kyoto semblent confirmer cela, mais il y a encore des données insuffisantes pour être parfaitement sûr.
+Mais supposons que c'est vraiment l'Higgs, depuis que les possibilités d'être interprété mal semblent maigrissez, et voyez ce que c'est.
+Dans notre monde, il y a une loi mortellement inévitable qui déclare que deux choses ne peuvent pas se rencontrer au même endroit à la fois.
+Il n'y a aucune manière de casser cette règle - et n'essaye pas trop fort, vous deviendrez fou.
+Pourtant, même si la physique de particule est un monde très étrange, il résulte que cela ait aussi une loi du même genre : le principe d'exclusion de Pauli, que les états que deux particules ne peuvent pas occuper le même espace à la fois s'ils sont dans le même "quantum déclarent" - cet "état" consistant à peu près de certain de leurs caractéristiques.
+Basés sur cela, les physiciens classent des particules dans deux catégories.
+Dans un coin nous avons de bons citoyens appelés fermions, qui obéissent sagement au principe de Pauli.
+Pendant que se cachant dans l'autre sont les bosons, un groupe désagréable d'anarchistes qui ne respectent rien - à tous les événements, non ce principe, qui veut dire qu'ils peuvent en effet être trouvés dans le même endroit à la fois.
+Ces bosons sont alors divisés en deux groupes, d'après l'emplacement d'Aventure de Particule de Laboratoires de Berkeley (absolument extraordinaire, à propos) : mesons, que nous ne discuterons pas ici, et "particules de force" par lesquels les grandes forces de la nature sont propagées et auxquels le boson d'Higgs peut d'une manière ou d'une autre être raconté.
+Ces bosons, il doit être insisté ici, ne sont pas tous les bogues exotiques de ce type comme vous pourriez penser.
+En fait, si vous pouvez lire cet article, il est grâce à un boson extraordinairement banal : le photon, ou la "particule légère" qui est le "messager" de la force électromagnétique.
+Quand, en fait, une particule ayant un courant électrique accélère ou change direction, cela "dérange" le champ électromagnétique dans cet endroit spécifique, plutôt aimer un caillou jeté dans un étang.
+Ce "dérangement" produit une vague électromagnétique (de la lumière, infrarouge, ultra-violette etc.), et cette vague n'est rien d'autre qu'un photon - et ainsi un des bosons "de transporteur de force".
+Champ plus stable
+Le même s'applique au boson d'Higgs, avec la différence qu'il est un autre champ, le champ d'Higgs, lequel doit "être dérangé" pour que le boson apparaisse.
+Maintenant, ce champ d'Higgs est beaucoup de, beaucoup plus stable que le champ électromagnétique ; pour l'exciter, c'est nécessaire d'accomplir très, niveaux d'énergie très élevés, plutôt comme un étang congelé qui aurait besoin d'une roche très grande pour froisser la surface.
+Qu'est pourquoi un accélérateur de particule immense comme celui à CERN - le Gros Hadron Collider est un anneau avec une circonférence de 27 km ! - est eu besoin accomplir ces niveaux d'énergie.
+L'analogie avec le champ électromagnétique est à nouveau utile pour expliquer le rapport entre l'Higgs et la masse.
+En fait pas toutes les particules, ou tous les matériels, agir avec le champ électromagnétique.
+Quelques-uns, comme les aimants, font ainsi, mais autres fait non - un morceau de papier, par exemple, jamais ne restera avec un réfrigérateur.
+Et de même, pas toutes les particules agissent avec le champ d'Higgs : ceux qui ont donc masse, pendant que les autres (comme le photon) font non.
+Maintenant, quoi est lui que toute cette recherche "peut apporter" ? demande Ms Plamondon.
+Pour de la science, il est utile pour vérifier la validité du Modèle Standard (SM), et permet aussi aux médecins d'examiner toute divergence entre les observations et les prédictions du SM.
+Un nombre de personnes espèrent fervemment, de plus, que quelques-uns seront trouvés, parce que la différence la plus légère pourrait ouvrir une porte à une "nouvelle physique" et brancher certains trous dans le Modèle.
+Cela, on doit le considérer, a encore des défauts immenses, en n'offrant aucune explication de gravité (oops !) ou matière sombre, qui forme à peu près 80 % de la matière dans l'Univers (re-oops !).
+Mais jusqu'à ce jour de divergences de ce type n'ont pas été trouvées à CERN.
+Répercussions
+Les répercussions de cette recherche sur la vie quotidienne de l'homme dans la rue sont plus difficiles à prédire, mais il aurait tort pour supposer qu'il n'y en aura pas.
+Souvenez-vous-en : durant les années très tôtes 60, les pionniers du laser à des Laboratoires de Bell ne soupçonnaient pas la révolution qui serait déclenchée par leur travail.
+Ils avaient un soupçon des applications scientifiques, mais rien quant au reste.
+En fait, le Willard Boyle tardif - un physicien qui travaillait à des Laboratoires de Bell, où le laser était inventé en 1960, et qui lui-même développé le premier laser continu (les premiers étaient battus) en 1962 - raconté nous qu'initialement le laser était plutôt vu comme "gadget de laboratoire."
+Juste imaginez...
+Et alors, les applications peuvent aussi venir de toute l'orchestration qui entoure de la recherche.
+Par exemple, le même Willard Boyle développait un petit détecteur léger en 1969, pendant son travail dans l'optique.
+Ce détecteur, bien que ce n'ait été pas du tout l'intention originelle, maintenant serve comme "oeil" à toutes les caméras digitales à travers le monde, et l'ait gagné les physiques de Nobel séparent en 2009.
+Cela ne veut pas bien sûr dire que les activités du LHC transformeront nécessairement nos vies, mais cela veut dire que, en fait, vous ne savez jamais...

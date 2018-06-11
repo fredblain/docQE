@@ -1,0 +1,50 @@
+With Bitcoin, pay and sell without banks
+The opposite of current monetary exchanges, based on central banks, identified transactions and processing fees among the parties involved.
+In addition, as often in these technologies, a political vision is palpable: the belief that the current monetary system, made up of banking monopolies, leads to financial crises.
+In fact, Bitcoin, invented by Satoshi Nakamoto (a pseudonym), is both a virtual currency (but convertible into dollars, euros) and a secure exchange protocol like BitTorrent, which allows peer-to-peer file exchange.
+Around 200,000 transactions have already been recorded via 15,000 computers on the network.
+Close to a thousand web sites accept bitcoins as donations or means of payment.
+The bitcoin exchange rate, after reaching a peak of 30 dollars (23 euros) in June 2011, fell to 2 dollars five months later, returning today to around a dozen dollars (rates are listed on the bitcoincharts.com site).
+Nothing very impressive, compared to global transactions in real currency or financial products.
+However, the European Central Bank (ECB) took an interest in it in a report on virtual currencies published in October.
+It describes bitcoin as "the most successful virtual currency," "in competition with the dollar or the euro" and "similar to conventional currencies."
+Bitcoin differs from other types of virtual currency such as 'credits', used to progress in a video game which you win by playing or which you can buy (and sometimes exchange in return).
+The social network Facebook has also developed this kind of system.
+But, on each occasion, a central authority controls and handles the exchanges.
+With Bitcoin, all nodes in the network are both custodians of the book of accounts, auditors, currency issuers, and buyers and sellers.
+How does the network operate?
+Each transaction between two users is actually carried out between two electronic addresses like with an e-mail.
+Except that a user can choose a different address for each payment, thereby ensuring anonymity.
+A set of information associated with this transaction is signed electronically by a dual-key encryption system.
+So the network can verify the authenticity of the transaction.
+Using the contents of the file, it is also possible to ensure that the exchanged bitcoins exist in the public book of accounts, broadcast across the entire network.
+The key step is entering the new transaction in the book.
+It passes through the resolution of a mathematical challenge issued to the computers, and the winner, a kind of interim central banker, will have the privilege of adding this extra line.
+This is a file hashing phase, i.e. the transformation of a large file into a shorter and unique digital imprint.
+Computers "take" the new transaction and add a number to it, then "hash" it all up.
+The goal being to find the number that gives a special imprint (lots of zeros at the beginning).
+Once this number has been found, the other nodes can easily check that it is the right one.
+The transaction is then indestructibly linked to the chain of all the other transactions; any modification would alter the imprint.
+If a user wanted to defraud by paying twice with the same money very quickly (less than ten minutes), only one of the two transactions would be validated by the network - the other would remain an orphan because the two have different imprints.
+The computer that resolves the challenge wins 50 bitcoins.
+To avoid inflation, this award is regularly divided by two, probably by the end of 2012.
+The number of bitcoins in circulation is therefore limited to 21 million, but they are divisible down to the hundred millionth, which leaves some margin...
+The difficulty of the challenge is also raised with each increase in computing power.
+The life of the network has had its ups and downs.
+Websites providing services for Bitcoin have been attacked and bitcoins in deposits stolen.
+"The loophole used is not the protocol itself" says Pierre Noizat reassuringly, who has just launched Paymium, a real currency payment company that uses the Bitcoin network.
+The ECB also highlights the possibilities of money laundering using this anonymous service.
+But cash also has this weakness.
+Major players like Wikipedia refuse donations of this nature.
+Others, such as the WordPress blog platform, accept them.
+Recently, Adi Shamir and Dorit Ron, from the Weizmann Institute in Israel, analysed the accounting books and showed that almost 80% of bitcoins do not circulate.
+In November, "huge sell-offs" were launched.
+"Thirty thousand dollars were exchanged" welcomes Jon Holmquist, who works for Coinabul, which converts bitcoins to gold.
+Pierre Noizat, also author of an educational book on this currency, has a lot of faith in the potential of this technology as a transaction network.
+His system, Paytunia, is equivalent to a credit card (in real money) or a contactless payment by mobile, but it uses Bitcoin to validate transactions, which are thus cheaper.
+Also the user manages his identity and can therefore be anonymous.
+The system is easy to implement by merchants, who do not need to install new terminals or software.
+They just need to provide an address that a phone can "photograph and recognise" says Pierre Noizat, who confirms he has thousands of users.
+There is a general movement to reappraise hierarchical systems for more horizontal systems.
+"It will take time for Bitcoin to become firmly established, but 2013 could be a turning point," he predicts.
+The ECB, in its report, says it will reassess the various risks, currently regarded as high, in the event of the currency's success.

@@ -1,0 +1,74 @@
+"Pour le moment, l'esprit ne peut pas être trompés trop bien"
+Parmi les fans de technologie moderne est un thème largement la réalité augmentée, récemment vu principalement à travers le prisme de lunettes spéciales.
+Au premier abord, un modèle fonctionnel a montré par Google en été, lors de sa conférence annuelle. puis, en novembre, il a été annoncé que Microsoft a déposé une demande de brevet trop.
+Toutefois, selon la conversation avec le dirigeant du groupe de technologies 3D interactive dans le laboratoire de Cambridge de Microsoft, Shahram Izadi, lunettes sont une chose du passé pour les scientifiques dans cette entreprise.
+Ils sont attirés par la perspective de manipuler des objets virtuels dans l'air à mains nues, créant des espaces virtuels.
+- Veuillez nous dire, en termes simples, sur le travail de votre groupe de recherche ne.
+- Nous travailler sur l'interaction des personnes avec des machines, dans le même temps à essayer de repousser les limites de cette interaction.
+Alors que les gens en général sont coincés à travailler avec pixels sur un écran plat, et parfois de les pointer du doigt.
+Nous voulons regarder de 5 à 10 ans dans l'avenir et de prévoir des changements fondamentaux dans cette interaction.
+Par exemple, Xbox et capteurs Kinect sont un pas en avant. presque pas de Xbox Kinect est vendu sans aujourd'hui, parce que tout le monde aime le contrôle par les gestes.
+- Que nous réserve l'avenir ?
+- Malgré le fait que Kinect déplacé l'interaction au niveau physique, beaucoup avaient encore lieu sur un écran plat, parfois en 3D.
+Entrée de l'information s'est améliorée (le système reçoit plus de données), mais la production doit encore s'améliorer.
+Nous essayons de changer cette, travaillant sur les systèmes d'affichage en trois dimensions véritablement fondée sur diverses technologies, notamment les technologies de projection.
+Nous devons laisser le monde informatique dans notre monde physique, le rendre plus tangible.
+Mais pour cela, nous devons identifier l'utilisateur et l'espace autour de lui.
+Ensuite, nous serons en mesure de compléter le monde réel avec des objets virtuels dans une forme beaucoup plus pratique.
+Surtout, se débarrasser de ces casques de réalité virtuelle stupide !
+- Que pensez-vous de voix contrôle ?
+C'est une chose, mais il est surestimé ?
+- Il ne peut évidemment pas être appelé un cure-for-all - il y a une question de respect de la vie privée, car nous ne voulons pas toujours de laisser les autres savent sur nos actions et les intentions.
+En réalité, tous les types d'interaction avec les ordinateurs sont bonnes, mais chacun dans leur propre niche.
+Par exemple, nous avons eu un projet de dispositifs de contrôle dans les lieux publics, dans lequel nous avons pensé à mouvements, pas de larges mouvements, mais les petites, réservé.
+Mouvements n'ont pas enregistré par une caméra, mais par une part de bracelet que déterminé la circulation des os et des muscles.
+Il est gros, mais en théorie il peut être réduit à la taille d'une part regarder.
+En général, l'avenir est dans le contrôle mixte, par exemple de la circulation + voix.
+- Qu'est-ce que vous voulez dire ?
+- Par exemple, comment vous me demander de vous donner cette bouteille d'eau ?
+Vous allez parler et montrer en même temps.
+- Habituellement je viens de dire.
+- Ah, ce sera très difficile à détecter.
+- Alors que vous voulez faire les utilisateurs s'adapter à ce que la machine peut ou ne peut pas faire à ce moment ?
+- Pas nécessairement, mais c'est un rapprochement mutuel.
+Je pense que dans un avenir proche, nous allons principalement travailler sur le développement de nouveaux capteurs qui permettra une détermination plus précise de sa réaction.
+Ce pourrait être, par exemple, des capteurs laser. ils ont une profondeur digne de la résolution, ce qui est très important.
+- Si nous parler de votre travail avec des capteurs Xbox Kinect, quelles sont vos plaintes concernant des caméras moderne ?
+Pas assez de résolution, profondeur ou autre chose ?
+- En général, la génération actuelle, c'est ce que nous pouvons nous baser sur en travaillant sur la reconnaissance en trois dimensions.
+Bien sûr, il serait bon de 8 méga pixels avec 1000 km / s de la vitesse.
+Ce n'est pas seulement le méga pixels, pourtant, mais la qualité de la matrice et la profondeur.
+De ce point de vue, toutes les technologies actuelles ne sont pas assez bon pour nous, ce qui ajoute à l'algorithme designers.
+Il est donc important de se rappeler au sujet de la résolution sur le X, Y, Z, mais aussi l'axe.
+La vitesse, le nombre d'images par seconde, est également très important.
+Les mouvements sont relativement dynamique, et l'actuel 30 k / s ne suffit pas, surtout pour les gestes.
+Steven Bathiche Redmond de notre laboratoire créé un capteur tactile avec un retard de transformation réglementés de 1 à 100 ms, tandis que des capteurs en série modernes sont plus proches de ce dernier indicateur (60-100).
+Tout le monde ne comprend pas comment cela affecte l'interaction entre l'homme et la machine.
+Dans mon travail, il serait très utile d'avoir un dispositif qui n'exige pas toucher et aurait plus d'images par seconde.
+- Est-ce que le nombre de caméras doivent être augmenté ?
+- En Kinect il y a maintenant trois caméras, dont l'une est en fait un émetteur infrarouge et le deuxième, le récipiendaire du signal.
+Le troisième est en fait un capteur régulier de gamme visible.
+Il n'est pas appliqué à déterminer la profondeur de l'objet.
+Potentiellement, un grand nombre de caméras pourrait résoudre le problème...
+Ou pire encore, en augmentant le volume des calculs.
+Ce serait bien de créer un flexible Kinect analogiques, jouer avec la caméra de flexion de liquidation et voir comment cela va aider en trois dimensions de la détermination de la position.
+- Aussi loin que je me souvienne, Microsoft n'a pas présenté ses lunettes pour le public, contrairement à Google.
+Ne pensez-vous pas que c'est l'une des plateformes les plus prometteuses du point de vue de l'utilisation quotidienne de la réalité augmentée, technologies ?
+- Il est certain que ce n'est pas très pratique de se promener avec un téléphone intelligent dans votre relevé mains tout le temps, mais je pense que la meilleure solution serait de "transition" la réalité augmentée, où on pouvait passer de lunettes de téléphone intelligent, écran de projection, et partout ailleurs basé sur une plateforme en nuage.
+Lunettes sont un dispositif très personnelle, c'est leur force (privés les choses sont considérés par vous) et, dans le même temps, leur faiblesse - la réalité augmentée, basé sur des lunettes, vous ne pourrez pas travailler sur des objets virtuels avec d'autres personnes.
+- Que nous imaginer un instant que la manipulation d'objets holographique virtuelle dans l'air est disponible non seulement de Tony Stark de l'Ironman, mais à une personne ordinaire.
+Il y a un problème avec cette idée que les critiques disent souvent: aucune rétroaction tactile !
+Mains sentent rien !
+Quelles réponses votre groupe se préparer à ce défi ?
+- Dans mes cours, je dis souvent que la réalité augmentée, est la septième tentative consécutive à l'interaction entre l'homme et la machine.
+Je pense que le huitième sera probablement le plus de sensations tactile.
+Pour l'instant, l'un des trucs intéressants, c'est d'utiliser la deuxième part comme une sorte de matrice pour l'image.
+Il est grand à enregistrer pousse !
+Mais il y a des technologies qui sont vraiment visant à donner à ces "images dans l'air" un sentiment de tangibility, par exemple, l'ingérence de plusieurs rayons ultrasons ciblées en un point précis où le doigt est situé donne une sensation, mais très faible actuellement, comme si quelqu'un fait sauter sur votre c'.
+Il y a aussi un bracelet au poignet qui affectent les terminaisons nerveuses dans les doigts, qui est également un domaine prometteur.
+- Avez-vous essayé de tromper l'esprit ?
+Elle pense que c'est quelque chose qu'il convient de sentiment quand il voit quelque chose ?
+- C'est une bonne idée, et nous n'avons pas essayé cette encore.
+Il dissimule un défi qui ne seront pas résolus rapidement, à la manière de contraindre une personne, qui est physiquement dans un très petit espace de croire qu'il marche le long d'une ouverture, presque sans limites, l'espace, nous travaillons sur le concept de tapis de course (pas du tout comme dans les clubs), les plateformes mobiles, et des ballons géants.
+Jusqu'à présent à tromper l'esprit a connu peu de succès, il y a du travail pour les années à venir.
+C'est ce qui fait travailler sur la réalité virtuelle si intéressant pour les chercheurs, beaucoup de choses sont à leurs premiers balbutiements.

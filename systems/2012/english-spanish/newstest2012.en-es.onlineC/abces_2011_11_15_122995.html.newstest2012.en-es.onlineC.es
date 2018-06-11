@@ -1,0 +1,19 @@
+La Sra. Sofía: "Son instrumentos de progreso y esperan"
+La reina subraya el lugar "dominante" en España en relación con este tipo de contabilidad
+España "ha logrado un lugar prominente mundialmente en el papel de Microfinance."
+La reina Sofía recordaba ayer que el país se ha convertido a lo largo de las últimas dos décadas el segundo donante en relación con los instrumentos de cooperación; cuya "esencia" decía mentiras al ser un "instrumento para progreso social, justicia y esperanza de un futuro mejor para toda la humanidad, basada a crédito en seres humanos."
+La Reina abría ayer al Quinto Microcredit Summit Global en Valladolid con la creencia en que "hay sin duda" eso tales operaciones son "absolutamente esenciales" de lograr los Objetivos de Milenio establecidos por la Organización de las Naciones Unidas por 2015, y, "especialmente teniendo como un objetivo que parte por la mitad el volumen de gente que vive con menos que un dólar por día, con que esto fije la "línea de pobreza."
+España está trabajando todavía para expandir la red de beneficiarios por todo el mundo, y supone que la tarea con "la responsabilidad" decía que la Sra. Sofía, que esperaba que los esfuerzos y las contribuciones se originaban en la Cumbre, que se celebrará hasta jueves, "garantizará la creación de nuevas capacidades y oportunidades mejores de la gente más pobre, y especialmente de mujeres", los beneficiarios principales de estos préstamos.
+Hay "muchos logros" y "muchos retos a los cuales nos estamos enfrentando."
+La Cumbre de Microcrédito surge no solamente como foro para el debate, sino también como una plataforma que promueve "dos objetivos básicos."
+De esta forma, Su Majestad explicaba que espera que al extremo de 2015, 175 millones de familias pobres habrán accedido a estos servicios financieros y cien millones de estas unidades familiares saldrán de la pobreza en la cual se sumergen.
+El impulso para la creación de micro créditos en España y en el descanso del mundo "ha seguido el camino empezado hace" años por Muhammad Yunus, la Sra. subrayada Sofía como un "acto de justicia y reconocimiento."
+Y describía al padre de esta herramienta como un "idealista admirable de la causa universal de la lucha en contra de pobreza", cuyo trabajo es conocido por 15 años, cuándo iba la Reina a Bangladesh para descubrir en el campo la política de préstamos.
+Esta experiencia se seguía un año más tarde junto a la primera Cumbre Mundial en Washington y otras reuniones como esos persistían en Costa de Marfil en 1999, Canadá 2006, y "en todo he visto la evolución continuada", decía Su Majestad, el enlace con esto de quién la hacía el proyecto ganar ayer el título de la "cabeza de la familia" en Valladolid del "banquero de los pobres."
+Finalmente, la Sra. de Reina Sofía concluía animando esos actuales a participar en las soluciones de debate y hallazgo para adelantar la lucha en contra de pobreza.
+"Imperativo ético"
+El ministro de Asuntos Exteriores, Trinidad Jiménez, decía que la solidaridad "es un imperativo ético" a todos los estados democráticos.
+En esta mirada, decía que sería un error conectar cooperación con países en desarrollo en tiempos de boom económico, como es una "obligación que continúa."
+Jimenez encontraba que el microcrédito supone "que una política grave y rigurosa dedicaba a pobreza que erradicaba"," y ahora "más de siempre", los gobiernos de países desarrollados deben funcionar bajo los criterios de solidaridad y no dejar esta caída como víctima de ajustes.
+Para España, el microcrédito es "una de las líneas principales de cooperación de desarrollo."
+El Secretary of State para la Cooperación Internacional, Soraya Rodriguez, alabada el "éxito" para dar "confianza" para habitar "excluía al cual todas las puertas se cierran"," y el alcalde de Valladolid, Francisco Javier Leon de la Riva, dado la bienvenida esos actuales a una ciudad que "abre sus puertas se enganchaba por el espíritu de solidaridad."

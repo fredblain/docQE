@@ -1,0 +1,11 @@
+Bono acepta encabezar la candidatura del PSOE por Toledo y presidir el Congreso si ganan las 
+El ex ministro de Defensa José Bono ha aceptado el ofrecimiento del presidente del Gobierno y secretario general de los socialistas, José Luis Rodríguez Zapatero, para encabezar la lista del PSOE por Toledo para las próximas elecciones generales y ser presidente del Congreso en el caso de que los socialistas ganen las elecciones generales. 
+Así lo han anunciado en rueda de prensa el secretario de Organización del PSOE, José Blanco, y el propio Bono, después de la reunión que ha mantenido este mediodía en la sede federal de este partido con Zapatero. 
+El jefe del Ejecutivo ha justificado la oferta al ex ministro porque "es importante contar con los mejores" en la vida política y Bono "está entre los mejores". 
+Además, ha apuntado que "sí parece" que el político manchego será el candidato del grupo socialista para presidir el Congreso si los socialistas vencen en las próximas elecciones. 
+Bono sustituiría como presidente del Congreso a Manuel Marín, que hizo pública el pasado 15 de noviembre su decisión de no presentarse a las próximas elecciones generales y de abandonar su carrera en la política activa para dedicarse a luchar contra el cambio climático en el ámbito universitario. 
+El ex ministro ha reconocido que el presidente del Gobierno no ha dejado de insistir para que regresara a la vanguardia política desde que la abandonara hace dos años. 
+Además, ha señalado que, al igual que los ciudadanos saben quién será el vicepresidente económico si el PSOE gana las elecciones, su partido ha querido anunciar quien presidirá el Congreso, en un "acto de transparencia". 
+Si alcanza el cargo, Bono espera convertir la Cámara en "la casa del respeto y no del insulto o del grito". y hacer que "se parezca cada vez más a los ciudadanos". 
+"A veces lamentablemente parece que el único local de Madrid donde no se puede hablar con tranquilidad y con sosiego es el Congreso, al presidente del Gobierno en cierta ocasión le interrumpieron en el Senado 26 veces". 
+Asimismo, ha tenido palabras de elogio para su actual presidente, Manuel Marín y "su buen hacer" y no ha querido verse ya ocupando su puesto para no caer en lo que, según ha señalado, sus adversarios podrían ver como "prepotencia". 

@@ -1,0 +1,74 @@
+"Das Gehirn lässt sich bisher nur mäßig überlisten"
+Das bei Anhängern moderner Technologien beliebte Thema der erweiterten Realität wird in letzter Zeit für gewöhnlich durch die Linse einer speziellen Brille wahrgenommen.
+Zuerst präsentierte Google im Sommer bei seiner jährlichen Konferenz ein funktionierendes Modell, im November wurde dann bekannt, dass auch Microsoft ein entsprechendes Patent angemeldet hatte.
+Im Gespräch mit dem Leiter der Gruppe für interaktive 3D-Technologien im Microsoft-Labor in Cambridge Shahram Izadi, wird allerdings deutlich, dass die Brille für die Wissenschaftler des Unternehmens nur eine Durchgangsstation war.
+Sie reizt die Möglichkeit, virtuelle Objekte in der Luft mit bloßen Händen zu manipulieren und virtuelle Freiflächen zu erschaffen.
+- Beschreiben Sie bitte kurz, welche Forschungen Ihre Gruppe betreibt.
+- Wir beschäftigen uns mit der Interaktion von Mensch und Maschine, wollen dabei jedoch die Grenzen dieser Interaktion erweitern.
+Bisher ist die Menschheit größtenteils in der Phase stecken geblieben, in der mit Pixeln auf Flachbildschirmen gearbeitet wird, die manchmal auch berührt werden.
+Wir jedoch wollen 5-10 Jahre vorausblicken und die radikalen Veränderungen dieser Interaktion vorhersehen.
+Beispielsweise sind die Xbox-Konsole und die Kinect-Sensoren ein Fortschritt, und heutzutage wird keine Xbox mehr ohne Kinect verkauft, da sich alle für Bewegungssteuerung interessieren.
+- Was erwartet uns noch in der Zukunft?
+- Obwohl Kinect die Interaktion auf eine physische Ebene gebracht hat, spielt sich vieles noch auf dem Flachbildschirm ab, manchmal in 3D.
+Die Eingabe von Informationen (das System erhält mehr Daten) konnte verbessert werden, die Ausgabe bisher noch nicht entscheidend.
+Wir versuchen das zu verändern, arbeiten an echten dreidimensionalen Darstellungssystemen auf der Grundlage verschiedener Technologien, darunter Projektionen.
+Wir müssen die Computerwelt in unsere physische Welt entlassen und sie fassbarer machen.
+Dazu ist es aber erforderlich, dass nicht nur der Benutzer, sondern auch seine Umgebung erkannt wird.
+Dann könnten wir die reale Welt viel einfacher durch virtuelle Objekte ergänzen.
+Und zuallererst sollten wir diese bescheuerten Virtual-Reality-Helme los werden!
+- Was denken Sie über Sprachsteuerung?
+Sie ist beliebt, aber wird sie nicht überbewertet?
+- Sie ist sicher nicht die Allzwecklösung, da sie Fragen zur Privatsphäre aufwirft, weil man nicht immer alle Umstehenden über seine Handlungen und Absichten informieren möchte.
+Eigentlich ist jede Art von Interaktion mit Computern gut, allerdings jede in ihrer bestimmten Nische.
+Zum Beispiel arbeiteten wir im Bereich der Steuerung von Objekten auf öffentlichen Plätzen an einem Projekt, bei dem wir mit kurzen und knappen, statt mit ausladenden Gesten experimentierten.
+Dabei wurden die Gesten nicht von der Objektkamera, sondern von einem Armband aufgezeichnet, das die Bewegungen der Knochen und Muskeln registrierte.
+Noch ist es relativ groß, könnte theoretisch jedoch auf die Größe einer Armbanduhr verkleinert werden.
+Aber insgesamt gehört die Zukunft allerdings gemischten Steuerungstypen, beispielsweise Gestik und Sprache.
+- Wie das?
+- Wir würden Sie mich zum Beispiel bitten, Ihnen diese Sprudeldose zu reichen?
+Sie sagen es und deuten gleichzeitig darauf.
+- Normalerweise sage ich es einfach nur.
+- Oh, das wäre sehr schwer zu erkennen.
+- Heißt das, Sie wollen, dass der Benutzer sich an das anpasst, was eine Maschine zum jeweiligen Zeitpunkt leisten kann und was nicht?
+- Nicht unbedingt, aber es geht hier um eine gegenseitige Annäherung.
+Ich denke, dass wir in der nächsten Zeit vor allem an der Entwicklung neuer Sensortypen arbeiten werden müssen, die es ermöglichen, Reaktionen von Personen genauer zu erfassen.
+Das können zum Beispiel Lasersensoren sein, da sie in der Tiefe eine gute Auflösung bieten, was sehr wichtig ist.
+- Welche Ansprüche stellen Sie ausgehend von Ihrer Arbeit mit den Xbox Kinect-Sensoren an moderne Kameras?
+Mangelt es an Auflösung, Tiefe oder noch etwas anderem?
+- Die jetzige Generation ist im Grunde ein guter Ausgangspunkt für unsere Arbeit im Bereich der dreidimensionalen Erkennung.
+Natürlich wären 8 Megapixel mit einer Geschwindigkeit von 1000 fps nicht schlecht.
+Doch die Hauptsache sind nicht die Megapixel selbst, sondern die Qualität der Matrix und der Tiefe.
+So gesehen sind alle gegenwärtigen Technologien für uns nicht gut genug, da die Entwickler der Algorithmen mehr Arbeit haben.
+Es muss nicht nur die Auflösung entlang der X- und der Y-, sondern auch entlang der Z-Achse berücksichtigt werden.
+Auch die Geschwindigkeit und die Anzahl der Bilder pro Sekunde sind wichtig.
+Die Bewegungen des Menschen sind äußerst dynamisch und offen gesagt, sind die jetzigen 30 fps insbesondere für Gesten zu wenig.
+Stephen Betishes entwickelte in unserem Labor in Redmond einen Berührungssensor mit einer regulierbaren Verarbeitungsverzögerung zwischen 1 bis 100 Millisekunden, wobei die heutigen kommerziellen Sensoren näher am zweiten Wert liegen (60 bis 100).
+Nicht alle verstehen, wie sehr das die Interaktion von Mensch und Maschine beeinflusst.
+Für meine Arbeit brauchte ich genau so eine Vorrichtung, nur ohne Berührungssteuerung und mit mehr Bildern pro Sekunde.
+- Müsste die Anzahl der Kameras nicht erhöht werden?
+- Kinect arbeitet gegenwärtig mit drei "Kameras", wobei eine davon eigentlich ein Infrarotsender und die zweite ein Empfänger für das reflektierte Signal ist.
+Und die dritte Kamera ist tatsächlich eine gewöhnliche RGB-Kamera.
+Sie dient nicht zur Berechnung der Objekttiefe.
+Mehr Kameras könnten möglicherweise das Problem lösen...
+Oder das Problem verstärken, da mehr Berechnungen notwendig wären.
+Schön wäre ein flexibles, Kinect-ähnliches System, bei dem wir mit verschiedenen Kameraneigungen spielen könnten, um festzustellen, wie uns das bei der dreidimensionalen Ermittlung einer Position hilft.
+- Wenn ich mich recht erinnere, präsentierte Microsoft im Gegensatz zu Google seine Brille nicht der Öffentlichkeit.
+Denken Sie nicht, dass im Hinblick auf die Anwendung der Technologie der erweiterten Realität im Alltag die Brille die besten Aussichten hat?
+- Natürlich ist es nicht angenehm, unterwegs immer ein Smartphone in der erhobenen Hand zu halten, aber ich denke Folgendes: Die tollste Variante wäre eine "wechselnde" erweiterte Realität, bei der wir über eine Cloud von der Brille auf das Smartphone umschalten könnten,
+Die Brille ist ein persönliches Gadget und darin liegt ihre Stärke (Privates können nur Sie sehen), aber gleichzeitig auch ihre Schwäche, denn eine erweiterte Realität mittels Brille verhindert, dass Sie gemeinsam mit Anderen an virtuellen Objekten arbeiten können.
+- Stellen wir uns einen Moment lang vor, dass die Manipulation virtueller Hologramme in der Luft nicht nur Tony Stark aus Iron Man, sondern auch Normalsterblichen zugänglich ist.
+Es gibt ein Problem, auf das Kritiker dieser Idee häufig hinweisen: Es gibt keine fühlbare Reaktion!
+Die Hände spüren überhaupt nichts!
+Welche Antworten will Ihre Gruppe auf diesen Einwand geben?
+- In meinen Vorlesungen spreche ich oft davon, dass die erweiterte Realität den siebten Durchbruch bei der Interaktion zwischen Mensch und Maschine darstellt.
+Ich denke, der achte Durchbruch könnte durchaus die Integration der taktilen Wahrnehmung werden.
+Eine interessante Methode ist derzeit die Verwendung der zweiten Hand als etwas ungewöhnliche Projektionsunterlage.
+Sie nimmt Druck hervorragend wahr!
+Es gibt aber auch Technologien, die tatsächlich darauf ausgerichtet sind, den "Bildern in der Luft" etwas Handfestes zu verleihen, zum Beispiel erzeugt die Interferenz von einigen gerichteten Ultraschallstrahlen in einem bestimmten Punkt, wo sich der Finger befindet, ein Gefühl, das momentan aber noch so schwach ist, als pustete jemand über die Handballen.
+Es gibt auch Bänder für das Handgelenk, die auf die Nervenendungen in den Fingern einwirken, auch das ist eine potenzielle Richtung.
+- Haben Sie versucht, das Gehirn zu überlisten?
+Es denken lassen, dass es das spürt, was es spüren sollte, wenn es gerade etwas sieht?
+- Das ist eine gute Idee, so haben wir es noch nicht versucht.
+Hier verbirgt sich eine weitere Aufgabe, mit der wir noch lange zu kämpfen haben werden, nämlich einen Menschen, der sich physisch in einem geschlossenen Raum befindet, glauben zu lassen, er befinde sich stattdessen in einem offenen, praktisch unendlichen Raum; hier arbeiten wir an Konzepten mit Laufbändern (anderen als in Fitnessstudios), beweglichen Plattformen sowie großen Kugeln.
+Bisher lässt sich das Gehirn nur mäßig überlisten, und vor uns liegen noch viele arbeitsreiche Jahre.
+Gerade das macht die Arbeit auf dem Gebiet der virtuellen Realität für einen Forscher so anziehend: Bei vielen Themen stehen wir erst am Anfang.

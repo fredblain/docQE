@@ -1,0 +1,50 @@
+Avec Bitcoin, paie et vendent sans banques
+L'opposé d'échanges monétaires actuels, basés sur les banques centrales, a identifié des transactions et des honoraires de traitement parmi les partis impliqués.
+En plus, comme souvent dans ces technologies, une vision politique est palpable : la conviction que le système monétaire actuel, inventé des monopoles bancaires, mène aux crises financières.
+En fait, Bitcoin, inventé par Satoshi Nakamoto (un pseudonyme), est tous les deux une devise virtuelle (mais convertible dans les dollars, les euros) et un protocole de change sûr comme BitTorrent, qui permet l'échange de dossier de pair à pair.
+Environ 200,000 transactions ont été déjà enregistrées via 15,000 ordinateurs sur le réseau.
+Près de mille sites Internet acceptent bitcoins comme les donations ou les moyens de paiement.
+Le taux de change bitcoin, après avoir atteint un pic de 30 dollars (23 euros) en juin de 2011, est tombé à 2 dollars cinq mois plus tard, en revenant aujourd'hui à environ une douzaine de dollars (les taux sont énumérés sur bitcoincharts.com le site).
+Rien de très impressionnant, comparé aux transactions globales dans la devise réelle ou les produits financiers.
+Cependant, European Central Bank (ECB) a pris un intérêt pour cela dans un rapport sur les devises virtuelles publiées en octobre.
+Il décrit bitcoin comme "la devise virtuelle la plus réussie," "dans la compétition avec le dollar ou l'euro" et "semblable aux devises conventionnelles."
+Bitcoin diffère d'autres types de devise virtuelle tels que 'les crédits', utilisés pour progresser dans un jeu vidéo que vous gagnez en jouant ou que vous pouvez acheter (et échanger quelquefois en échange).
+Le réseau social Facebook a aussi développé cette sorte de système.
+Mais, dans chaque occasion, une autorité centrale contrôle et manipule les échanges.
+Avec Bitcoin, tous les nœuds dans le réseau sont tant des gardiens du livre de comptes, auditeurs, émetteurs de devise, que des acheteurs et des vendeurs.
+Comment le réseau opère-t-il ?
+Chaque transaction entre deux utilisateurs est en fait réalisée entre deux adresses électroniques comme avec un e-mail.
+Sauf qu'un utilisateur peut choisir une différente adresse de chaque paiement, en garantissant ainsi l'anonymat.
+In jeu of information associated with this transaction simple percentage signed electronically by has dual - key encryption system.
+Donc le réseau peut vérifier l'authenticité de la transaction.
+En utilisant les contenus du dossier, il est aussi possible de garantir que bitcoins échangés existent dans le livre public de comptes, diffusent à travers le réseau entier.
+Le pas clé entre dans la nouvelle transaction dans le livre.
+Il traverse la résolution d'un défi mathématique publié aux ordinateurs et le vainqueur, une sorte de banquier central provisoire, aura le privilège d'ajouter cette ligne supplémentaire.
+C'est une phase d'hachage de dossier, c-à-d la transformation d'un grand dossier dans une empreinte numérique plus courte et unique.
+Les ordinateurs "prennent" la nouvelle transaction et y ajoutent un nombre, ensuite "le hachis" tout cela en haut.
+Le but d'être pour trouver le nombre qui donne une empreinte spéciale (beaucoup de zéros au commencement).
+Dès que ce nombre a été trouvé, les autres nœuds peuvent vérifier facilement que c'est le bon.
+La transaction est alors indestructiblement reliée à la chaîne de toutes les autres transactions ; toute modification changerait l'empreinte.
+Si un utilisateur a voulu frauder en payant deux fois avec le même argent très vite (moins de dix minutes), seulement une des deux transactions serait validée par le réseau - l'autre resterait un orphelin parce que les deux ont de différentes empreintes.
+L'ordinateur qui résout le défi gagne 50 bitcoins.
+Pour éviter l'inflation, ce prix est régulièrement divisé par deux, probablement vers la fin de 2012.
+Le nombre de bitcoins dans la circulation est donc limité à 21 millions, mais ils sont divisibles en bas au cent millionième, qui quitte une marge...
+La difficulté du défi est aussi levée avec chaque augmentation du pouvoir informatique.
+La vie du réseau a eu ses hauts et bas.
+Les sites Internet fournissant des services à Bitcoin ont été attaqués et bitcoins dans les dépôts volés.
+"L'échappatoire utilisée n'est pas le protocole lui-même" dit Pierre Noizat d'une manière rassurante, qui vient de lancer Paymium, une compagnie de paiement de devise réelle qui utilise le réseau de Bitcoin.
+L'ECB accentue aussi les possibilités de blanchiment d'argent en utilisant ce service anonyme.
+Mais l'argent a aussi cette faiblesse.
+Les acteurs majeurs comme Wikipedia refusent des donations de cette nature.
+D'autres, tels que la plateforme de blogs de WordPress, les acceptent.
+Récemment, Adi Shamir et Dorit Ron, de l'Institut de Weizmann en Israël, ont analysé les livres de comptabilité et ont montré que presque 80 % de bitcoins ne circulent pas.
+En novembre, "énorme vendent-offs" ont été lancés.
+"Trente mille dollars a été échangé" salue Jon Holmquist, qui travaille pour Coinabul, qui convertit bitcoins en or.
+Pierre Noizat, aussi l'auteur d'un livre éducatif sur cette devise, a beaucoup de foi en potentiel de cette technologie comme un réseau transactionnel.
+Son système, Paytunia, est équivalent à une carte de crédit (en argent réel) ou un paiement contactless par le portable, mais il utilise Bitcoin pour valider des transactions, qui sont moins chères ainsi.
+Aussi l'utilisateur dirige son identité et peut être anonyme donc.
+Le système est facile à exécuter par les négociants, qui n'ont pas besoin d'installer de nouveaux terminus ou un logiciel.
+Ils ont besoin de fournir juste une adresse dont un téléphone peut "prendre des photos et reconnaître" dit Pierre Noizat, qui confirme qu'il a des milliers d'utilisateurs.
+Il y a un mouvement général pour réestimer des systèmes hiérarchiques pour plus de systèmes horizontaux.
+"Il prendra du temps pour Bitcoin pour devenir fermement établi, mais 2013 pourrait être un tournant," prédit-il.
+L'ECB, dans son rapport, dit qu'il réexaminera les risques différents, actuellement considérés comme hauts, en cas du succès de la devise.

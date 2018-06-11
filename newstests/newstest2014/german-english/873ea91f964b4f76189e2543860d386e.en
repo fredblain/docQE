@@ -1,0 +1,32 @@
+What happens with my e-mail when in transit?
+E-mail is short for electronic mail.
+Are there technical measures to maintain privacy of correspondence, similar to that of the traditional postal service, implemented into the design of this Internet-based service?
+When designing the early Internet services, the focus lay on making communication possible.
+Thus, when developing the underlying technical protocols, no attention was given to creating a stable foundation for the interception-proof exchange of mail.
+For this reason, a traditional email is more like an open postcard than a sealed letter.
+When user "Anna" sends an email to "Benni", are the pair's computers then directly connected?
+Anna's email program or browser first sends the mail to her service provider's mail server.
+If she has a Gmail account, for example, this would be Google.
+This mail server sends the content to the provider that Benni uses.
+En route, the mail can pass through any number of other servers on the Internet.
+Benni can then call up the content from his provider.
+Are traditional e-mails read by third parties on their journey through the net?
+The majority of e-mails are read several times by software robots en route to the recipient.
+Checks are generally carried out by the sender's provider as to whether the mail contains malware as an attachment.
+A virus check is also carried out on the recipient systems.
+In addition, the providers check whether it is nuisance or unwanted spam mail, which are deleted immediately or at least sorted into a spam folder.
+Do the robots have other tasks?
+In the case of systems such as Gmail, the robots also identify the information that Google requires for displaying context-based advertising.
+If Anna and Benni communicate about their upcoming holiday travels via Gmail, Google can display corresponding links to holiday offers.
+Do unknown individuals also read the e-mails?
+The probability of unauthorised persons reading a mail is extremely low.
+However, theoretically, it is possible.
+Within companies, administrators are often able to read electronic mail that is sent.
+Law enforcement authorities and Secret Services also have legal authorisation to intercept or take note of e-mails.
+This may include potential illegal spying activities.
+Is it possible to protect e-mails against being read?
+With an encryption using the OpenPGP standard, an e-mail can be effectively protected against being read.
+With great technical effort, it is also possible to conceal the metadata of email communication so that it is not even possible to tell who is communicating with whom.
+How important are Yahoo and Google within the e-mail market in Germany?
+According to a study conducted by Convios Consulting in August 2013, among the main mail services in private use, Yahoo and Google play only a minor role.
+While the number of Yahoo Mail accounts has fallen recently, Google's Gmail managed to grow considerably.

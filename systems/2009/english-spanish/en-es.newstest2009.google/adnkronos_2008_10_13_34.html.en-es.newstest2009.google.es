@@ -1,0 +1,20 @@
+Los accidentes en el trabajo, Napolitano: "La prevención es fundamental" 
+Todos los días, en Italia, en 2500 los accidentes de trabajo se producen, 3 personas mueren y 27 permanecen permanentemente inválidas. 
+Para 2007, INAIL datos confirman que, de hecho, las muertes relacionadas con el trabajo han sido alrededor de 1200. 
+Las cifras que el testimonio de la gravedad de un fenómeno que sigue siendo una de las principales causas de muerte y las causas casi el doble de las muertes con respecto al homicidio. 
+Para recordar a la atención de las instituciones, fuerzas sociales y medios de información a este dramático problema, hoy Anmil está celebrando en todas las provincias italianas la 58 ª Fiesta Nacional de Víctimas de Accidentes de Trabajo, institucionalizado en el segundo domingo de octubre. 
+"La preocupante datos difundidos por Anmil y el mismo trágico noticias actuales confirman la importancia de la cuestión de la prevención en el lugar de trabajo es", declara el Presidente de la República Giorgio Napolitano, en su mensaje al presidente de Anmil, Asociación Nacional de los mutilados Inválidos y en el trabajo, Pietro Mercandelli. 
+El jefe del Estado expresa su "profundo agradecimiento de los constantes esfuerzos asociativos para la prevención en el lugar de trabajo, el cuidado de los trabajadores lesionados, la asistencia de las víctimas a las familias, y la sensibilización de la opinión pública". 
+"Naturalmente, un indignado" suficiente "se ha planteado, sinceramente compartida frente a las tragedias que, debido a su tamaño, provocan un clamor por los medios de comunicación y la participación de la opinión pública, pero la realidad cotidiana propone casos dramáticos, cuya dinámica son aún repetitivas" . 
+Napolitano no oculta que "sin duda hay también un problema de recursos: es importante invertir en la formación y la información. 
+Una particular importancia es asumida por las numerosas iniciativas promovidas dentro de las escuelas en la sensibilización de la generación más joven que se enfrenta el mercado de trabajo. 
+Es un deber de mantener viva la conciencia del fenómeno, no renunciar a su grave alarma social, aplicar y mejorar las disposiciones legislativas. 
+Por su parte, el presidente de la Cámara Gianfranco Fini ha puesto de relieve "como el fenómeno de las muertes por accidente constituye una absoluta emergencia social, que ofende la conciencia de todos y cada uno de nosotros y se impone a todas las instituciones de manera decisiva a la obligación de ponerle fin urgentemente" . 
+"Los datos sobre lesiones en el lugar de trabajo parece una pequeña señal de tendencia positiva, pero esto no quita el hecho de que el número de muertes accidentales es, en cualquier caso, impresionante", comentó el presidente de Anmil Pietro Mercandelli. 
+"No queremos que, de hecho, que esta" tendencia descendente "se traduce en una reducción de alerta, porque es justo cuando la atención se reduce la tragedia que explota. 
+"Creemos que a nivel general es poco lo que se está haciendo para oponerse al fenómeno de los accidentes de trabajo y la lucha puede ser llevada a través de múltiples acciones. 
+Es necesario, en nuestra opinión, - subrayó Mercandelli - disponer de más controles e inspecciones, sino también una mayor intervención en la capacitación de los trabajadores, y esto debe empezar en la escuela ". 
+"Un mayor esfuerzo es necesario - agregó - con lo que se refiere a la comunicación y la sensibilización de la opinión pública. 
+Pero, sobre todo, un mayor sentido de responsabilidad es necesario en nombre de los empleadores respecto de un fenómeno que representa una emergencia social ". 
+Mercandelli entonces denunció "el deterioro progresivo del nivel de atención de las prestaciones previstas para las víctimas en el trabajo" y el "bienestar deriva que el sistema está teniendo en los últimos años". 
+"Por lo tanto, el objetivo es devolver a los trabajadores la garantía de seguros - añadió - de modo que el destino de aquellos que están heridos no tiene que depender de la acción política espontánea o subvenciones que son de tiempo en tiempo establecido por los legisladores". 

@@ -1,0 +1,14 @@
+IP pide resulta del Congreso 
+Eduardo Dávalos, presidente del CEC, proponía que los delegados asumen la gran responsabilidad de ser un ejemplo por un Sinaloa mejor por los diversos retos que da. 
+Una Legislatura de obras decentes y libre de acuerdos entre fiestas y el estado Ejecutivo está siendo exigido por el sector de empresa de Mazatlán, porque hay un Sinaloa convulsionado que se enfrenta a grandes problemas. 
+Ayer la 60 legislatura se votaba dentro, integrado por siete fuerzas políticas, 19 delegados del PRI, 13 de la SARTÉN, tres de la Fiesta Nueva Alianza, dos del PRD, uno del PT, uno del Convergencia y uno más del PVEM, que significa un total de 40 representantes populares. 
+Entre la lista de expectativas de los miembros nuevos del Congreso del S-state se menciona que vienen a cumplir una gestión limpia de compromiso con la sociedad y los sectores diferentes que requieren un trabajo legislativo responsable. 
+Eduardo Dávalos Zamora, presidente de la Empresa Coordinating Council, propuesto que los 40 delegados sólo liberados del Congreso del Estado asumían la gran responsabilidad de ser un ejemplo por un Sinaloa mejor por los diversos retos que da. 
+Esperamos que los delegados ejercerán realmente su derecha, liberar de acuerdos entre las fiestas porque es una costumbre hacer acuerdos para vigilar por sus propios intereses y le convienen a un carácter en un carnaval de los gobernadores y los líderes de las fracciones parlamentarias. 
+Por eso hablaba de certificar que el compromiso en orden establecía los puentes necesarios que podrían ayudar al Gobernador a seguir adelante. 
+Esperamos que vienen a hacer un digno trabajo y principalmente comprometían con la sociedad y los sectores porque los habitants de Sinaloa eran los que les daban el voto de confianza durante los últimos comicios. 
+Jose Ramon Manguart Sanchez, presidente de la Asociación de Hotels Tres Islas, consideraba que uno de los mayores retos para los 40 representantes populares es el uno de empujar y añadir fuerzas en busca del crecimiento económico del estado, porque hoy en día la coyuntura es muy complicada. 
+La cosa más importante es empujar crecimiento económico, eso genera incentivos para inversión e infraestructura y eso de algún modo formará una nueva generación de trabajos. 
+En cuanto a la actividad de turista, exigía que los legisladores nuevos dan el peso revisado dentro del presupuesto de estado para fortificar el Secretario de Turismo. 
+Como he entendido éste es el segundo departamento del estado con menos presupuestos y es inadecuado un importante y monedas de generación de actividad económica e inversión y eso directamente compite con el agro industria. 
+Aparte de recursos de etiquetado que exige el turista detonante proyecta que ayuda dando seguridad al estado y actualiza la Ley de Alcohol que no ha podido resolver en las legislaturas anteriores. 

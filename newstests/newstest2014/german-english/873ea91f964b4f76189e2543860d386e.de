@@ -1,0 +1,32 @@
+Was passiert unterwegs mit meiner E-Mail?
+E-Mail heißt ja eigentlich elektronischer Brief.
+Wurde beim Entwurf des Internet-Dienstes E-Mail ähnlich wie bei der herkömmlichen Post technisch das Briefgeheimnis umgesetzt?
+Bei der Konzeption der frühen Internetdienste stand im Vordergrund, Kommunikation möglich zu machen.
+Daher hat man bei den grundlegenden technischen Protokollen nicht darauf geachtet, ein stabiles Fundament für einen anhörsicheren Briefwechsel zu schaffen.
+Daher entspricht eine herkömmliche E-Mail eher einer offenen Postkarte als einem versiegelten Brief.
+Wenn Nutzerin "Anna" an "Benni" eine Mail schickt, sind die Rechner der beiden dann direkt verbunden?
+Das E-Mail-Programm oder der Browser von Anna schickt im ersten Schritt die Mail an den Mail-Server ihres Service-Providers.
+Wenn sie zum Beispiel ein GMail-Konto hat, wäre das Google.
+Dieser Mail-Server schickt den Inhalt an den Provider, den Benni nutzt.
+Auf der Strecke kann die Mail über etliche andere Server im Internet laufen.
+Bennie kann den Inhalt dann bei seinem Provider anrufen.
+Werden herkömmliche E-Mails auf ihrem Weg durchs Netz mitgelesen?
+Die meisten Mails werden unterwegs mehrfach von Software-Robotern gelesen.
+Beim Provider des Absenders wird in der Regel überprüft, ob die Mail ein Schadprogramm als Anhang mit sich führt.
+Auf den Empfänger-Systemen wird ebenfalls ein Virus-Check vorgenommen.
+Außerdem überprüfen die Provider, ob es sich um eine lästige und unerwünschte Spam-Mail handelt, die gleich gelöscht oder zumindest in einen Spam-Ordner wegsortiert wird.
+Haben die Roboter noch eine weitere Aufgabe?
+Bei Systemen wie GMail ermittelt der Roboter auch die Informationen, die Google zum Platzieren von Kontext-Werbung benötigt.
+Wenn Anna und Benni per GMail über ihre kommenden Ferienreise kommunizieren, kann Google entsprechende Links zu Urlaubsangeboten einblenden.
+Lesen auch unbekannte Menschen die E-Mails mit?
+Die Wahrscheinlichkeit, dass unbefugte Personen eine Mail mitlesen, ist äußerst gering.
+Theoretisch ist das aber möglich.
+In Firmen haben häufig Administratoren die Möglichkeit, elektronische Post mitzulesen.
+Auch die Strafverfolgungsbehörden und Geheimdienste haben legale Möglichkeiten, E-Mails abzufangen oder zur Kenntnis zu nehmen.
+Dazu kommen mögliche illegale Ausspäh-Aktionen.
+Ist es möglich, E-Mails gegen das Mitlesen zu schützen?
+Mit einer Verschlüsselung nach dem OpenPGP-Standard kann eine E-Mail wirksam gegen Mitlesen verschlüsselt werden.
+Mit hohem technischen Aufwand ist es auch möglich, die Metadaten einer E-Mail-Kommunikation zu verschleiern, so dass nicht einmal ohne weiteres erkannt werden kann, wer mit wem kommuniziert hat.
+Wie wichtig sind Yahoo und Google auf dem E-Mail-Markt in Deutschland?
+Bei den hauptsächlich privat verwendeten Postfächern spielen Yahoo und Google laut einer Untersuchung von Convios Consulting aus dem August 2013 nur eine untergeordnete Rolle.
+Während die Anteile von Yahoo-Mail zuletzt gefallen waren, konnte GMail von Google deutlich zulegen.

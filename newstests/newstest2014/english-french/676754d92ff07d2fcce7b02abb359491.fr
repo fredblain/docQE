@@ -1,0 +1,13 @@
+La NSA met en cause une « erreur interne » et non des pirates informatiques pour la panne de son site
+La National Security Agency œuvrant dans l'ombre a déclaré vendredi que c'était un bug qui avait causé la panne de son site public pendant quelques heures, et non des hackers comme certains l'avaient prétendu en ligne.
+« NSA.gov est resté inaccessible pendant quelques heures ce soir en raison d'une erreur interne qui a eu lieu pendant une mise à jour prévue », a indiqué l'agence d'espionnage dans une déclaration par email.
+Le problème sera résolu ce soir.
+Les allégations selon lesquelles la panne était due à une attaque de déni de service distribué [DSD] sont fausses.
+Plus tôt ce soir, les trackers de serveurs en ligne ont noté que le site de la NSA avait été en panne pendant au moins 6 heures, et certains utilisateurs ne peuvent toujours pas accéder au site.
+Plus tôt, un porte-parole de la NSA a indiqué à ABC News que le réseau interne sensible de l'agence n'était « pas du tout » compromis.
+Aucune information classifiée n'est en danger, a expliqué le porte-parole.
+Au moins un groupe d'hacktivistes en ligne a affirmé être responsable de la panne du site de la NSA par une attaque DSD.
+Les attaques DSD visent à inonder un site ciblé jusqu'à ce que les serveurs soient surchargés et que le site s'effondre.
+La cyber-tactique n'est pas très sophistiquée et les attaques ne sont pas destinées à pénétrer dans le réseau interne du système visé.
+La NSA autrefois ultra secrète, un temps surnommée la « No Such Agency », s'est retrouvée sous le feu des projecteurs et fortement critiquée au cours des derniers mois suite à une vague de révélations à propos de ses vastes programmes de surveillance des communications au niveau national et à l'étranger – qui font partie des fichiers secrets de la NSA volés à l'agence et divulgués par l'ancien consultant désabusé de la NSA, Edward Snowden.
+Cette controverse croissante autour de l'agence a provoqué beaucoup de spéculations selon lesquelles l'incident de ce soir était le résultat d'une cyber-opération ciblée.

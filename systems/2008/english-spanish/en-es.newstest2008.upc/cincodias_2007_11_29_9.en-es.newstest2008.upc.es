@@ -1,0 +1,6 @@
+Virgin planes de 42.000 euros con Northern Rock millones en tres años 
+Northern Rock depósitos han caído más del 50% a 12.000 millones de libras (16,800 millones de euros) desde que pasó en crisis en el centro de septiembre y tuvo que recurrir al crédito de emergencia del Banco de Inglaterra. 
+Al tiempo que necesitaba depósitos de 25.000 millones de libras, una cifra que se ha venido cayendo progresivamente en los últimos dos meses debido a la desconfianza de sus clientes y a pesar de la garantía del 100% de ese dinero ofrecida por el Gobierno y quién va a mantenerla hasta el final de la crisis. 
+Virgin, que rebautizar la organización a su financiera marca Virgin dinero, debe obtener alrededor de un cuarto de ingresos en bancos británicos que están depositados en los próximos tres años para obtener los 18.000 millones de libras restantes hasta alcanzar el objetivo de 30.000 millones. 
+El Grupo del magnate Branson Richard, conocido por su extravagantes campañas de publicidad en el Reino Unido, el gasto piensa 50 millones de libras (70 millones de euros) anualmente investigación sobre la publicidad y la comercialización para lograr sus objetivos. 
+Northern Rock nombra esta semana la asociación de Virgin, que incluye otras tres empresas, como favorito para rescatar de quiebra. 

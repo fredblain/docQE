@@ -1,0 +1,39 @@
+Microsoft cherche une réceptionniste (virtuelle) 
+A la conférence sur les Technologies Émergentes du MIT Microsoft a été présenté un nouveau système de reconnaissance d'image et d'interaction humaine, une espèce d'Intelligence Artificielle dotée de peu d'intelligence mais capable d'accomplir quelques tâches basiques, comme appeler un taxi (ou dans le cas de Microsoft, une navette pour se déplacer dans le campus de l'entreprise) en réponse à ce qu'on lui a demandé lors d'une conversation. 
+Grâce à une caméra et à un système de reconnaissance de formes et de visages, cette "réceptionniste" peut savoir combien de personnes il y a dans le lieu, qui elles sont - y compris se rappeler quels postes elles occupent - et écouter et entendre les mots clefs de leurs conversations. 
+Mais également les regrouper selon des groupes de conversation 
+Dans la vidéo de présentation, la réceptionniste détecte une troisième personne mais elle comprend qu'elle n'appartient pas au groupe qui est en train de parler avec elle et qu'elle ne fait pas partie de l'entreprise. 
+Elle lui demande si elle est ici pour rendre visite à quelqu'un et elle lui dit qu'elle lui répondra dans quelques instants. 
+Tout ceci sans écran bleu. 
+Impressionnant. 
+Mais bien sûr cela représente l'avenir. 
+Maintenant l'entreprise a d'autres choses sur lesquelles se concentrer, par exemple sur la prochaine version de son système opérationnel, Windows. 
+Cette semaine on a parlé en plus d'un changement de stratégie chez Microsoft. 
+Windows 7 sera plus léger et il n'aura plus autant de programmes associés. 
+Steve Ballmer a découvert que si les ordinateurs étaient vendus avec l'indispensable au lieu d'applications inutiles, ils iraient cinq fois plus vite. 
+Cela représente une découverte puisque Microsoft, version après version, n'a  pas cessé d'ajouté des fonctions et des "extras" à Windows. 
+Le changement de stratégie est la bienvenue. 
+Microsoft a raison, son système opérationnel perd d'importance mais également son logiciel. 
+Quand Google Chrome est arrivé sur le réseau, j'ai été l'un de ceux qui a adhéré à la théorie selon laquelle Google Chrome est la première démarche de la part de Google pour faire concurrence à Windows. 
+Plusieurs personnes ont souligné à juste titre qu'un navigateur Internet n'est pas un système opérationnel. 
+Le système opérationnel sera toujours nécessaire puisque c'est la base indispensable pour que le matériel informatique et le logiciel se comprennent. 
+Il occupe la même fonction que votre femme ou votre mari quand vous avez à dire quelque chose à votre belle-mère. 
+C'est vrai. 
+Il ne disparaîtra jamais mais il faut voir la "mort" du système opérationnel non comme une vérité absolue mais  comme une vérité relative. 
+Cette semaine, Ballmer a confirmé cette idée. 
+Les gens font de moins en moins attention au système opérationnel mais de plus en plus au navigateur Internet. 
+On allume l'ordinateur seulement pour faire tourner Firefox, Explorer ou Chrome et chaque jour les gens passent plus de temps à naviguer sur Internet que à parcourir des fenêtres. 
+A qui servent la moitié des applications fournies avec le système ? 
+Qui peut le plus peut le moins. 
+Et Windows 7 devra contenir moins d'applications, beaucoup moins que Vista. 
+Moins lourd, mois encombré, moins complexe. 
+Pour le moment, Microsoft s'intéresse plus au lancement de ses propres services online pour qu'ils deviennent enfin une alternative à Google. 
+Ils ont désespérément besoin de cela, en effet, et je vous montre un exemple. 
+La photo présente dans cet article, a été prise au début de ce mois dans l'une des salles de repos réservée aux employés de Microsoft à Redmond. 
+Sur le distributeur de boissons, une affiche leur demande d'utiliser leur propre outil de recherche - "Ta recherche. Notre avenir". 
+En 2006, une étude concluait que 66 % des employés de Microsoft utilisait Google pour chercher des informations sur Internet. 
+La semaine dernière un retard s'est produit dans la nouvelle version de Windows Mobile 7. 
+Elle ne sortira pas au début de 2009 mais vers la fin 2009 ou voir en 2010. 
+Microsoft essaiera sûrement de lancer au même moment Windows 7 et Windows Mobile 7. 
+Le téléphone, après tout, ressemble de plus en plus à un ordinateur. 
+Mais le lancement d'Android étant en retard et l'iPhone étant déjà sur le marché, cela leur coûtera cher. 

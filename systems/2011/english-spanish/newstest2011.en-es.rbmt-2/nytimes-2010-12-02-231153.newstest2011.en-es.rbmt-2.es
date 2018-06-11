@@ -1,0 +1,30 @@
+Los acusadores no Le cargarán a Senador Enseña 
+Los acusadores del Ministerio de la justicia han vaciado a Senador John Enseña de alegaciones criminales que surgen de su asunto con un ayudante anterior de campaña y sus esfuerzos de asegurar presionando el trabajo para el marido de la mujer, los abogados del senador anunciaron el miércoles. 
+La decisión termina la amenaza más grave legal frente a Sr. Enseña, la Nevada republicano que fue considerado a un candidato a la presidencia republicano posible en 2012 hasta el escándalo sobre su asunto titulares nacionales hecho el año pasado y dañado su carrera. 
+La oficina del Sr. Enseña dijo él "ciertamente fue complacido" por la decisión, que siguió una investigación de un año. 
+El senador todavía podría encarar acción disciplinaria por el comité de la moralidad del Senado. 
+Los abogados del Sr. Enseña dijeron el Ministerio de la justicia "nos había informado que Enseña de Senador ya no es un objetivo de su investigación y que no tiene planes para traer ninguna carga contra él en este asunto". 
+El Ministerio de la justicia disminuyó hacer comentarios acerca del caso. 
+El anuncio vino como algo de una sorpresa a muchos abogados de la moralidad fuera del Ministerio de la justicia, que dijo allí pareció ser evidencia significativa de indicar que el Sr. Enseña puede haber conspirado en violar una prohibición criminal en el cabildeo federal. 
+Las entrevistas, correo electrónico y otros documentos revelaron primero en octubre 2009 en The New York Times indicaron que el Sr. Enseña había ayudado Douglas a Hampton, que fue uno de sus ayudantes, asegura el trabajo lucrativo de cabildeo para ganar el silencio de Sr. Hampton y su esposa, Cynthia, acerca del asunto del senador con ella. 
+La Sra. Hampton sirvió una vez como tesorero de una campaña de Enseña. 
+El Sr. Enseña contactó a varios comanditarios políticos para encontrar trabajo para Sr. Hampton y entonces recomendados en su beneficio después de que hubieran empleado a Sr. Hampton para presionar para ellos, según los documentos y entrevistas. 
+Porque el Sr. Hampton había sido recientemente un ayudante al Sr. Enseña, él fue impedido por la ley de presionar a su empleador anterior o el Senado en total para un año. 
+Los expertos de la moralidad dijeron el arreglo excepcional entre Sr. Enseña y Sr. Hampton, que fue amigos íntimos antes del asunto, pareció en probabilidades con la llamada prohibición de cabildeo de puerta giratoria. 
+De la evidencia que ha sido hecha público, "allí pareció ser un caso suficiente a primera vista de una conspiración de violar, e infracción substancial del estatuto de puerta giratoria", dijo Marca de Stanley, un abogado de Washington que especializa a defender a clientes investigados por el gobierno. 
+Mientras funcionarios de Ministerio de la justicia disminuyeron explicar el razonamiento detrás de la decisión en el caso de Enseña, el Sr. Marca y otros abogados de la moralidad dijeron el departamento parecido cauteloso de tomar prosecuciones políticas después de varios reveses prominentes para su sección pública de integridad, inclusive la decisión de dejar caer el año pasado la prosecución contra Senador anterior Ted Stevens entre cargas de mala conducta de prosecutorial. 
+Los acusadores federales "son claramente fusil huye", dijo Melanie Sloan, el director ejecutivo de Ciudadanos para la Responsabilidad y la Moralidad en Washington, un grupo de apoyo que trajo varias quejas contra Sr. Enseña en el caso. 
+"Esto dice básicamente funcionarios del estado que de alto rango ahora pueden asumir que las leyes no les aplican", agregó. 
+Paul Coggins, abogado principal de Sr. Enseña, dijo en una entrevista que recibió una llamada telefónica de un acusador del Ministerio de la justicia el lunes y un seguimiento al día siguiente, lo diciendo que el departamento no buscaba cargas contra su cliente. 
+El equipo de la defensa del Sr. Enseña había estado cooperando con acusadores a tratar de persuadirlos que el senador, como su oficina reiteró en una declaración el miércoles, "actuó de acuerdo con la ley". 
+El Sr. Coggins disminuyó deletrear los argumentos legales que hizo a acusadores. 
+"Yo no soy entrar cómodo los detalles de mis discusiones con el Ministerio de la justicia pero decir que pensamos que hicieron la decisión correcta", dijo. 
+El mes pasado, la Comisión Federal de Elección decidió dejar caer una investigación en una queja separada por el grupo de la moralidad que alega que un $96.000 pago de los padres de Sr. Enseña al Hamptons violó la ley federal de elección. 
+La comisión de la elección dijo que no tenía suficiente evidencia para demostrar el dinero fue nada menos un regalo. 
+Una compañía para que el Sr. Enseña ayudó hallazgo de a Sr. Hampton que presiona el trabajo fue Energía de NV, una compañía mayor de Nevada que había apoyado mucho tiempo al senador. 
+Un correo electrónico mandó diciembre 2008 mostraron que después de que la compañía causara a Sr. Hampton como un cabildero, el jefe de gabinete de Sr. Enseña, John Lopez, comunicara con Sr. Hampton y lo dijera que "golpeaba" el Departamento Interior sobre un asunto en debate. 
+El Sr. Enseña también asistió un almuerzo con Sr. Hampton y otro cliente de Nevada, Aire de Allegiant, y llamó al secretario de transporte a establecer una reunión en el beneficio de la línea aérea después de que hubiera empleado a Sr. Hampton para hacer presionando el trabajo. 
+Cuando noticias del asunto surgieron primero el año pasado, el Sr. Enseña se disculpó a sus componentes y dimitió su posición como el cuarto-situando líder republicano en el Senado. 
+Después de mantener un perfil bajo por muchos meses, el Sr. Enseña dijo a periodistas hace dos semanas que planeó correr para un tercer término en el Senado. 
+En anunciar que el Sr. Enseña ya no fue el objetivo de una investigación criminal, su portavoz, Tonelero de Jennifer, dijo que el senador esperaba que el comité de la moralidad siguiera rápidamente el plomo del Ministerio de la justicia y termine su indagación. 
+"Enseña de senador espera continuar su trabajo dedicado a favor de las personas de Nevada", dijo. 

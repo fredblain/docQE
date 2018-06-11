@@ -1,0 +1,11 @@
+Bono acepta la candidatura a la cabeza del PSOE para Toledo y para presidir el Congreso si ganó.  
+El ministro de Defensa de los antiguos José Bono ha aceptado la oferta de gobierno del Presidente y el Secretario General de los socialistas, José Luis Rodríguez Zapatero, a la cabeza de la lista de los PSOE por Toledo para las próximas elecciones generales y a ser presidente del Congreso en caso de los socialistas ganar las elecciones generales.  
+Esto se hizo en una conferencia de prensa del secretario de la Organización del PSOE, José Blanco , y el propio Bono, después de la reunión que se celebrará esta tarde en la sede del partido con Zapatero federal.  
+El ejecutivo en jefe ha justificado la oferta a los antiguos ministro porque "es importante tener las mejores" en la vida política y Bono "es una de las mejores".  
+Además, también se ha señalado que "parece" que el grupo de Manchego candidata socialista va a presidir el Congreso si los socialistas ganar en las próximas elecciones.  
+Bono reemplazaría al Congreso presidente Manuel Marín, que en noviembre 15ª hizo público su decisión de no presentarse a las próximas elecciones generales y a abandonar su carrera política para dedicarse a la lucha contra el cambio climático en el nivel universitario.  
+El Gobierno de los antiguos ministro ha reconocido que el presidente no ha impedido insistiendo en que él regreso a la vanguardia político desde que abandonó hace dos años.  
+Además, ha indicado que, al igual que los ciudadanos saber quién será el vicepresidente económica si el PSOE ganancias de las elecciones, han quería anunciar que presidirá el Congreso, en una "acto de transparencia".  
+Si su oficina de ganancias, Bono esperanzas para convertir la Asamblea en "la casa de respeto y no insulto o gritan". Y dejar "más y más visible para los ciudadanos".  
+"A veces, lamentablemente, parece que el único lugar en Madrid en la que no es posible ser hablar con confianza y calma es el Congreso, el Gobierno presidente en una ocasión fue interrumpido en el Senado 26 veces".  
+Además, ha elogiado el actual presidente, Manuel Marín y "el buen trabajo que haga" y no ha querido ser vistos como en su puesto, ya que no caigan en lo que, a sus adversarios podría parecer como "arrogancia".  

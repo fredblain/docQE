@@ -1,0 +1,21 @@
+Dupont en parte la culpa 
+El Quebec radio animator Stéphane Dupont sufrió un revés parcial ante la canadiense de Radio y Televisión de Consejo (CCNR) sobre el tema de la asistencia social y los haitianos, así como en el de su lengua burdas, mientras que en el aire. 
+Tne CNNR considera que M. Dupont y su equipo de Choi 98,1 FM tenía el derecho a expresar sus opiniones, sino que algunos temas contenía "información inexacta sobre la asistencia social, excesivamente negativo declaraciones relativas a los haitianos y burdas lengua no adecuados para las emisiones". 
+El Consejo también llegó a la conclusión de que un debate sobre el suicidio, incluida la emisión de los nombres de dos personas que habían cometido suicidio, no infringe la normativa. 
+La CCNR había recibido varias quejas sobre el tema de los comentarios realizados durante bradcasts entre 2008 y 2010. 
+La primera decisión fue dado a raíz de una denuncia del Quebec Frente común de las personas que reciben asistencia social. 
+El grupo se quejaba de que las cantidades citadas en las emisiones no eran correctas. 
+Los animators debe presentar sólida, no información engañosa. 
+Sobre el suicidio, el animator Stephane Dupont consideró que el suicidio fue la acción de un cobarde. 
+La mayoría de los miembros de la Comisión concluyó que el mensaje transmitido fue que el suicidio no debe ser visto como una solución de los problemas. 
+"La mayoría de la Comisión considera que los episodios en cuestión de" Dupont mediodía "a un tema delicado en una equilibrada y de forma adecuada". 
+En consecuencia, no culpa a él. 
+La última disputa se refería a las declaraciones que siguió al terremoto de Haití. 
+Stéphane Dupont y Jean-René Dufort tuvo un cara a cara de la discusión de los medios de comunicación, que dio lugar a una serie de reacciones. 
+El Choi animator declaró que él no había hecho ninguna contribución para ayudar a los haitianos, porque uno no puede estar seguro de que las personas que necesitan realmente podría recibir el dinero. 
+La Comisión considera que los comentarios no eran inadecuados, sino que su efecto acumulativo de haitianos era excesivamente negativo. 
+"Yo ya he cumplido mi tres días de suspensión allí". 
+"Mi trayectoria ha sido limpia durante dieciocho meses," declaró la animator. 
+En todas sus decisiones, la Comisión condena la retransmisión de lengua burdas. 
+La emisora Choi-FN ha colaborado "más allá de la llamada del deber" en todos los casos. 
+Las consecuencias son mínimas para la estación que debe, entre Al, anunciar estas decisiones una vez durante las horas de máxima audiencia dentro de tres días. 

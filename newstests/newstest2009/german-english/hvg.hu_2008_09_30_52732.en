@@ -1,0 +1,24 @@
+Intelligent car imitates the flying of a bumblebee 
+What could be a better way to advance the development of crash prevention technology than to mimic nature's obstacle detectors? 
+Let's examine bees, for instance! 
+In a surprising project that is in progress at CEATEC in Japan, the bumblebee has given engineers at Nissan a strategic hint at how to design the next generation of crash-avoidance systems. 
+Based on joint research with the University of Tokyo, Nissan has built the BR23C-type Biomimatic Car Robot Drive. It is a robotic micro-car that recreates bee characteristics with the goal of producing a system that prevents collisions altogether. 
+"In flight, each bee creates its own oval-shaped personal space, which in fact closely resembles our safety shield", said Kazuhhiro Doi brand director of technology, PR, research and development. 
+The compound structure of bees' eye plays a significant role, which makes the bees able to see in all directions, at an angle of 300 degrees. 
+In order to recreate the function of a compound eye, the engineers came up with the idea of a laser range finder. 
+This device detects obstacles up to two meters away within a 180-degree radius in front of the BR23C, calculates the distance to them and sends a signal to an on-board microprocessor, which is instantly translated into collision avoidance. 
+It takes just a fraction of a second to detect an obstacle, and the car robot instantly changes direction mimicking the movements of a bee by turning its wheels at the angle needed to avoid a collision. 
+One of the main differences from any current system is that the avoidance manoeuvre is totally instinctive. 
+"If that was not so, then the car robot would not be able to react fast enough to avoid obstacles," says Toshiyuki Andoh, manager of Nissan's Mobility Laboratory and principal engineer of the robot car project. 
+It must react instinctively and instantly because this technology corresponds to the most vulnerable and inner-most layer of the safety shield, a layer in which a crash is currently considered unavoidable. 
+The whole process must mirror what a bee does to avoid other bees. 
+It must happen within the blink of an eye. 
+But unlike a bee, it cannot deviate upwards or downwards or diagonally, only in two dimensions and only in the direction that the wheels can turn. 
+So in place of the infinite number of ways a bumblebee can avoid other bees, here only the rotation function, the acceleration and the deceleration have been applied as available means of collision avoidance. 
+BR23C uses lithium-polymer accumulators that are lighter and have a higher energy density, which - compared to the lithium-ion version - assures longer lifetime. 
+According to Andoh, what is important is the intelligent instinctive reaction, not the capability for data processing and storage. 
+The device is supposed to process only a few inputs per second and react on them accordingly. 
+There is no need for storing the inputs and reacting by the intuitive logic based on the previous manoeuvring data, so it allocates continuously only a few dozen kilobytes of memory. 
+There is no need for gigabyte or megabyte size memory. 
+This is the first step of developing the instant collision avoidance technology that, on the basis of Nissan's estimate, can be built into the series-produced cars within 10 years. 
+If connecting the device to the GPS satellite navigation system, an additional application option can be worked out which can help to avoid road barriers while driving. 

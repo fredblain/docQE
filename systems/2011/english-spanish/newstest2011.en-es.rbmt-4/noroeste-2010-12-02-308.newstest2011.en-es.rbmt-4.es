@@ -1,0 +1,11 @@
+NASA anunciará la vida extraterrestre de descubrimiento 
+La agencia de espacio americana llamaba a la prensa para mañana presentar un descubrimiento que causará impacto en la búsqueda de seres vivos en el espacio. 
+La Administración Nacional para Espacio y Aeronáutica (NASA) de los Estados Unidos presentará mañana, jueves, un descubrimiento de astrobiological, que podría demostrar la teoría de que hay vida extraterrestre. 
+El descubrimiento será presentado en una rueda de prensa mañana jueves a LAS 13:00 P.M. en sede de NASA en Washington por expertos en astrobiology; una ciencia descrita como aquél que estudia el origen, evolución, distribución y futuro de la vida en el Universo. 
+Al llamar a la prensa, NASA aseguraba que presentará "un descubrimiento que causará impacto en la búsqueda de vida extraterrestre", lo cual provocaba especulación por expertos en otros países. 
+El descubrimiento podría resultar viviendo la teoría de que hay criaturas que parecen nosotras en espacios hostiles que se piensan en como inhabitable, y pondrían en la mesa la posibilidad de que les convienen a seres inteligentes como humanos si mejoran sus condiciones de vida. 
+Aparentemente se centra en un microbio que se encontraba en el fondo del Lago de Mono en el Parque Nacional Yosemite, California, donde vive en un ambiente que era considerado demasiado venenoso para cualquier forma de vida, desde que el lago es rico en arsénico. 
+De algún modo, el arsénico de usos de criatura como un modo de supervivencia y fuera de esta capacidad aumenta la posibilidad de que la vida similar podría existir en otros planetas que no tienen nuestro ambiente benévolo. 
+Según astrobiologists, si estos organismos utilizan arsénico en su metabolismo, se demostrará que "hay en efecto otra forma de vida, una segunda forma de vida, diferente de aquél que sabemos". 
+La agencia de espacio presentará el pleno alcance de los descubrimientos en la rueda de prensa de mañana jueves. 
+Pamela Conrad, que estudia la posibilidad de vida en Marte; y el biólogo Steven Benner, uno de los científicos que estudian Titan (la luna de Saturn mayor), bajo la perspectiva a la cual su química es similar el uno de la Tierra los dos asistirán a la conferencia. 

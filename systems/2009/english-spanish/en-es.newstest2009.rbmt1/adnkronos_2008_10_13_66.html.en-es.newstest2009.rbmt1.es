@@ -1,0 +1,15 @@
+Jugadores de Mp3 bajo la imputaci¢n, ellos pusieron el o¡do al riesgo 
+Escuchando a la m£sica al volumen alto para un periodo prolongado de tiempo que usa los dispositivos musicales port tiles como jugadores de Mp3 podr¡an causar las lesiones permanentes a o¡r. 
+Esto es lo que un informes de la Comisi¢n europeos que en una comunicaci¢n soltaron en Bruselas citan el consejo dado por el Comit Cient¡fico en Surgir y Recientemente Identific¢ la Salud se Arriesga (SCENIHR) del EU, public¢ hoy. 
+" Del â de este consejo cient¡fico la nota lee â surge que 5 - 10% de aqullos que, para un periodo de por lo menos 5 a¤os, escuche a m£sica que usa a los jugadores musicales port tiles semanalmente para m s de una hora un d¡a con el dispositivo al riesgo de volumen alto una prdida permanente de o¡r la habilidad ". 
+" Me preocupa ese tal un n£mero grande de personas j¢venes que frecuentemente usan jugadores musicales port tiles y los telfonos celulares al volumen muy alto puede da¤ar su o¡do inconscientemente de una manera " irreparable, declara Meglena Kuneva. 
+" De los resultados cient¡ficos â contin£a al portavoz de EU â un riesgo claro surge y nosotros tenemos que reaccionar r pidamente. 
+Qu cuenta la mayor¡a, nosotros necesitamos sensibilizar los consumidores y hacer esta informaci¢n disponible al p£blico. 
+Adem s, en la luz de este consejo cient¡fico, nosotros tenemos que repasar los sistemas del mando existentes para asegurarse que ellos son completamente eficaces y guardaron actualizado con la nueva tecnolog¡a ". 
+Bruselas hab¡a pedido al Comit cient¡fico independiente examinar el problema, mientras viendo el uso extendido de jugadores musicales port tiles y el aumento en el n£mero de personas j¢venes expusieron al ruido que ellos generan. 
+" Cient¡ficos â concluye el EU que â ejecutivos confirman que hay razones para la preocupaci¢n y la Comisi¢n europea examinar  ahora, junto con los estados del miembro y otras fiestas interesadas, qu medidas pueden tomarse para proteger bien a los ni¤os y las personas j¢venes de la exposici¢n a ruido que viene jugadores musicales port tiles y el equipo " relacionado. 
+Actualmente, una provisi¢n de seguridad europea ya existe qu l¡mites el nivel del ruido de jugadores musicales port tiles a 100 dB, pero preocupaciones con respecto a da¤o de o¡do causado por una exposici¢n excesiva a las tales fuentes del ruido, est  aumentando. 
+Es posible limitar el da¤o considerablemente acudiendo a las soluciones como la reducci¢n de nivel y duraci¢n de la exposici¢n del ruido. 
+En su opini¢n, el EU fuera que el Comit Cient¡fico apunta que si los usuarios de jugadores musicales port tiles escuchan a la m£sica al volumen alto ( 
+Las personas que escuchan a la m£sica bajo cosas as¡ condicionan para las duraciones m s largas arriesg£ese una prdida permanente de o¡r la habilidad despus de un 5 periodo del a¤o. 
+ste es el caso para 5-10% de usuarios de tales dispositivos y su n£mero puede cuantificarse a entre 2.5 y 10 millones de personas dentro del EU. 

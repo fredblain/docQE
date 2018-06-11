@@ -1,0 +1,6 @@
+La virgen planea hacer con Roca del Norte 42,000euros un millón en tres años
+Los depósitos de Roca del norte han bajado más de 50% a 12,000000 millones de libras (16,800000 millones de euros) desde que iba en la crisis en el medio de septiembre y tenía que recurrir a crédito de emergencia del Banco de Inglaterra.
+En el tiempo que necesitaba depósitos de más de 25,000000 millones de libras, una cifra que ha estado bajando progresivamente en los últimos dos meses debido a la desconfianza de sus clientes y a pesar de la garantía de éste cien por ciento de ese dinero ofrecido por el Gobierno y quien lo mantendrá hasta el extremo de la crisis.
+Virgen, eso renombraría la organización a su Dinero Virgen de marca comercial financiero, necesidades de empezar un cuarto de ingresos en bancos británicos que se depositan en luego el tres siguiendo siendo los años para obtener esos 18,000 millones libras hasta alcanzar el objetivo de 30,000 millones.
+El grupo del magnate Richard Branson, conocido por sus campañas publicitarias vistosas en el Reino Unido, pretende que el gasto 50 millones golpea (cerca de 70 millones de euros) anualmente investigación de publicidad y mercadotecnia para lograr sus propósitos.
+Roca del Norte nombraba esta semana la sociedad de Virgen, que incluye tres otras compañías, como su favorito rescatarlo de la bancarrota.

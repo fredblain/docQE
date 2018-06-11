@@ -1,0 +1,9 @@
+Austria
+La inscripción de una « regla de oro presupuestaria » en la constitución
+El gobierno de la gran socialdemócrata / cristiana democrática de la coalición en el poder en Austria decidió el martes a escribir una « regla de oro presupuestaria » en la constitución, con el fin de reducir el déficit público y evitar así una posible rebaja de Austria por parte de las agencias de calificación del crédito soberano rsting (triple A).
+Fue el social - demócrata elf, su canciller Werner Faymann, que anunció esta decisión al final de una reunión del consejo de ministros, con la deuda pública austriaca al 74,6%, muy superior a la norma de un máximo de 60% fijado por el Tratado de Maastricht, pero por debajo de la deuda pública de países como Italia, Grecia o España.
+« Si la solvencia de Austria no había caído en un único punto, de aaa a AA +, tendríamos que pagar tres mil millones de euros de intereses más cada año », sostuvo el vicepresidente y canciller cristianodemócrata ministro de exteriores, Michael Spindelegger.
+Austria así cumple con una petición de la cumbre de Bruselas de los estados miembros de la zona euro del 26 de octubre; los jefes de estado y de Gobierno solicitó una reducción por la final de 2102 de déficits públicos y una vuelta al equilibrio de las cuentas públicas en la constitución o en una ley para el mismo efecto.
+Las disposiciones aprobadas por el Gobierno austriaco enfoque el « modelo alemán », ha sido el primer país europeo para aprobar esta « norma ».
+En 2017, el público déficit estructural debe caer por el 0,75% del PIB) y a partir de 2017, el déficit público estructural del estado federal no debe sobrepasar el 0,35% del PIB en un año, mientras que los estados federados, así como las comunidades, debe presentar presupuestos equilibrados.
+El objetivo es el de la deuda pública por debajo del 60% criterio fijo por el Tratado de Maastricht en 2020 / 2021.

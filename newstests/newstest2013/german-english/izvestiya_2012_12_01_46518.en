@@ -1,0 +1,74 @@
+"At the moment, the mind cannot be deceived too well"
+Among modern technology fans a popular topic is augmented reality, lately seen primarily through the prism of special glasses.
+At first, a functional model was shown by Google in the summer, at its annual conference. Then, in November, it was announced that Microsoft filed an application for patent too.
+However, according to the conversation with the leader of the group of interactive 3D technologies in the Cambridge laboratory of Microsoft, Shahram Izadi, glasses are a thing of the past for scientists in this company.
+They are drawn by the prospect of manipulating virtual objects in the air with bare hands, creating virtual open spaces.
+- Please tell us, in simple terms, about the work your research group does.
+- We work on the interaction of people with machines, at the same time trying to expand the boundaries of this interaction.
+While people in general are stuck at working with pixels on a flat screen and sometimes pointing fingers at them.
+We want to look 5-10 years into the future and predict cardinal changes in this interaction.
+For example, Xbox and Kinect sensors are a step forward. Almost no Xbox is sold without Kinect today, because everyone likes control by gestures.
+- What else awaits us in the future?
+- Despite the fact that Kinect shifted the interaction to the physical level, much still occurs on a flat screen, sometimes in 3D.
+Information entry has improved (the system receives more data), but output still needs to get better.
+We are trying to change this, working on truly three-dimensional display systems based on various technologies, including projection technologies.
+We need to let the computer world into our physical world, make it more tangible.
+But for this, we need to identify both the user and the space around him.
+Then we will be able to supplement the real world with virtual objects in a much more convenient form.
+Above all, get rid of these stupid virtual reality helmets!
+- What do you think about voice control?
+It's a popular thing, but is it overestimated?
+- It clearly cannot be called a cure-for-all - there's a question of privacy, because we do not always want to let the others know about our actions and intentions.
+In reality, all types of interaction with computers are good, but each in their own niche.
+For example, we had a project to control devices in public places, in which we thought about movements, not wide movements, but small, reserved ones.
+Movements were not recorded by a camera, but by a hand bracelet that determined the movement of bones and muscles.
+It's big right now, but in theory it can be reduced to the size of a hand watch.
+In general, the future lies in the mixed control, e.g. movement + voice.
+- What do you mean? 
+- For example, how would you ask me to give you this bottle of water?
+You will talk and show at the same time.
+- Usually I just say.
+- Oh, that will be very hard to detect.
+- So you want to make the users adapt to what the machine can or cannot do at that moment?
+- Not necessarily, but it is a mutual approximation.
+I think in the near future, we will mainly work on developing new sensors that will enable more precise determination of a person's reaction.
+This could be, e.g. laser sensors. They have a decent depth resolution, which is very important.
+- If we talk about your work with Xbox Kinect sensors, what are your complaints about modern cameras?
+Not enough resolution, depth or something else?
+- In general, the current generation is what we can base ourselves on in working on three-dimensional recognition.
+Of course, it would be good to have eight mega pixels with 1000 k/s speed.
+It's not just the mega pixels, though, but the quality of the matrix and the depth.
+From the latter point of view, all current technologies are not good enough for us - this adds work to the algorithm designers.
+So it's important to remember about the resolution on the X, Y, but also the Z axis.
+Speed, the number of images per second, is also very important.
+Human movements are relatively dynamic, and the current 30 k/s is really not enough, especially for gestures.
+Steven Bathiche from our Redmond laboratory created a touch sensor with a regulated processing delay from 1 to 100 ms, while modern serial sensors are closer to the latter indicator (60-100).
+Not everyone understands how this affects the interaction between man and machine.
+In my work, it would be very useful to have a device that does not require touching and would have more images per second.
+- Does the number of cameras need to be increased?
+- In Kinect there are three cameras now, one of which is actually an infrared emitter and the second one, the recipient of the signal.
+The third one is actually a regular sensor of visible range.
+It is not applied to determine the object's depth.
+Potentially, a large number of cameras could solve the problem...
+Or make it worse, by increasing the required volume of calculations.
+It would be nice to create a flexible analogue Kinect, play with the flexion of camera disposition and see how this will help in three-dimensional determination of the position.
+- As far as I remember, Microsoft did not present its glasses to the public, unlike Google.
+Don't you think this is one of the most promising platforms from the point of view the everyday use of augmented reality technologies?
+- Certainly it is not very convenient to walk around with a smart phone in your raised hands all the time, but I think that the coolest option would be "transitional" augmented reality, where you could shift from glasses to smart phone, projection display, and everywhere else based on a cloud platform.
+Glasses are a very personal device, that is their strength (private things are seen only by you) and, at the same time, their weakness - augmented reality based on glasses will not allow you to work on virtual objects together with other people.
+- Let us imagine for a minute that manipulation of virtual holographic objects in the air is available not only to Tony Stark from Ironman, but to a regular person.
+There is one problem with this idea that the critics often point out: no tactile feedback!
+Hands feel nothing!
+What answers does your group prepare to this challenge?
+- In my lectures I often say that augmented reality is the seventh consecutive attempt at the interaction between man and machine.
+I think that the eighth will probably be the addition of tactile sensations.
+For now, one of the interesting tricks is to use the second hand as a sort of matrix for the image.
+It is great at registering pushes!
+But there are technologies that are really aimed at giving these "images in the air" a sense of tangibility, for example, the interference of several targeted ultrasound rays in a specific point where the finger is located gives a sensation, but very weak right now, as if someone blew on your fingertip.
+There are also wrist bracelets that affect the nerve endings in fingers, which is also a promising area.
+- Have you tried to deceive the mind?
+To force it to think that it feels something that it should be feeling when it sees something?
+- This is a good idea and we haven't tried this yet.
+It conceals one challenge that will not be solved so quickly - how to force a person, who is physically in a very limited space to believe that he is walking along an open, almost limitless space; we are working on the concept of treadmills (not at all like in clubs), moving platforms, and giant balloons.
+So far deceiving the mind has had limited success, there's work for many years to come.
+That's what makes working on virtual reality so attractive to researchers - many things are in their very beginnings.

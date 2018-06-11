@@ -1,0 +1,11 @@
+La nasa anunciar el descubrimiento de la vida extraterrestre 
+La agencia espacial estadounidense llamado la prensa mañana va a presentar un descubrimiento que causar impacto en la búsqueda de los seres vivos en el espacio. 
+La administración nacional para el espacio y la aeronáutica (nasa) de los estados unidos va a presentar mañana, jueves, un astrobiological descubrimiento, que podría ser la teoría de que no existe la vida extraterrestre. 
+El descubrimiento será presentado en una conferencia de prensa mañana jueves a las 13: 00 horas de la nasa sede en washington por expertos en astrobiology; una ciencia descrito como la que estudios el origen, la evolución, la distribución y el futuro de la vida en el universo. 
+Cuando la prensa, la nasa asegurado que se presente un descubrimiento que causa "impacto en la búsqueda de la vida extraterrestre", lo que provocó la especulación por expertos de otros países. 
+El descubrimiento criaturas podría resultar la teoría de que hay que mirar como nosotros que viven en espacios que hostiles como inhabitables, y la posibilidad de que se les pongan sobre la mesa se seres inteligentes como los seres humanos, si mejorar sus condiciones de vida. 
+Aparentemente es alrededor de un microbio que fue encontrado en el fondo del mono lago en el parque nacional yosemite, california, donde vive en un ambiente que era demasiado venenosas para cualquier forma de vida, desde el lago es rica en el arsénico. 
+Alguna, utiliza la criatura arsénico como un medio de supervivencia y de esta capacidad aumenta la posibilidad de que existan vida similares en otros planetas que no benevolente con nuestro medio ambiente. 
+Según astrobiologists, si estos organismos uso arsénico en su metabolismo, será manifestó que "de hecho, es otra forma de vida, una segunda forma de vida, distinta de la que sabemos". 
+La agencia espacial va a presentar la magnitud de los descubrimientos en la conferencia de prensa de mañana jueves. 
+Pamela conrad, los estudios de la oms la posibilidad de la vida en marte; y el biólogo steven benner, uno de los científicos que estudian prodigio (la mayor luna saturno), con la perspectiva de que su química es similar a la de la tierra tanto asistir a la conferencia. 

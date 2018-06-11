@@ -1,0 +1,4 @@
+El fiscal de los Balcanes 
+Ponte del Carla de ocho años implacablemente perseguir los criminales de guerra de los Balcanes de la fiscalía del Tribunal Penal para la ex Yugoslavia, situado en La Haya. 
+Su mandato expira a finales del año y Carla de irá con sabor agridulce, porque las personas responsables del sacrificio Srebrenica - donde 8.000 bosnios musulmanes murieron, el ex-general Ratko Mladic y Radovan ex-Bosnian serbio líder Karadzic, están todavía en general. 
+Sus nombres en la lista de los suizos documentales, producidos por Schüpbach Marcel, toma su título, Carla de "la lista" (2006, no liberado en España), que tiene el ritmo de una cinta policial, y sigue la labor del fiscal suizo de Belgrado a Nueva York para procesar a los criminales huyen y la presión de los gobiernos para reforzar el asedio. 
