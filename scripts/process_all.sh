@@ -14,3 +14,6 @@ bash get_newstests.sh
 bash get_systems.sh
 python3 align-docs.py
 python3 score-bleu.py
+## uncomment filt='' to gather TER and Bleu sentence-level scores 
+## for *all* submissions
+bash gather-hter-bleu-corpus-with-scores.sh |tee gather-hter-bleu-corpus-with-scores.filtered.log
