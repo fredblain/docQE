@@ -3,7 +3,7 @@
 This repository contains the resources used for our [COLING'18 paper][1], and released as part of our [framework for neural-based Quality Estimation (DeepQuest)][2].
 If you use this data, please cite:
 
-<b>DeepQuest: a framework for neural-based Quality Estimation</b>. [Julia Ive][1], [Frédéric Blain][4], [Lucia Specia][5] (2018).
+<b>DeepQuest: a framework for neural-based Quality Estimation</b>. [Julia Ive][3], [Frédéric Blain][4], [Lucia Specia][5] (2018).
 
     @article{ive2018deepquest,
       title={DeepQuest: a framework for neural-based Quality Estimation},
@@ -16,4 +16,4 @@ If you use this data, please cite:
 [2]: https://sheffieldnlp.github.io/deepQuest/
 [3]: https://github.com/julia-ive
 [4]: https://fredblain.org/
-[5]: http://www.dcs.shef.ac.uk/~lucia/
+[5]: https://www.imperial.ac.uk/people/l.specia
