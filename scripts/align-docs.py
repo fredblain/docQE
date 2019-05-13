@@ -25,20 +25,35 @@ NEWTESTS = '../newstests/newstest'
 SYSTEMS = '../systems/'
 ODIR = '../filelists-and-doc-scores/'
 
-YEARS = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
-LPs = {'german-english':['de','en'], 'english-russian':['en','ru'], 'english-french':['en','fr'], 'english-spanish':['en','es']}
+YEARS = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']#, '2019']
+LPs = {'german-english':['de','en'], 'english-russian':['en','ru'], 'english-french':['en','fr'], 'english-spanish':['en','es'], 'english-german':['en','de']}
 # we filter best and worse systems for each year:
+# FILTERED_SYS = { \
+#         '2008':[], \
+#         '2009':[], \
+#         '2010':['lium14.en-fr','uk-dan.en-fr'], \
+#         '2011':['newstest2011.de-en.cst-contrastive','newstest2011.de-en.linguatec','newstest2011.en-es.udein','newstest2011.en-es.upm','newstest2011.en-fr.lium','newstest2011.en-fr.cu-zeman'], \
+#         '2012':['newstest2012.de-en.quaero_primary','newstest2012.de-en.uk-dan-moses','newstest2012.en-es.uedin-wmt12', 'newstest2012.en-es.uk-dan-moses','newstest2012.en-fr.RWTH-Jane2-HPBT-constrained','newstest2012.en-fr.uk-dan-moses'], \
+#         '2013':['newstest2013.de-en.QUAERO_primary.2601','newstest2013.de-en.desrt.2704','newstest2013.en-es.uedin-wmt13.2835','newstest2013.en-es.Shef-wproa.2778', 'newstest2013.en-fr.uedin-wmt13.2884','newstest2013.en-fr.Its-LATL.2652', 'newstest2013.en-ru.PROMT.2753','newstest2013.en-ru.cu-zeman.2730'], \
+#         '2014':['newstest2014.eubridge.3569.de-en','newstest2014.DCU-ICTCAS-Tsinghua-L.3444.de-en','newstest2014.uedin-wmt14.3023.en-fr','newstest2014.PROMT-Rule-based.3083.en-fr','newstest2014.uedin-unconstrained.3445.en-ru','newstest2014.PROMT-Rule-based.3081.en-ru'], \
+#         '2015':['newstest2015.uedin-jhu-phrase.4102.de-en','newstest2015.Illinois.4085.de-en','newstest2015.uedin-jhu-phrase.4144.en-ru','newstest2015.USAAR-gacha.3962.en-ru'], \
+#         '2016':['newstest2016.uedin-nmt.4313.de-en','newstest2016.uedin-nmt.4313.de-en','newstest2016.uedin-nmt.4307.en-ru','newstest2016.AFRL-MITLL-verb-annot.4526.en-ru'], \
+#         '2017':['newstest2017.uedin-nmt.4723.de-en','newstest2017.TALP-UPC.4830.de-en','newstest2017.uedin-nmt.4756.en-ru','newstest2017.PROMT-Rule-based.4736.en-ru'] \
+#         }
+#
 FILTERED_SYS = { \
         '2008':[], \
         '2009':[], \
-        '2010':['lium14.en-fr','uk-dan.en-fr'], \
-        '2011':['newstest2011.de-en.cst-contrastive','newstest2011.de-en.linguatec','newstest2011.en-es.udein','newstest2011.en-es.upm','newstest2011.en-fr.lium','newstest2011.en-fr.cu-zeman'], \
-        '2012':['newstest2012.de-en.quaero_primary','newstest2012.de-en.uk-dan-moses','newstest2012.en-es.uedin-wmt12', 'newstest2012.en-es.uk-dan-moses','newstest2012.en-fr.RWTH-Jane2-HPBT-constrained','newstest2012.en-fr.uk-dan-moses'], \
-        '2013':['newstest2013.de-en.QUAERO_primary.2601','newstest2013.de-en.desrt.2704','newstest2013.en-es.uedin-wmt13.2835','newstest2013.en-es.Shef-wproa.2778', 'newstest2013.en-fr.uedin-wmt13.2884','newstest2013.en-fr.Its-LATL.2652', 'newstest2013.en-ru.PROMT.2753','newstest2013.en-ru.cu-zeman.2730'], \
-        '2014':['newstest2014.eubridge.3569.de-en','newstest2014.DCU-ICTCAS-Tsinghua-L.3444.de-en','newstest2014.uedin-wmt14.3023.en-fr','newstest2014.PROMT-Rule-based.3083.en-fr','newstest2014.uedin-unconstrained.3445.en-ru','newstest2014.PROMT-Rule-based.3081.en-ru'], \
-        '2015':['newstest2015.uedin-jhu-phrase.4102.de-en','newstest2015.Illinois.4085.de-en','newstest2015.uedin-jhu-phrase.4144.en-ru','newstest2015.USAAR-gacha.3962.en-ru'], \
-        '2016':['newstest2016.uedin-nmt.4313.de-en','newstest2016.uedin-nmt.4313.de-en','newstest2016.uedin-nmt.4307.en-ru','newstest2016.AFRL-MITLL-verb-annot.4526.en-ru'], \
-        '2017':['newstest2017.uedin-nmt.4723.de-en','newstest2017.TALP-UPC.4830.de-en','newstest2017.uedin-nmt.4756.en-ru','newstest2017.PROMT-Rule-based.4736.en-ru'] \
+        '2010':[], \
+        '2011':[], \
+        '2012':[], \
+        '2013':['newstest2013.en-ru.PROMT.2753','newstest2013.en-ru.cu-zeman.2730','newstest2013.en-de.Shef-wproa.2748','newstest2013.en-de.uedin-wmt13.2638'], \
+        '2014':['newstest2014.uedin-unconstrained.3445.en-ru','newstest2014.PROMT-Rule-based.3081.en-ru','newstest2014.uedin-stanford-unconstrained.3539.en-de','newstest2014.PROMT-Rule-based.3079.en-de'], \
+        '2015':['newstest2015.uedin-jhu-phrase.4144.en-ru','newstest2015.USAAR-gacha.3962.en-ru', 'newstest2015.Neural-MT.4079.en-de','newstest2015.ExEx.4124.en-de'], \
+        '2016':['newstest2016.uedin-nmt.4307.en-ru','newstest2016.AFRL-MITLL-verb-annot.4526.en-ru','newstest2016.uedin-nmt.4312.en-de','newstest2016.jhu-syntax.4528.en-de'], \
+        '2017':['newstest2017.uedin-nmt.4756.en-ru','newstest2017.PROMT-Rule-based.4736.en-ru','newstest2017.uedin-nmt.4722.en-de','newstest2017.PROMT-Rule-based.4735.en-de'], \
+        '2018':['newstest2018.Microsoft-Marian.5691.en-de','newstest2018.RWTH-UNSUPER.5484.en-de','newstest2018.Alibaba-ensemble-model.5713.en-ru','newstest2018.PROMT-Hybrid-OpenNMT.5654.en-ru'], \
+        '2019':['newstest2019.MSRA.MADL.6926.en-de','newstest2019.TartuNLP-c.6508.en-de','newstest2019.Facebook_FAIR.6724.en-ru','newstest2019.NICT.6563.en-ru'], \
         }
 
 if not os.path.exists(ODIR):
