@@ -1,0 +1,2797 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <script src="/javascripts/prototype.js?1504722372" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1504722372" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1504722372" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1504722372" type="text/javascript"></script>
+<script src="/javascripts/application.js?1504722372" type="text/javascript"></script>
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>
+			System Output List
+		 
+		 </title>
+  <link href="/stylesheets/application.css?1554820449" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="nav">
+	<span class="logo"><a href="http://www.euromatrix.net/"><img alt="EuroMatrix" height="90" src="/images/euromatrix.jpg?1504722313" width="90" /></a></span>
+	<p class="title">
+						System Output List
+					 
+	</p>
+					
+						English-German newstest2018<br>
+					
+	<ul>
+	<li>
+		<a href="#">Translations</a>
+		<ul>
+		<li><a href="/?metric%5Bid%5D=5&amp;mode=best">show best score</a></li>
+		<li><a href="/?metric%5Bid%5D=5&amp;mode=bestn">show best system</a></li>
+		<li><a href="/?mode=all">list all systems</a></li>
+		<li><a href="/matrix/primaries_list">primary systems </a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="#">Resources</a>
+		<ul>
+		<!--<li><a href="#">contribute</a></li>
+		<li><a href="#">all</a></li>
+		<li><a href="#">corpora</a></li>
+		<li><a href="#">tools</a></li>
+		<li><a href="#">systems</a></li>-->
+		<li><a href="/resources/matrix?set=eu_official">EU official languages</a></li>
+		<li><a href="/resources/matrix?set=euro_all">European languages</a></li>
+		<li><a href="/resources/matrix?set=all">World languages</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="#">Download</a>
+		<ul>
+		<li><a href="/test_sets/list">test sets</a></li>
+		<li><a href="/corpora/list">training data</a></li>
+		<li><a href="http://www.statmt.org/moses/">baseline system</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="#">Info</a>
+		<ul>
+ 		<li><a href="/matrix/info">the matrix</a></li>
+		<li><a href="http://www.euromatrixplus.net/">euromatrix+ project</a></li>
+		<li><a href="http://www.euromatrix.net/">euromatrix project</a></li>
+		<li><a href="http://www.statmt.org/wmt13/">acl wmt 2013</a></li>
+		<li><a href="http://www.statmt.org/wmt12/">acl wmt 2012</a></li>
+		<li><a href="http://www.statmt.org/wmt11/">acl wmt 2011</a></li>
+		<li><a href="http://www.statmt.org/wmt10/">acl wmt 2010</a></li>
+		<li><a href="http://www.statmt.org/wmt09/">acl wmt 2009</a></li>
+		<li><a href="http://www.statmt.org/wmt08/">acl wmt 2008</a></li>
+		<li><a href="http://www.statmt.org/wmt07/">acl wmt 2007</a></li>
+		<li><a href="http://www.statmt.org/wmt06/">acl wmt 2006</a></li>
+	   	</ul>
+	</li>
+	<li>
+		<a href="#">Account</a>
+		<ul>
+		
+		<li><a href="/account/signup">create account</a> </li>
+		<li><a href="/account/login">log in</a> </li>
+		
+ 	   	</ul>
+	</li>
+   	</ul>
+</div>
+
+
+<div class="content">
+
+<p class="message"></p>
+
+
+<h2>Interested in Contributing?</h2>
+<ul>
+<li>Check out available <a href="/resources/list?l1=en&amp;l2=de">resources</a>.</li>
+<li>Create an <a href="/account/signup">account</a> and start <a href="/account/status">submitting</a> your own systems.</li>
+</ul>
+<h2>Scored Systems</h2>
+<table class="list">
+	<tr>
+		<th>System</th>
+		<th>Submitter</th>
+		<th>System Notes</th>
+		<th>Constraint</th>
+		<th>Run Notes</th>
+		
+      
+			  <th><a href="/matrix/systems_list/1881?metric_id=4">BLEU</a> </th>
+		  
+		
+      
+			  <th><a href="/matrix/systems_list/1881?metric_id=5">BLEU-cased</a> </th>
+		  
+		
+      
+		
+      
+		
+      
+		
+      
+			  <th><a href="/matrix/systems_list/1881?metric_id=2">TER</a> </th>
+		  
+		
+      
+			  <th><a href="/matrix/systems_list/1881?metric_id=7"> BEER 2.0</a> </th>
+		  
+		
+      
+			  <th><a href="/matrix/systems_list/1881?metric_id=8"> CharactTER</a> </th>
+		  
+		
+	</tr>	
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5691">Microsoft-Marian</a>&nbsp;
+		    <i><a href="/systems/show/3525">(Details)</a></i></td>
+		<td style="background-color: #EB0000">marcinjd<br/><i>Microsoft</i></td>
+		<td width="150">Marian, Transformer-big ensemble x4. With filtered, clean, and domain-weighted paracrawl. Also domain-weighthing original parallel data. Decoder-time ensemble with in-domain Transformer-LM. Right-to-left scoring with Transformer-big models.</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">48.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed_best">48.3</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.407</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.697</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.362</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5585">NMT-SMT Hybrid</a>&nbsp;
+		    <i><a href="/systems/show/3457">(Details)</a></i></td>
+		<td style="background-color: #A2C1AC">fstahlberg<br/><i>University of Cambridge</i></td>
+		<td width="150">MBR-based combination of neural models and SMT</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">47.1</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.6</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.415</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.691</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.369</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5667">NTT Transformer-based System</a>&nbsp;
+		    <i><a href="/systems/show/3324">(Details)</a></i></td>
+		<td style="background-color: #007CC3">makoto-mr<br/><i>NTT</i></td>
+		<td width="150">Based on Transformer Big model. Trained with filtered version of CommonCrawl, ParaCrawl and 
+synthetic corpus of newscrawl2017. R2L reranking.</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">47.0</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.5</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.426</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.688</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.370</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5486">KIT Primary Submission</a>&nbsp;
+		    <i><a href="/systems/show/3385">(Details)</a></i></td>
+		<td style="background-color: #F03636">pianist<br/><i>Karlsruhe Institute of Technology</i></td>
+		<td width="150">Primary Submission</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.3</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.428</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.687</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.382</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5594">MMT production system</a>&nbsp;
+		    <i><a href="/systems/show/3445">(Details)</a></i></td>
+		<td style="background-color: #00ACC1">nicolabertoldi<br/><i>MMT srl</i></td>
+		<td width="150">Transformer-based neural MT;
+single model; single pass decoding.</td>
+                <td width="40">no</td> 
+		<td width="150">Trained on public and proprietary data. </td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.7</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.2</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.432</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.682</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.387</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5926">Facebook-FAIR</a>&nbsp;
+		    <i><a href="/systems/show/3622">(Details)</a></i></td>
+		<td style="background-color: #925DD7">edunov<br/><i>Facebook FAIR</i></td>
+		<td width="150">Ensemble of six self-attentional models with back-translation data according to https://arxiv.org/abs/1808.09381
+</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.5</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.1</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.423</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.689</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.381</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5972">Ubiqus-NMT</a>&nbsp;
+		    <i><a href="/systems/show/3640">(Details)</a></i></td>
+		<td style="background-color: #F50C3A">vince62s<br/><i>Ubiqus</i></td>
+		<td width="150">Base transformer
+Include a selection of Paracrawl
+Include WMT16 Rico's BackT</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">46.1</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">45.6</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.422</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.685</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.383</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5726">Contrastive (Single)</a>&nbsp;
+		    <i><a href="/systems/show/3548">(Details)</a></i></td>
+		<td style="background-color: #F03636">pianist<br/><i>Karlsruhe Institute of Technology</i></td>
+		<td width="150">Single Transformer (Base) Model</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">45.7</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">45.1</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.435</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.682</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.389</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5770">uedin-en-de-single-transfomer</a>&nbsp;
+		    <i><a href="/systems/show/3581">(Details)</a></i></td>
+		<td style="background-color: #cccccc">ugermann<br/><i>University of Edinburgh</i></td>
+		<td width="150">Single transformer trained on WMT2017 data plus a selection of paracrawl.</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">44.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">44.4</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.441</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.676</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.391</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5788">MMT contrastive 2</a>&nbsp;
+		    <i><a href="/systems/show/3587">(Details)</a></i></td>
+		<td style="background-color: #00ACC1">nicolabertoldi<br/><i>MMT srl</i></td>
+		<td width="150">Transformer-based neural MT; single model, single pass decoding.</td>
+                <td width="40">yes</td> 
+		<td width="150">Trained on a filtered version of the supplied data.</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">44.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">44.2</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_failed">failed</p>
+              
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.673</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.399</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5776">JHU</a>&nbsp;
+		    <i><a href="/systems/show/3467">(Details)</a></i></td>
+		<td style="background-color: #0AA803">jhu-nmt<br/><i>Johns Hopkins University</i></td>
+		<td width="150">Marian Deep RNN</td>
+                <td width="40">yes</td> 
+		<td width="150">Contrastive run, fine-tuned to previous test sets (but not R2L reranking)</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.4</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.448</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.672</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.391</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5703">JHU</a>&nbsp;
+		    <i><a href="/systems/show/3467">(Details)</a></i></td>
+		<td style="background-color: #0AA803">jhu-nmt<br/><i>Johns Hopkins University</i></td>
+		<td width="150">Marian Deep RNN</td>
+                <td width="40">yes</td> 
+		<td width="150">Marian deep model, ensemble of 4 runs using base data (without Paracrawl), re-back-translated news 2016. R2L Reranking. Primary.</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">44.0</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.4</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.449</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.672</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.392</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5773">uedin-en-de-single-transformer-reranked</a>&nbsp;
+		    <i><a href="/systems/show/3582">(Details)</a></i></td>
+		<td style="background-color: #cccccc">ugermann<br/><i>University of Edinburgh</i></td>
+		<td width="150">Single transformer, reranked with two R2L transformers.</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.8</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.2</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.450</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.669</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.397</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5643">JHU</a>&nbsp;
+		    <i><a href="/systems/show/3467">(Details)</a></i></td>
+		<td style="background-color: #0AA803">jhu-nmt<br/><i>Johns Hopkins University</i></td>
+		<td width="150">Marian Deep RNN</td>
+                <td width="40">yes</td> 
+		<td width="150">Marian deep model, ensemble of 4 runs using base data (without Paracrawl), re-back-translated news 2016. Not final system yet.</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">43.0</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.453</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.670</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.394</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5571">MMT contrastive</a>&nbsp;
+		    <i><a href="/systems/show/3444">(Details)</a></i></td>
+		<td style="background-color: #00ACC1">nicolabertoldi<br/><i>MMT srl</i></td>
+		<td width="150">Transformer-based neural MT; single model, single pass decoding. </td>
+                <td width="40">yes</td> 
+		<td width="150">Trained on a filtered version of the supplied data. German de-compounding applied.</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">42.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">42.5</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.463</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.667</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.411</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5765">uedin-en-de-2+2-transformer</a>&nbsp;
+		    <i><a href="/systems/show/3579">(Details)</a></i></td>
+		<td style="background-color: #cccccc">ugermann<br/><i>University of Edinburgh</i></td>
+		<td width="150">2 transformers ensembled, reranked with 2 R2L systems. Include paracrawl</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">42.3</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">41.8</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.463</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.663</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.405</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5741">LMU-nmt-reranked-wmt18-en-de</a>&nbsp;
+		    <i><a href="/systems/show/3562">(Details)</a></i></td>
+		<td style="background-color: #008244">Matthias.Huck<br/><i>LMU Munich</i></td>
+		<td width="150">Nematus encoder-decoder NMT (single model + r2l reranking), like last year</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">40.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">40.0</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.480</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.655</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.421</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5408">NJUNMT</a>&nbsp;
+		    <i><a href="/systems/show/3332">(Details)</a></i></td>
+		<td style="background-color: #cccccc">ZhaoChengqi<br/><i>Nanjing University</i></td>
+		<td width="150">transformer base without back translation</td>
+                <td width="40">yes</td> 
+		<td width="150">transformer base without back translation</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">40.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">40.0</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.496</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.647</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.436</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5716">LMU-nmt-single-wmt18-en-de</a>&nbsp;
+		    <i><a href="/systems/show/3539">(Details)</a></i></td>
+		<td style="background-color: #008244">Matthias.Huck<br/><i>LMU Munich</i></td>
+		<td width="150">Nematus encoder-decoder NMT (single model), like last year</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">39.3</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">38.8</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.492</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.647</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.433</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5862">parfda</a>&nbsp;
+		    <i><a href="/systems/show/3604">(Details)</a></i></td>
+		<td style="background-color: #FFFC73">bicici<br/><i></i></td>
+		<td width="150"></td>
+                <td width="40">yes</td> 
+		<td width="150">en-de using PRO for tuning</td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">27.3</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">26.7</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.620</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.591</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.570</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5871">Wink</a>&nbsp;
+		    <i><a href="/systems/show/3615">(Details)</a></i></td>
+		<td style="background-color: #3E0FD5">anything<br/><i>uni saarland</i></td>
+		<td width="150">Out-of-domain data</td>
+                <td width="40">no</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">22.3</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">21.9</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.706</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.540</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.741</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5651">LMU-unsupervised-nmt-wmt18-en-de</a>&nbsp;
+		    <i><a href="/systems/show/3506">(Details)</a></i></td>
+		<td style="background-color: #008244">Matthias.Huck<br/><i>LMU Munich</i></td>
+		<td width="150">Unsupervised NMT (no parallel training corpora)</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">15.8</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">15.5</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.762</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.500</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_failed">failed</p>
+              
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5484">RWTH Unsupervised NMT Ensemble</a>&nbsp;
+		    <i><a href="/systems/show/3384">(Details)</a></i></td>
+		<td style="background-color: #00A04D">yunsukim<br/><i>RWTH Aachen University</i></td>
+		<td width="150">(Unsupervised) Transformer with shared encoder/decoder, separate top-50k word vocabs, iterative back-translation, ensemble 4x</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">15.9</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">14.8</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.753</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.514</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.607</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5483">RWTH Unsupervised NMT Single</a>&nbsp;
+		    <i><a href="/systems/show/3383">(Details)</a></i></td>
+		<td style="background-color: #00A04D">yunsukim<br/><i>RWTH Aachen University</i></td>
+		<td width="150">(Unsupervised) Transformer with shared encoder/decoder, separate top-50k word vocabs, iterative back-translation</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">15.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">14.5</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.758</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.510</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.615</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="odd">
+		<td><a href="/matrix/output/1881?run_id=5725">LMU-unsupervised-pbt-wmt18-en-de</a>&nbsp;
+		    <i><a href="/systems/show/3547">(Details)</a></i></td>
+		<td style="background-color: #008244">Matthias.Huck<br/><i>LMU Munich</i></td>
+		<td width="150">Unsupervised (no parallel training corpora), BWEs + PBT</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">14.6</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">14.3</p>
+            </td>
+            
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.791</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.518</p>
+            </td>
+            
+			
+		
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+           
+            <td>
+              <p class="score_completed">0.627</p>
+            </td>
+            
+			
+		
+  </tr>
+
+	<tr class="even">
+		<td><a href="/matrix/output/1881?run_id=5973">Ubiqus-NMT</a>&nbsp;
+		    <i><a href="/systems/show/3640">(Details)</a></i></td>
+		<td style="background-color: #F50C3A">vince62s<br/><i>Ubiqus</i></td>
+		<td width="150">Base transformer
+Include a selection of Paracrawl
+Include WMT16 Rico's BackT</td>
+                <td width="40">yes</td> 
+		<td width="150"></td>
+		
+		
+      
+        
+			
+		
+      
+        
+			
+		
+      
+		
+      
+		
+      
+		
+      
+        
+			
+		
+      
+        
+			
+		
+      
+        
+			
+		
+  </tr>
+
+</table>
+
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9722437-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>
