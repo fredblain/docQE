@@ -25,8 +25,10 @@ NEWTESTS = '../newstests/newstest'
 SYSTEMS = '../systems/'
 ODIR = '../filelists-and-doc-scores/'
 
-YEARS = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']#, '2019']
-LPs = {'german-english':['de','en'], 'english-russian':['en','ru'], 'english-french':['en','fr'], 'english-spanish':['en','es'], 'english-german':['en','de']}
+# YEARS = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']
+# LPs = {'german-english':['de','en'], 'english-russian':['en','ru'], 'english-french':['en','fr'], 'english-spanish':['en','es'], 'english-german':['en','de']}
+YEARS = ['2020']
+LPs = {'chinese-english':['zh','en']}
 # we filter best and worse systems for each year:
 # FILTERED_SYS = { \
 #         '2008':[], \
@@ -54,6 +56,7 @@ FILTERED_SYS = { \
         '2017':['newstest2017.uedin-nmt.4756.en-ru','newstest2017.PROMT-Rule-based.4736.en-ru','newstest2017.uedin-nmt.4722.en-de','newstest2017.PROMT-Rule-based.4735.en-de'], \
         '2018':['newstest2018.Microsoft-Marian.5691.en-de','newstest2018.RWTH-UNSUPER.5484.en-de','newstest2018.Alibaba-ensemble-model.5713.en-ru','newstest2018.PROMT-Hybrid-OpenNMT.5654.en-ru'], \
         '2019':['newstest2019.MSRA.MADL.6926.en-de','newstest2019.TartuNLP-c.6508.en-de','newstest2019.Facebook_FAIR.6724.en-ru','newstest2019.NICT.6563.en-ru'], \
+        '2020':[], \
         }
 
 if not os.path.exists(ODIR):
@@ -76,7 +79,7 @@ for year in YEARS:
                             filtered = True
                         else:
                             filtered = False
-                        # print("processing {} ...".format(system_name))
+                        print("processing {} ...".format(system_name))
                         sys_dir = lp_dir + '/' + system_name
                         doc_list = [f for f in os.listdir(sys_dir) if isfile(join(sys_dir, f)) and not f.endswith(".bleu")]
                         for doc in doc_list:
